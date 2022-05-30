@@ -1,32 +1,43 @@
 <template>
-  <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
-    <router-view />
-  </div>
+  <v-app>
+    <v-app-bar app color="primary" dark>
+      <v-app-bar-nav-icon @click="state.isShowDrawer = true" />
+      <v-toolbar-title @click="$router.push('/')" style="cursor: pointer"
+        >Luciferous Ryza Tools</v-toolbar-title
+      >
+    </v-app-bar>
+    <v-navigation-drawer v-model="state.isShowDrawer" absolute temporary>
+      <v-list nav>
+        <v-list-item-group>
+          <router-link to="/ryza1/synthesis-tree">
+            <v-list-item>
+              <v-list-item-title>調合アイテムツリー: ライザ1</v-list-item-title>
+            </v-list-item>
+          </router-link>
+        </v-list-item-group>
+      </v-list>
+    </v-navigation-drawer>
+    <v-main>
+      <router-view />
+    </v-main>
+  </v-app>
 </template>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+<script lang="ts">
+import { defineComponent, reactive } from "@vue/composition-api";
 
-nav {
-  padding: 30px;
-}
+type State = {
+  isShowDrawer: boolean;
+};
 
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-nav a.router-link-exact-active {
-  color: #42b983;
-}
-</style>
+export default defineComponent({
+  setup(_props, _context) {
+    const state = reactive<State>({
+      isShowDrawer: false,
+    });
+    return {
+      state,
+    };
+  },
+});
+</script>
