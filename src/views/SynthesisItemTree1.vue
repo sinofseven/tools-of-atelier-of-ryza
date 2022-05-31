@@ -33,14 +33,26 @@
                   <v-breadcrumbs
                     :items="convertToBreadCrumbs(item)"
                     divider="->"
-                  />
+                  >
+                    <template v-slot:item="{ item }">
+                      <v-breadcrumbs-item :href="item.href" target="_blank">{{
+                        item.text
+                      }}</v-breadcrumbs-item>
+                    </template>
+                  </v-breadcrumbs>
                 </li>
               </ul>
             </v-expansion-panel-content>
           </v-expansion-panel>
           <v-expansion-panel v-for="(list, index) in tree" :key="index">
             <v-expansion-panel-header color="blue lighten-3">
-              <v-breadcrumbs divider="->" :items="convertToBreadCrumbs(list)" />
+              <v-breadcrumbs :items="convertToBreadCrumbs(list)" divider="->">
+                <template v-slot:item="{ item }">
+                  <v-breadcrumbs-item :href="item.href" target="_blank">{{
+                    item.text
+                  }}</v-breadcrumbs-item>
+                </template>
+              </v-breadcrumbs>
             </v-expansion-panel-header>
             <v-expansion-panel-content color="blue lighten-5">
               <v-list style="margin-top: 0.8rem">
@@ -130,6 +142,7 @@ type TreeNode = {
 
 type BreadCrumb = {
   text: string;
+  href?: string;
 };
 
 export default defineComponent({
@@ -184,13 +197,12 @@ export default defineComponent({
     };
     const convertToBreadCrumbs = (list: TreeNode[]): BreadCrumb[] => {
       return list.map((item) => {
-        let text = item.itemName;
+        const result: BreadCrumb = { text: item.itemName };
         if (item.needItemName != null) {
-          text += ` (${item.needItemName})`;
+          result.text += ` (${item.needItemName})`;
+          result.href = `${context.root.$route.path}?name=${item.itemName}`;
         }
-        return {
-          text,
-        };
+        return result;
       });
     };
     const tree = computed(() => {
