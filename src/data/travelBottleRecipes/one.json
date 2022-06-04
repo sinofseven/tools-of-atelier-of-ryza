@@ -1,0 +1,6232 @@
+{
+  "recipes": [
+    {
+      "password": "AACA",
+      "level": 62,
+      "items": ["ナナホシ", "古びた魔導書"],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AACR",
+      "level": 56,
+      "items": ["翡翠の煌水", "清水の白姫"],
+      "enemies": ["悠久の守り手", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "AADC",
+      "level": 47,
+      "items": ["マグネマルモア", "スピアワーム"],
+      "enemies": ["フラワーガーデナー", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "AADE",
+      "level": 34,
+      "items": ["ヤギミルク", "若木の枝葉"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "AADM",
+      "level": 70,
+      "items": ["こんがりきのこ", "狂気の毒槍"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "AADN",
+      "level": 35,
+      "items": ["ヴァッサ麦", "アクア鉱"],
+      "enemies": ["赤ぷに", "黒ぷに", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AADP",
+      "level": 32,
+      "items": ["若木の枝葉", "万年魚"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "AADR",
+      "level": 51,
+      "items": ["泡立つ水", "パルマ樹皮"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "AADW",
+      "level": 5,
+      "items": ["小さな晶石", "フレスベリー"],
+      "enemies": ["赤ぷに", "黒ぷに", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AAD0",
+      "level": 90,
+      "items": ["清水の白姫", "デスグリーフ"],
+      "enemies": ["クラストビートル"],
+      "annotations": []
+    },
+    {
+      "password": "AAEF",
+      "level": 31,
+      "items": ["金のハチの巣", "メイプル樹皮"],
+      "enemies": ["花の精", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "AAGG",
+      "level": 42,
+      "items": ["汚染された腐葉土", "魔獣の毒袋"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "AAI3",
+      "level": 76,
+      "items": ["清水の白姫", "クミネの毒液"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "AAJ6",
+      "level": 19,
+      "items": ["キノコパウダー", "ぷにぷに玉・黒"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "AALM",
+      "level": 38,
+      "items": ["コゲクサ", "自然油"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "AAMF",
+      "level": 25,
+      "items": ["ハニーアント", "魔獣の背ビレ"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "AAMH",
+      "level": 45,
+      "items": ["エメラルドグラス", "自然油"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "AAM4",
+      "level": 40,
+      "items": ["大きな骨", "聖樹の葉"],
+      "enemies": ["花の精", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AAOP",
+      "level": 50,
+      "items": ["祝福の清花", "肥沃な土壌"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "AAO8",
+      "level": 47,
+      "items": ["焔の黒砂", "幻獣の毛皮"],
+      "enemies": ["ゴールドぷに", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "AAQE",
+      "level": 62,
+      "items": ["デルフィローズ", "アクア鉱"],
+      "enemies": ["赤ぷに", "黒ぷに", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AARC",
+      "level": 59,
+      "items": ["彗星岩", "ラピス・パピヨン"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "AARG",
+      "level": 41,
+      "items": ["銀のハチの巣", "灯篭ホタル"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AARK",
+      "level": 67,
+      "items": ["デルフィローズ", "ぷにぷに玉・緑"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "AAR6",
+      "level": 74,
+      "items": ["ゴルディナイト", "大きな骨"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "AAST",
+      "level": 50,
+      "items": ["スイートリーフ", "シャボン草"],
+      "enemies": ["ブルーフィン", "シルキーファー", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "AAUR",
+      "level": 39,
+      "items": ["クミネの毒液", "マグネマルモア"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AAUZ",
+      "level": 52,
+      "items": ["幸せクローバー", "マグネマルモア"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "AAVB",
+      "level": 65,
+      "items": ["燃える砂", "魔獣の背ビレ"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AAWK",
+      "level": 37,
+      "items": ["洞窟サンゴ", "巨獣の化石"],
+      "enemies": ["悠久の守り手", "ジュエルガード", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AA1V",
+      "level": 65,
+      "items": ["エーテルアクア", "灯篭ホタル"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AA2O",
+      "level": 55,
+      "items": ["スピアワーム", "腐木の毒霧"],
+      "enemies": ["イルミネイトシルフ", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "AA3D",
+      "level": 37,
+      "items": ["マグマパウダー", "魔石の欠片"],
+      "enemies": ["ゴールドぷに", "花の精", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AA33",
+      "level": 56,
+      "items": ["追憶の霧花", "パルマ樹皮"],
+      "enemies": ["ナイトハンター", "フラワーガーデナー", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "AA35",
+      "level": 46,
+      "items": ["ペントナイト", "スピリットフェザー"],
+      "enemies": ["イルミネイトシルフ", "ロックパペット", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "AA6J",
+      "level": 49,
+      "items": ["大貝の白玉", "灯篭ホタル"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "AA6O",
+      "level": 55,
+      "items": ["洞窟サンゴ", "魔獣の甲殻"],
+      "enemies": ["悠久の守り手", "ジュエルガード", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AA8J",
+      "level": 33,
+      "items": ["七色葡萄", "シゾール"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "AA8K",
+      "level": 45,
+      "items": ["古代樹の枝", "うに"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "AA8N",
+      "level": 17,
+      "items": ["森の賢人", "エグゾフィッシュ"],
+      "enemies": ["イルミネイトシルフ", "ウィンドフェザー"],
+      "annotations": []
+    },
+    {
+      "password": "AA9J",
+      "level": 41,
+      "items": ["エメラルドグラス", "ヘビの抜け殻"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "ABBG",
+      "level": 82,
+      "items": ["森の賢人", "パルマの実"],
+      "enemies": ["ナイトハンター", "フラワーガーデナー", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "ABCL",
+      "level": 70,
+      "items": ["マグマパウダー", "異界のぬし"],
+      "enemies": ["スパインラット", "オーガヘッド", "影の尖兵"],
+      "annotations": []
+    },
+    {
+      "password": "ABDR",
+      "level": 50,
+      "items": ["異界の腐木", "腐木の毒霧"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "ABD1",
+      "level": 63,
+      "items": ["砂石", "メイスフィッシュ"],
+      "enemies": ["赤ぷに", "黒ぷに", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ABE1",
+      "level": 63,
+      "items": ["イナズマ鉱", "香る蜜木"],
+      "enemies": ["黒ぷに", "花の精", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ABE8",
+      "level": 38,
+      "items": ["アマタイト鉱", "ウィングプラント"],
+      "enemies": ["黒ぷに", "花の精", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ABGA",
+      "level": 48,
+      "items": ["パルマの実", "ラピス・パピヨン"],
+      "enemies": ["ブルーフィン", "シルキーファー", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "ABGL",
+      "level": 45,
+      "items": ["水辺の苔石", "翼竜のタマゴ"],
+      "enemies": ["イルミネイトシルフ", "ロックパペット", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "ABGN",
+      "level": 68,
+      "items": ["ランタン草", "怨嗟の叫び"],
+      "enemies": ["ブルーフィン", "花の精", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "ABGY",
+      "level": 41,
+      "items": ["祝福の清花", "ハチの巣"],
+      "enemies": ["青ぷに", "オオイタチ", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "ABHB",
+      "level": 28,
+      "items": ["フレスベリー", "甘露の実"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "ABHP",
+      "level": 90,
+      "items": ["デルフィローズ", "七煌原石"],
+      "enemies": ["オーガヘッド", "影の尖兵", "常闇の将軍"],
+      "annotations": []
+    },
+    {
+      "password": "ABHQ",
+      "level": 56,
+      "items": ["マダラ石", "こんがりきのこ"],
+      "enemies": ["黒ぷに", "花の精", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ABHS",
+      "level": 64,
+      "items": ["ナナシ草", "狂気の毒槍"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "ABH8",
+      "level": 65,
+      "items": ["よく燃える樹皮", "ゴールデンクラウン"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "ABLS",
+      "level": 34,
+      "items": ["セキネツ鉱", "ぷにぷに玉・黒"],
+      "enemies": ["赤ぷに", "黒ぷに", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ABL8",
+      "level": 78,
+      "items": ["正体不明の原石", "七煌原石"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "ABMJ",
+      "level": 43,
+      "items": ["植物エキス", "アブラ木の実"],
+      "enemies": ["イルミネイトシルフ", "ウィンドフェザー"],
+      "annotations": []
+    },
+    {
+      "password": "ABMK",
+      "level": 34,
+      "items": ["紅草", "コベリナイト"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "ABM1",
+      "level": 39,
+      "items": ["サンゴ石", "モルディナイト"],
+      "enemies": ["悠久の守り手", "ジュエルガード", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ABM6",
+      "level": 43,
+      "items": ["コゲクサ", "ぷにぷに玉・黒"],
+      "enemies": ["悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "ABN6",
+      "level": 60,
+      "items": ["群体きのこ", "聖樹の大枝"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "ABOH",
+      "level": 36,
+      "items": ["安らぎの花", "ユピトピニオン"],
+      "enemies": ["シルキーファー", "ナイトハンター", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "ABPY",
+      "level": 36,
+      "items": ["風化した石材", "イナズマ鉱"],
+      "enemies": ["黒ぷに", "花の精", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ABP2",
+      "level": 9,
+      "items": ["サルディン", "苔むした流木"],
+      "enemies": ["青ぷに", "ミニワイバーン", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "ABP6",
+      "level": 34,
+      "items": ["アマタイト鉱", "異界のコア"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "ABRI",
+      "level": 48,
+      "items": ["パルマ黒炭", "トゲトゲ"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "ABRV",
+      "level": 45,
+      "items": ["水辺の苔石", "シゾール"],
+      "enemies": ["イルミネイトシルフ", "ロックパペット", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "ABRW",
+      "level": 94,
+      "items": ["翡翠の煌水", "ぷにぷに玉・金"],
+      "enemies": ["悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "ABR8",
+      "level": 52,
+      "items": ["アンバーフライ", "ぷにぷに玉・銀"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "ABTV",
+      "level": 86,
+      "items": ["メイプルリーフ", "異界のぬし"],
+      "enemies": ["ナイトハンター", "フラワーガーデナー", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "ABTZ",
+      "level": 49,
+      "items": ["甘露の実", "腐木の毒霧"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "ABUA",
+      "level": 94,
+      "items": ["泡立つ水", "化石樹"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "ABUD",
+      "level": 54,
+      "items": ["安らぎの花", "腐木の樹皮"],
+      "enemies": ["シルキーファー", "ナイトハンター", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "ABVH",
+      "level": 76,
+      "items": ["クミネの毒液", "聖樹結晶"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "ABVR",
+      "level": 24,
+      "items": ["銀うに", "スピリットフェザー"],
+      "enemies": ["ブルーフィン", "花の精", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "ABVX",
+      "level": 29,
+      "items": ["銀うに", "ぷにぷに玉・緑"],
+      "enemies": ["ブルーフィン", "シルキーファー", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "ABV7",
+      "level": 45,
+      "items": ["クミネの実", "聖樹の葉"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "ABW5",
+      "level": 47,
+      "items": ["ロテスヴァッサ鉱水", "ぷにぷに玉・黒"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "ABW9",
+      "level": 49,
+      "items": ["パルマ", "魔獣の鱗"],
+      "enemies": ["フラワーガーデナー", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "ABYL",
+      "level": 8,
+      "items": ["ヴァッサ麦", "陽気な蜜花"],
+      "enemies": ["青ぷに", "緑ぷに", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "ABZT",
+      "level": 56,
+      "items": ["デスグリーフ", "ラピス・パピヨン"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "ABZ3",
+      "level": 41,
+      "items": ["焔の黒砂", "ハチの巣"],
+      "enemies": ["青ぷに", "オオイタチ", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "AB1S",
+      "level": 66,
+      "items": ["植物エキス", "スピリットフェザー"],
+      "enemies": ["イルミネイトシルフ", "ウィンドフェザー"],
+      "annotations": []
+    },
+    {
+      "password": "AB2U",
+      "level": 56,
+      "items": ["三つ子トーン", "水辺の苔石"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "AB43",
+      "level": 36,
+      "items": ["大貝の白玉", "フレスベリー"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "AB8R",
+      "level": 37,
+      "items": ["黄金うに", "-"],
+      "enemies": ["スティンガー", "シャープシザーズ", "シャープシザーズ"],
+      "annotations": []
+    },
+    {
+      "password": "AB8S",
+      "level": 37,
+      "items": ["ランタン草", "きれいな貝殻"],
+      "enemies": ["青ぷに", "ミニワイバーン", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "AB93",
+      "level": 29,
+      "items": ["大きな羽根", "狂気の毒槍"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "ACAF",
+      "level": 37,
+      "items": ["洞窟サンゴ", "焔の黒砂"],
+      "enemies": ["悠久の守り手", "ジュエルガード", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ACAV",
+      "level": 49,
+      "items": ["ヘビの抜け殻", "魔獣の鱗"],
+      "enemies": ["フラワーガーデナー", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "ACAW",
+      "level": 18,
+      "items": ["汚染された腐葉土", "魔石の欠片"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "ACBZ",
+      "level": 56,
+      "items": ["食毒草", "三つ子トーン"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "ACEO",
+      "level": 60,
+      "items": ["新鮮な肉", "魔獣の鱗"],
+      "enemies": ["悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "ACEX",
+      "level": 19,
+      "items": ["キノコパウダー", "翼竜の翼"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "ACGI",
+      "level": 35,
+      "items": ["紙くず", "異界のコア"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "ACGO",
+      "level": 32,
+      "items": ["彗星岩", "綿毛草"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "ACJE",
+      "level": 25,
+      "items": ["香る蜜木", "ぷにぷに玉・青"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "ACJ3",
+      "level": 23,
+      "items": ["ヴァッサ麦", "ランタン草"],
+      "enemies": ["ブルーフィン", "花の精", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "ACJ4",
+      "level": 96,
+      "items": ["ゴールデンクラウン", "ラピス・パピヨン"],
+      "enemies": ["ゴールドぷに", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "ACKC",
+      "level": 64,
+      "items": ["変異トーン", "湖底のぬし"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "ACKI",
+      "level": 50,
+      "items": ["夢見るきのこ", "異界の腐木"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "ACKR",
+      "level": 65,
+      "items": ["デスグリーフ", "風化した石材"],
+      "enemies": ["花の精", "ストーンゴーレム", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ACLC",
+      "level": 12,
+      "items": ["アマタイト鉱", "オオカブト"],
+      "enemies": ["黒ぷに", "花の精", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ACLV",
+      "level": 23,
+      "items": ["彗星岩", "自然油"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "ACML",
+      "level": 45,
+      "items": ["古代樹の枝", "魔獣の毒袋"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "ACNC",
+      "level": 35,
+      "items": ["クミネの実", "ウィングプラント"],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "ACNW",
+      "level": 60,
+      "items": ["腐木の樹皮", "万年魚"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "ACPN",
+      "level": 63,
+      "items": ["砂石", "魔獣の背ビレ"],
+      "enemies": ["赤ぷに", "黒ぷに", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ACPY",
+      "level": 29,
+      "items": ["大貝の白玉", "エグゾフィッシュ"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "ACRG",
+      "level": 22,
+      "items": ["何かのタマゴ", "灯篭ホタル"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "ACS9",
+      "level": 63,
+      "items": ["パルマ黒炭", "サルディン"],
+      "enemies": ["青ぷに", "ミニワイバーン", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "ACT7",
+      "level": 35,
+      "items": ["紙くず", "ハチの巣"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "ACVD",
+      "level": 54,
+      "items": ["琥珀の欠片", "パルマ"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "ACXD",
+      "level": 66,
+      "items": ["コベリナイト", "マグマパウダー"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ACYJ",
+      "level": 37,
+      "items": ["うに", "メイプル樹皮"],
+      "enemies": ["悠久の守り手", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "ACYN",
+      "level": 37,
+      "items": ["コベリナイト", "セプトリエン"],
+      "enemies": ["常闇の将軍", "クラストビートル"],
+      "annotations": []
+    },
+    {
+      "password": "ACYS",
+      "level": 69,
+      "items": ["ローゼンリーフ", "マグネマルモア"],
+      "enemies": ["フラワーガーデナー", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "ACZE",
+      "level": 22,
+      "items": ["フラムドラグーン", "ぷにぷに玉・青"],
+      "enemies": ["イルミネイトシルフ", "ゴーストアーマー", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "ACZO",
+      "level": 7,
+      "items": ["北風の花", "束縛する鋼糸"],
+      "enemies": ["青ぷに", "緑ぷに", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "AC04",
+      "level": 53,
+      "items": ["鍾乳石の欠片", "ぷにぷに玉・銀"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "AC1L",
+      "level": 94,
+      "items": ["翡翠の煌水", "森の賢人"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "AC12",
+      "level": 43,
+      "items": ["食毒草", "化石樹"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "AC2M",
+      "level": 40,
+      "items": ["スカイバブル", "大きな骨"],
+      "enemies": ["花の精", "ストーンゴーレム", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AC21",
+      "level": 52,
+      "items": ["幸せクローバー", "腐木の樹皮"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "AC33",
+      "level": 12,
+      "items": ["コゲクサ", "ユピトピニオン"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "AC4C",
+      "level": 25,
+      "items": ["ナナホシ", "香る蜜木"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "AC4J",
+      "level": 30,
+      "items": ["金のハチの巣", "ぷにぷに玉・青"],
+      "enemies": ["シャープシザーズ", "パイルバンカー", "渇きの悪魔"],
+      "annotations": []
+    },
+    {
+      "password": "AC56",
+      "level": 11,
+      "items": ["白灰砂", "アマタイト鉱"],
+      "enemies": ["ゴールドぷに", "花の精", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AC66",
+      "level": 70,
+      "items": ["きれいな貝殻", "贖罪の大針"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "AC8B",
+      "level": 8,
+      "items": ["陽気な蜜花", "マグネマルモア"],
+      "enemies": ["青ぷに", "緑ぷに", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "ADBD",
+      "level": 50,
+      "items": ["白霊岩", "アンバーフライ"],
+      "enemies": ["スパインラット", "オーガヘッド", "影の尖兵"],
+      "annotations": []
+    },
+    {
+      "password": "ADEZ",
+      "level": 59,
+      "items": ["ぷにぷに玉・黒", "翼竜のタマゴ"],
+      "enemies": ["悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "ADFV",
+      "level": 40,
+      "items": ["森の賢人", "翼竜の翼"],
+      "enemies": ["悠久の守り手", "ジュエルガード", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ADH6",
+      "level": 37,
+      "items": ["白灰砂", "メイスフィッシュ"],
+      "enemies": ["ゴールドぷに", "花の精", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "ADJ0",
+      "level": 66,
+      "items": ["キノコパウダー", "パルマの実"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "ADMF",
+      "level": 23,
+      "items": ["モルディナイト", "自然油"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "ADMS",
+      "level": 98,
+      "items": ["ドンケルハイト", "パルマの実"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "ADNM",
+      "level": 19,
+      "items": ["エメラルドグラス", "アブラ木の実"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "ADN8",
+      "level": 9,
+      "items": ["フレスベリー", "魔獣の甲殻"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "ADQB",
+      "level": 42,
+      "items": ["食毒草", "シュラブ"],
+      "enemies": ["イルミネイトシルフ", "ウィンドフェザー"],
+      "annotations": []
+    },
+    {
+      "password": "ADRB",
+      "level": 55,
+      "items": ["食毒草", "メイプル樹皮"],
+      "enemies": ["悠久の守り手", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "ADRZ",
+      "level": 53,
+      "items": ["スピアワーム", "異界のコア"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "ADR8",
+      "level": 41,
+      "items": ["洞窟サンゴ", "焔の黒砂"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ADSM",
+      "level": 20,
+      "items": ["丈夫なつる", "丈夫な丸太"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "ADS3",
+      "level": 6,
+      "items": ["やわらかい砂", "束縛する鋼糸"],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "ADT2",
+      "level": 62,
+      "items": ["三つ子トーン", "セキネツ鉱"],
+      "enemies": ["赤ぷに", "黒ぷに", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ADT4",
+      "level": 90,
+      "items": ["クスリゴケ", "湖底のぬし"],
+      "enemies": ["悠久の守り手", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "ADUI",
+      "level": 26,
+      "items": ["食毒草", "水辺の苔石"],
+      "enemies": ["ブルーフィン", "シルキーファー", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "ADU5",
+      "level": 44,
+      "items": ["オオカブト", "フラムドラグーン"],
+      "enemies": ["イルミネイトシルフ", "ゴーストアーマー", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "ADVD",
+      "level": 78,
+      "items": ["マグマパウダー", "自然油"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "ADV1",
+      "level": 54,
+      "items": ["安らぎの花", "クスリゴケ"],
+      "enemies": ["シルキーファー", "ナイトハンター", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "ADXM",
+      "level": 70,
+      "items": ["エーテルアクア", "大貝の白玉"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "ADXR",
+      "level": 63,
+      "items": ["クーケンフルーツ", "異界のぬし"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "ADX3",
+      "level": 67,
+      "items": ["泡立つ水", "スピリットフラワー"],
+      "enemies": ["ブルーフィン", "花の精", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "ADYC",
+      "level": 60,
+      "items": ["七煌原石", "ハチの巣"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ADZA",
+      "level": 56,
+      "items": ["追憶の霧花", "燃える砂"],
+      "enemies": ["ナイトハンター", "フラワーガーデナー", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "ADZ7",
+      "level": 51,
+      "items": ["パルマ樹皮", "万年魚"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "AD0W",
+      "level": 96,
+      "items": ["ラピス・パピヨン", "スカイバブル"],
+      "enemies": ["ゴールドぷに", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "AD03",
+      "level": 30,
+      "items": ["古き騎士の紋章", "竜肉"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "AD09",
+      "level": 41,
+      "items": ["灯篭ホタル", "巨獣の化石"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AD1Q",
+      "level": 36,
+      "items": ["清水の白姫", "銀のハチの巣"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "AD1V",
+      "level": 45,
+      "items": ["パルマの実", "聖樹の葉"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "AD3E",
+      "level": 8,
+      "items": ["トーン", "ウィングプラント"],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AD3K",
+      "level": 55,
+      "items": ["洞窟サンゴ", "ラピス・パピヨン"],
+      "enemies": ["悠久の守り手", "ジュエルガード", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AD3V",
+      "level": 41,
+      "items": ["風化した石材", "ペントナイト"],
+      "enemies": ["花の精", "ストーンゴーレム", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AD44",
+      "level": 50,
+      "items": ["肥沃な土壌", "ぷにぷに玉・黒"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "AD6J",
+      "level": 60,
+      "items": ["万年魚", "ぷにぷに玉・黒"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "AD7A",
+      "level": 30,
+      "items": ["ローゼンリーフ", "燃える砂"],
+      "enemies": ["渇きの悪魔", "常闇の斥候", "スパインラット"],
+      "annotations": []
+    },
+    {
+      "password": "AD8H",
+      "level": 42,
+      "items": ["オオカブト", "束縛する鋼糸"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "AD9F",
+      "level": 67,
+      "items": ["丈夫なつる", "土魚の暴牙"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "AD9W",
+      "level": 47,
+      "items": ["ロテスヴァッサ鉱水", "アオツメクサ"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "AD91",
+      "level": 62,
+      "items": ["北風の花", "スピリットフェザー"],
+      "enemies": ["青ぷに", "緑ぷに", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "AEBL",
+      "level": 39,
+      "items": ["アイヒェロア", "森の賢人"],
+      "enemies": ["青ぷに", "オオイタチ", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "AEBV",
+      "level": 31,
+      "items": ["彗星岩", "琥珀の欠片"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "AEBY",
+      "level": 24,
+      "items": ["ヴァッサ麦", "スピリットフェザー"],
+      "enemies": ["ブルーフィン", "花の精", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "AECQ",
+      "level": 58,
+      "items": ["ゴールデンクラウン", "ヘビの抜け殻"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AEDX",
+      "level": 62,
+      "items": ["北風の花", "デスグリーフ"],
+      "enemies": ["青ぷに", "緑ぷに", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "AEEC",
+      "level": 35,
+      "items": ["クーケンフルーツ", "アンバーフライ"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AEEU",
+      "level": 50,
+      "items": ["白霊岩", "夢見るきのこ"],
+      "enemies": ["ジュエルガード", "メタルゴーレム", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AEEZ",
+      "level": 43,
+      "items": ["翡翠の煌水", "正体不明の原石"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AEGD",
+      "level": 41,
+      "items": ["翡翠の煌水", "アオツメクサ"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "AEGF",
+      "level": 51,
+      "items": ["聖樹結晶", "金のハチの巣"],
+      "enemies": ["花の精", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "AEGM",
+      "level": 39,
+      "items": ["琥珀水晶", "七色葡萄"],
+      "enemies": ["青ぷに", "オオイタチ", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "AEGU",
+      "level": 50,
+      "items": ["変異トーン", "異界の腐木"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "AEHE",
+      "level": 20,
+      "items": ["病忘れの花", "丈夫なつる"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "AEHM",
+      "level": 37,
+      "items": ["ヴァッサ麦", "洞窟サンゴ"],
+      "enemies": ["悠久の守り手", "ジュエルガード", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AEHS",
+      "level": 37,
+      "items": ["鍾乳石の欠片", "魔石の欠片"],
+      "enemies": ["ゴールドぷに", "花の精", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AEIQ",
+      "level": 24,
+      "items": ["大貝の白玉", "スピリットフェザー"],
+      "enemies": ["ブルーフィン", "花の精", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "AEKL",
+      "level": 43,
+      "items": ["ロテスヴァッサ鉱水", "正体不明の原石"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AEKO",
+      "level": 26,
+      "items": ["腐木の樹皮", "ローズビー"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "AELH",
+      "level": 28,
+      "items": ["森の賢人", "甘露の実"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "AELK",
+      "level": 72,
+      "items": ["トーン", "スカイバブル"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "AELX",
+      "level": 63,
+      "items": ["陽気な蜜花", "こんがりきのこ"],
+      "enemies": ["青ぷに", "緑ぷに", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "AEMD",
+      "level": 52,
+      "items": ["パルマ黒炭", "アンバーフライ"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AENZ",
+      "level": 53,
+      "items": ["怨嗟の叫び", "銀のハチの巣"],
+      "enemies": ["シルキーファー", "ナイトハンター", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "AEOG",
+      "level": 8,
+      "items": ["クーケンフルーツ", "アブラ木の実"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "AEOO",
+      "level": 38,
+      "items": ["アマタイト鉱", "プルムル"],
+      "enemies": ["青ぷに", "ミニワイバーン", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "AESJ",
+      "level": 23,
+      "items": ["水辺の苔石", "ぷにぷに玉・青"],
+      "enemies": ["イルミネイトシルフ", "ロックパペット", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "AESO",
+      "level": 42,
+      "items": ["シュラブ", "魔獣の背ビレ"],
+      "enemies": ["イルミネイトシルフ", "ウィンドフェザー"],
+      "annotations": []
+    },
+    {
+      "password": "AES5",
+      "level": 44,
+      "items": ["シュラブ", "ヘビの抜け殻"],
+      "enemies": ["イルミネイトシルフ", "ロックパペット", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "AET0",
+      "level": 47,
+      "items": ["マグネマルモア", "スピリットフラワー"],
+      "enemies": ["フラワーガーデナー", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "AET6",
+      "level": 54,
+      "items": ["泡立つ水", "メイスフィッシュ"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "AET8",
+      "level": 33,
+      "items": ["ナナシ草", "巨獣の化石"],
+      "enemies": ["青ぷに", "緑ぷに", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "AEUE",
+      "level": 40,
+      "items": ["アオツメクサ", "メディウム薬骨"],
+      "enemies": ["悠久の守り手", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "AEUI",
+      "level": 51,
+      "items": ["若木の枝葉", "金のハチの巣"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "AEWN",
+      "level": 58,
+      "items": ["ゴールデンクラウン", "苔むした流木"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AEX5",
+      "level": 56,
+      "items": ["追憶の霧花", "スピリットフェザー"],
+      "enemies": ["ナイトハンター", "フラワーガーデナー", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "AEYH",
+      "level": 64,
+      "items": ["古代樹の枝", "サビついた剣"],
+      "enemies": ["黒ぷに", "花の精", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AEZJ",
+      "level": 54,
+      "items": ["クミネの毒液", "贖罪の大針"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "AE1O",
+      "level": 47,
+      "items": ["静寂の月花", "香る蜜木"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "AE11",
+      "level": 63,
+      "items": ["黄金うに", ""],
+      "enemies": ["スティンガー", "シャープシザーズ", "シャープシザーズ"],
+      "annotations": []
+    },
+    {
+      "password": "AE4I",
+      "level": 63,
+      "items": ["乾いた木くず", "湖底のぬし"],
+      "enemies": ["黒ぷに", "花の精", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AE4L",
+      "level": 63,
+      "items": ["うに", "夜光花"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "AE5E",
+      "level": 23,
+      "items": ["ナナシ草", "スカイバブル"],
+      "enemies": ["シルバーぷに", "ゴーストアーマー", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "AE5N",
+      "level": 33,
+      "items": ["きれいな水", "ケモノ肉"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "AE6D",
+      "level": 50,
+      "items": ["腐木の樹皮", "白霊岩"],
+      "enemies": ["スパインラット", "オーガヘッド", "影の尖兵"],
+      "annotations": []
+    },
+    {
+      "password": "AE6J",
+      "level": 68,
+      "items": ["セイタカトーン", "メディウム薬骨"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "AE7I",
+      "level": 45,
+      "items": ["メイプル樹皮", "スピリットフラワー"],
+      "enemies": ["ブルーフィン", "花の精", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "AE70",
+      "level": 35,
+      "items": ["ハニーアント", "香る蜜木"],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "AE72",
+      "level": 49,
+      "items": ["食毒草", "狂気の毒槍"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "AE88",
+      "level": 22,
+      "items": ["エメラルドグラス", "フラムドラグーン"],
+      "enemies": ["イルミネイトシルフ", "ゴーストアーマー", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "AE9E",
+      "level": 7,
+      "items": ["紙くず", "メイプル樹皮"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "AE9H",
+      "level": 69,
+      "items": ["琥珀水晶", "甘露の実"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "AE91",
+      "level": 82,
+      "items": ["汚染された腐葉土", "古代の石柱"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "AFA0",
+      "level": 86,
+      "items": ["メイプルリーフ", "エメラルドグラス"],
+      "enemies": ["ナイトハンター", "フラワーガーデナー", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "AFBL",
+      "level": 41,
+      "items": ["エメラルドグラス", "大きな骨"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "AFB1",
+      "level": 50,
+      "items": ["スイートリーフ", "ユピトピニオン"],
+      "enemies": ["ブルーフィン", "シルキーファー", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "AJRP",
+      "level": 68,
+      "items": ["金のハチの巣", "トライホーン"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "AKOZ",
+      "level": 28,
+      "items": ["ハチの巣", "魔獣の鱗"],
+      "enemies": ["フラワーガーデナー", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "AOW7",
+      "level": 19,
+      "items": ["アマタイト鉱", "正体不明の原石"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "ATED",
+      "level": 90,
+      "items": ["七煌原石", "翼竜の翼"],
+      "enemies": ["オーガヘッド", "影の尖兵", "常闇の将軍"],
+      "annotations": []
+    },
+    {
+      "password": "AXNZ",
+      "level": 54,
+      "items": ["創生の逆さ石", "ぷにぷに玉・赤"],
+      "enemies": ["花の精", "ストーンゴーレム", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "AZRW",
+      "level": 36,
+      "items": ["安らぎの花", "大貝の白玉"],
+      "enemies": ["シルキーファー", "ナイトハンター", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "BH5E",
+      "level": 14,
+      "items": ["ヤギミルク", "アイヒェロア"],
+      "enemies": ["青ぷに", "オオイタチ", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "BJXN",
+      "level": 34,
+      "items": ["紅草", "異界のコア"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "BLDE",
+      "level": 96,
+      "items": ["ラピス・パピヨン", "古びた魔導書"],
+      "enemies": ["ゴールドぷに", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "BLGR",
+      "level": 25,
+      "items": ["香る蜜木", "生ゴミ"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "BL6A",
+      "level": 26,
+      "items": ["ロテスヴァッサ鉱水", "闇水晶の欠片"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "BL9L",
+      "level": 27,
+      "items": ["クミネの実", "魔獣の甲殻"],
+      "enemies": ["フラワーガーデナー", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "BR3U",
+      "level": 52,
+      "items": ["巨獣の化石", "闇水晶の欠片"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "BSGR",
+      "level": 62,
+      "items": ["幻獣の毛皮", "聖石の欠片"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "BUPZ",
+      "level": 24,
+      "items": ["自然油", "こんがりきのこ"],
+      "enemies": ["イルミネイトシルフ", "ゴーストアーマー", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "BXB7",
+      "level": 98,
+      "items": ["ドンケルハイト", "ゴルディナイト"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "BZJI",
+      "level": 5,
+      "items": ["病忘れの花", "小さな晶石"],
+      "enemies": ["赤ぷに", "黒ぷに", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "B69U",
+      "level": 31,
+      "items": ["シャボン草", "よく燃える樹皮"],
+      "enemies": ["ブルーフィン", "シルキーファー", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "B8DL",
+      "level": 22,
+      "items": ["スピリットフラワー", "翼竜の翼"],
+      "enemies": ["ブルーフィン", "花の精", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "CA4K",
+      "level": 94,
+      "items": ["リバーストン", "化石樹"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "CFPN",
+      "level": 10,
+      "items": ["魔石の欠片", "闇水晶の欠片"],
+      "enemies": ["ゴールドぷに", "花の精", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "CHW9",
+      "level": 40,
+      "items": ["白煙炭", "魔導書の切れ端"],
+      "enemies": ["悠久の守り手", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "CMLI",
+      "level": 18,
+      "items": ["若木の枝葉", "汚染された腐葉土"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "CML4",
+      "level": 51,
+      "items": ["夜光花", "森の賢人"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "CSU3",
+      "level": 20,
+      "items": ["束縛する鋼糸", "丈夫なつる"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "CUE2",
+      "level": 98,
+      "items": ["変異トーン", "ドンケルハイト"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "C19U",
+      "level": 5,
+      "items": ["砂石", "ナナホシ"],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "C3N3",
+      "level": 86,
+      "items": ["デスグリーフ", "大貝の白玉"],
+      "enemies": ["悠久の守り手", "ジュエルガード", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "DGWY",
+      "level": 94,
+      "items": ["翡翠の煌水", ""],
+      "enemies": ["悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "DJMW",
+      "level": 98,
+      "items": ["エーテルアクア", "リバーストン・蒼炎"],
+      "enemies": ["ジュエルガード", "メタルゴーレム", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "DLSN",
+      "level": 60,
+      "items": ["アオツメクサ", "ベビーヴルム"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "DMQT",
+      "level": 17,
+      "items": ["エメラルドグラス", "ヘビの抜け殻"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "DUOM",
+      "level": 21,
+      "items": ["フレスベリー", "綿毛草"],
+      "enemies": ["ブルーフィン", "花の精", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "DUOP",
+      "level": 40,
+      "items": ["マグマパウダー", "ローズビー"],
+      "enemies": ["パイルバンカー", "渇きの悪魔", "常闇の斥候"],
+      "annotations": []
+    },
+    {
+      "password": "DU7U",
+      "level": 90,
+      "items": ["デスグリーフ", "幻獣の毛皮"],
+      "enemies": ["クラストビートル"],
+      "annotations": []
+    },
+    {
+      "password": "DYSG",
+      "level": 37,
+      "items": ["黄金うに", "シゾール"],
+      "enemies": ["スティンガー", "シャープシザーズ", "シャープシザーズ"],
+      "annotations": []
+    },
+    {
+      "password": "DZTI",
+      "level": 9,
+      "items": ["サルディン", ""],
+      "enemies": ["青ぷに", "ミニワイバーン", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "D3N3",
+      "level": 31,
+      "items": ["翡翠の煌水", "パルマ樹皮"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "D4MA",
+      "level": 27,
+      "items": ["紙くず", "パルマの実"],
+      "enemies": ["ブルーフィン", "シルキーファー", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "EGSW",
+      "level": 20,
+      "items": ["苦い根っこ", "キノコパウダー"],
+      "enemies": ["イルミネイトシルフ", "ウィンドフェザー"],
+      "annotations": []
+    },
+    {
+      "password": "EH37",
+      "level": 34,
+      "items": ["祝福の清花", "紅草"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "EJCB",
+      "level": 15,
+      "items": ["ローズビー", "生ゴミ"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "EKO1",
+      "level": 50,
+      "items": ["デルフィローズ", "若木の枝葉"],
+      "enemies": ["渇きの悪魔", "常闇の斥候", "スパインラット"],
+      "annotations": []
+    },
+    {
+      "password": "EMNF",
+      "level": 50,
+      "items": ["白霊岩", "万年魚"],
+      "enemies": ["スパインラット", "オーガヘッド", "影の尖兵"],
+      "annotations": []
+    },
+    {
+      "password": "EPY8",
+      "level": 54,
+      "items": ["静寂の月花", "蜜木の枝"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "EP5K",
+      "level": 8,
+      "items": ["植物エキス", "ウィングプラント"],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "ETZK",
+      "level": 36,
+      "items": ["サルディン", "シゾール"],
+      "enemies": ["青ぷに", "ミニワイバーン", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "EUEQ",
+      "level": 20,
+      "items": ["動物の毛皮", ""],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "EY5R",
+      "level": 31,
+      "items": ["琥珀の欠片", "セリヨル"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "E2QS",
+      "level": 35,
+      "items": ["植物エキス", "ユピトピニオン"],
+      "enemies": ["シルキーファー", "ナイトハンター", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "E7AB",
+      "level": 29,
+      "items": ["銀うに", "小さな晶石"],
+      "enemies": ["ブルーフィン", "シルキーファー", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "FBH6",
+      "level": 70,
+      "items": ["異界のぬし", "古びた魔導書"],
+      "enemies": ["スパインラット", "オーガヘッド", "影の尖兵"],
+      "annotations": []
+    },
+    {
+      "password": "FJ01",
+      "level": 56,
+      "items": ["三つ子トーン", "森の賢人"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "FKIU",
+      "level": 56,
+      "items": ["デスグリーフ", "異界のコア"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "FPUK",
+      "level": 51,
+      "items": ["シャボン草", "琥珀水晶"],
+      "enemies": ["ブルーフィン", "シルキーファー", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "FSR6",
+      "level": 60,
+      "items": ["紅草", "贖罪の大針"],
+      "enemies": ["オーガヘッド", "影の尖兵", "常闇の将軍"],
+      "annotations": []
+    },
+    {
+      "password": "FZJB",
+      "level": 53,
+      "items": ["紅草", "アンバーフライ"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "F0OW",
+      "level": 60,
+      "items": ["水辺の苔石", "聖樹の大枝"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "F1JV",
+      "level": 34,
+      "items": ["イナズマ鉱", "異界のコア"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "F3RW",
+      "level": 40,
+      "items": ["ケモノ肉", "異界のコア"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "GCY3",
+      "level": 29,
+      "items": ["ナナシ草", "大貝の白玉"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "GC5B",
+      "level": 98,
+      "items": ["エーテルアクア", "ドンケルハイト"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "GG08",
+      "level": 94,
+      "items": ["エーテルアクア", "サンゴ石"],
+      "enemies": ["ジュエルガード", "メタルゴーレム", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "GJP4",
+      "level": 47,
+      "items": ["腐木の樹皮", "丈夫な丸太"],
+      "enemies": ["ブルーフィン", "シルキーファー", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "GM8U",
+      "level": 88,
+      "items": ["エーテルアクア", "シゾール"],
+      "enemies": ["悠久の守り手", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "GPQ9",
+      "level": 30,
+      "items": ["古代の石柱", "スピアワーム"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "GZTF",
+      "level": 35,
+      "items": ["うに", "北風の花"],
+      "enemies": ["青ぷに", "緑ぷに", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "GZZN",
+      "level": 58,
+      "items": ["森の賢人", "ゴールデンクラウン"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "HDYW",
+      "level": 36,
+      "items": ["安らぎの花", "森の賢人"],
+      "enemies": ["シルキーファー", "ナイトハンター", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "HFF3",
+      "level": 72,
+      "items": ["アイヒェ", "古びた魔導書"],
+      "enemies": ["ブルーフィン", "シルキーファー", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "HH4C",
+      "level": 13,
+      "items": ["七色葡萄", ""],
+      "enemies": ["青ぷに", "オオイタチ", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "HKFR",
+      "level": 34,
+      "items": ["焔の黒砂", "竜肉"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "HMFD",
+      "level": 17,
+      "items": ["エメラルドグラス", "翼竜の翼"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "HN9P",
+      "level": 19,
+      "items": ["モルディナイト", "正体不明の原石"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "HP1Q",
+      "level": 36,
+      "items": ["サルディン", "メイスフィッシュ"],
+      "enemies": ["青ぷに", "ミニワイバーン", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "HSHO",
+      "level": 31,
+      "items": ["マダラ石", "金のハチの巣"],
+      "enemies": ["花の精", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "HTNF",
+      "level": 26,
+      "items": ["腐木の樹皮", "紙くず"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "HUUA",
+      "level": 66,
+      "items": ["ぷにぷに玉・銀", "ぷにぷに玉・金"],
+      "enemies": ["イルミネイトシルフ", "フラワーガーデナ", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "HVFY",
+      "level": 26,
+      "items": ["ロテスヴァッサ鉱水", "生ゴミ"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "HWPC",
+      "level": 19,
+      "items": ["アブラ木の実", "ヘビの抜け殻"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "HWTZ",
+      "level": 33,
+      "items": ["メイプルリーフ", "正体不明の原石"],
+      "enemies": ["シルキーファー", "ナイトハンター", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "H2E5",
+      "level": 61,
+      "items": ["ローゼンリーフ", "変異トーン"],
+      "enemies": ["悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "H9B1",
+      "level": 7,
+      "items": ["ハニーアント", ""],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "H9N0",
+      "level": 27,
+      "items": ["コゲクサ", "トゲトゲ"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "IA72",
+      "level": 62,
+      "items": ["夜光花", "異界のぬし"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "IBJQ",
+      "level": 98,
+      "items": ["エーテルアクア", "幻獣の毛皮"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "IBQV",
+      "level": 47,
+      "items": ["古代樹の枝", "古代の石柱"],
+      "enemies": ["フラワーガーデナー", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "IQV6",
+      "level": 96,
+      "items": ["琥珀水晶", "ラピス・パピヨン"],
+      "enemies": ["ゴールドぷに", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "ISC8",
+      "level": 54,
+      "items": ["闇水晶の欠片", "甲獣の霊鎧"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "IT02",
+      "level": 58,
+      "items": ["若木の枝葉", "ゴールデンクラウン"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "IUSA",
+      "level": 52,
+      "items": ["森の賢人", "ぷにぷに玉・銀"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "IYR7",
+      "level": 62,
+      "items": ["夜光花", "ゴルディナイト"],
+      "enemies": ["フラワーガーデナー", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "I02E",
+      "level": 28,
+      "items": ["植物エキス", "ぷにぷに玉・赤"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "I2UL",
+      "level": 11,
+      "items": ["セイタカトーン", "白灰砂"],
+      "enemies": ["ゴールドぷに", "花の精", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "I6II",
+      "level": 39,
+      "items": ["甘露岩", "鍾乳石の欠片"],
+      "enemies": ["花の精", "ストーンゴーレム", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "JCC7",
+      "level": 70,
+      "items": ["大貝の白玉", "パルマ黒炭"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "JRDT",
+      "level": 13,
+      "items": ["トーン", "魔獣の甲殻"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "JV87",
+      "level": 98,
+      "items": ["幻獣の毛皮", ""],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "JWYE",
+      "level": 13,
+      "items": ["ランタン草", "トーン"],
+      "enemies": ["イルミネイトシルフ", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "JXCQ",
+      "level": 32,
+      "items": ["夢見るきのこ", "オオカブト"],
+      "enemies": ["ブルーフィン", "シルキーファー", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "JXEU",
+      "level": 60,
+      "items": ["七煌原石", "闇水晶の欠片"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "J3NS",
+      "level": 33,
+      "items": ["ペントナイト", "巨獣の化石"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "J82I",
+      "level": 24,
+      "items": ["セイタカトーン", "魔石の欠片"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "KDID",
+      "level": 16,
+      "items": ["ランタン草", "よく燃える樹皮"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "KGM8",
+      "level": 58,
+      "items": ["デルフィローズ", "灯篭ホタル"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "KOQT",
+      "level": 23,
+      "items": ["水辺の苔石", "魔獣の鱗"],
+      "enemies": ["イルミネイトシルフ", "ロックパペット", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "KQ6Y",
+      "level": 24,
+      "items": ["スピリットフェザー", "竜肉"],
+      "enemies": ["ブルーフィン", "花の精", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "KSNV",
+      "level": 60,
+      "items": ["ベビーヴルム", "ウィングプラント"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "KYI8",
+      "level": 61,
+      "items": ["夜光花", "大木のツタ"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "K2TT",
+      "level": 24,
+      "items": ["闇水晶の欠片", "スピリットフェザー"],
+      "enemies": ["ブルーフィン", "花の精", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "LAME",
+      "level": 34,
+      "items": ["植物エキス", "病忘れの花"],
+      "enemies": ["青ぷに", "緑ぷに", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "LD16",
+      "level": 64,
+      "items": ["狂気の毒槍", "翼竜のタマゴ"],
+      "enemies": ["ゴールドぷに", "イルミネイトシルフ", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "LD2S",
+      "level": 17,
+      "items": ["大貝の白玉", "焔の黒砂"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "LHPG",
+      "level": 14,
+      "items": ["燃える砂", "大きな羽根"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "LH3A",
+      "level": 35,
+      "items": ["クスリゴケ", "ソーンフィッシュ"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "LNWX",
+      "level": 80,
+      "items": ["魔獣の背ビレ", "土魚の暴牙"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "LSRQ",
+      "level": 32,
+      "items": ["アオツメクサ", "夜光花"],
+      "enemies": ["フラワーガーデナー", "ゴーストアーマー", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "LZ2J",
+      "level": 10,
+      "items": ["黄金うに", "燃えカス"],
+      "enemies": ["スティンガー", "シャープシザーズ", "シャープシザーズ"],
+      "annotations": []
+    },
+    {
+      "password": "L1YR",
+      "level": 10,
+      "items": ["イナズマ鉱", "ノライモ"],
+      "enemies": ["青ぷに", "ミニワイバーン", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "L7XK",
+      "level": 57,
+      "items": ["安らぎの花", "メディウム薬骨"],
+      "enemies": ["悠久の守り手", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "L79R",
+      "level": 21,
+      "items": ["オオカブト", "フラムドラグーン"],
+      "enemies": ["イルミネイトシルフ", "ゴーストアーマー", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "MBJA",
+      "level": 54,
+      "items": ["マグネマルモア", "パルマ"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "MDXQ",
+      "level": 28,
+      "items": ["セイタカトーン", "ぷにぷに玉・赤"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "MD41",
+      "level": 64,
+      "items": ["デスグリーフ", "セプトリエン"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "MF0D",
+      "level": 20,
+      "items": ["エグゾフィッシュ", "魔導書の切れ端"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "MQE9",
+      "level": 10,
+      "items": ["うに", "燃えカス"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "MRTU",
+      "level": 43,
+      "items": ["汚染された腐葉土", "メイスフィッシュ"],
+      "enemies": ["クラストビートル"],
+      "annotations": []
+    },
+    {
+      "password": "MUI1",
+      "level": 62,
+      "items": ["ヤギミルク", "白煙炭"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "MU82",
+      "level": 30,
+      "items": ["ローゼンリーフ", "魔石の欠片"],
+      "enemies": ["渇きの悪魔", "常闇の斥候", "スパインラット"],
+      "annotations": []
+    },
+    {
+      "password": "M1Z6",
+      "level": 19,
+      "items": ["紅草", "キノコパウダー"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "M3T4",
+      "level": 48,
+      "items": ["洞窟サンゴ", "トゲトゲ"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "M5K3",
+      "level": 40,
+      "items": ["翡翠の煌水", "異界の腐木"],
+      "enemies": ["常闇の斥候", "スパインラット", "オーガヘッド"],
+      "annotations": []
+    },
+    {
+      "password": "M7GL",
+      "level": 98,
+      "items": ["変異トーン", ""],
+      "enemies": ["悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "M97M",
+      "level": 43,
+      "items": ["汚染された腐葉土", "甲獣の霊鎧"],
+      "enemies": ["クラストビートル"],
+      "annotations": []
+    },
+    {
+      "password": "NGJJ",
+      "level": 63,
+      "items": ["森の賢人", "セプトリエン"],
+      "enemies": ["常闇の将軍", "クラストビートル"],
+      "annotations": []
+    },
+    {
+      "password": "NH1F",
+      "level": 19,
+      "items": ["キノコパウダー", "マグネマルモア"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "NMR5",
+      "level": 57,
+      "items": ["マグマパウダー", "ヘビの抜け殻"],
+      "enemies": ["パイルバンカー", "渇きの悪魔", "常闇の斥候"],
+      "annotations": []
+    },
+    {
+      "password": "NMUB",
+      "level": 18,
+      "items": ["シュラブ", "メイプル樹皮"],
+      "enemies": ["イルミネイトシルフ", "ウィンドフェザー"],
+      "annotations": []
+    },
+    {
+      "password": "NNK3",
+      "level": 67,
+      "items": ["ゴールデンクラウン", "幻獣の毛皮"],
+      "enemies": ["スティンガー", "シャープシザーズ", "パイルバンカー"],
+      "annotations": []
+    },
+    {
+      "password": "NN7W",
+      "level": 19,
+      "items": ["植物エキス", "苦い根っこ"],
+      "enemies": ["イルミネイトシルフ", "ウィンドフェザー"],
+      "annotations": []
+    },
+    {
+      "password": "N0UN",
+      "level": 34,
+      "items": ["やわらかい砂", "マダラ石"],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "NPY7",
+      "level": 18,
+      "items": ["群体きのこ", "束縛する鋼糸"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "NYRV",
+      "level": 59,
+      "items": ["森の賢人", "ぷにぷに玉・黒"],
+      "enemies": ["悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "N03W",
+      "level": 20,
+      "items": ["セキネツ鉱", "ゴールデンクラウン"],
+      "enemies": ["スティンガー", "シャープシザーズ", "パイルバンカー"],
+      "annotations": []
+    },
+    {
+      "password": "N7E7",
+      "level": 8,
+      "items": ["植物エキス", "陽気な蜜花"],
+      "enemies": ["青ぷに", "緑ぷに", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "0GN6",
+      "level": 23,
+      "items": ["スイートリーフ", "自然油"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "OIFN",
+      "level": 50,
+      "items": ["ローゼンリーフ", "翼竜のタマゴ"],
+      "enemies": ["渇きの悪魔", "常闇の斥候", "スパインラット"],
+      "annotations": []
+    },
+    {
+      "password": "OKJS",
+      "level": 44,
+      "items": ["肥沃な土壌", "オオカブト"],
+      "enemies": ["イルミネイトシルフ", "ゴーストアーマー", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "OLDB",
+      "level": 24,
+      "items": ["きれいな貝殻", "スピリットフェザー"],
+      "enemies": ["ブルーフィン", "花の精", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "ORGR",
+      "level": 20,
+      "items": ["紙くず", "動物の毛皮"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "OTB9",
+      "level": 37,
+      "items": ["腐木の毒霧", "聖樹の葉"],
+      "enemies": ["悠久の守り手", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "OW8C",
+      "level": 32,
+      "items": ["夢見るきのこ", "ソーンフィッシュ"],
+      "enemies": ["ブルーフィン", "シルキーファー", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "O1C1",
+      "level": 62,
+      "items": ["異界のぬし", "スピリットフェザー"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "O1ZP",
+      "level": 28,
+      "items": ["ヴァッサ麦", "苔むした流木"],
+      "enemies": ["ブルーフィン", "シルキーファー", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "PB06",
+      "level": 27,
+      "items": ["パルマの実", "燃えカス"],
+      "enemies": ["ブルーフィン", "シルキーファー", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "PEQ4",
+      "level": 17,
+      "items": ["焔の黒砂", "魔獣の鱗"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "PKVH",
+      "level": 36,
+      "items": ["魔導書の切れ端", "贖罪の大針"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "PSSB",
+      "level": 30,
+      "items": ["金のハチの巣", "群体きのこ"],
+      "enemies": ["シャープシザーズ", "パイルバンカー", "渇きの悪魔"],
+      "annotations": []
+    },
+    {
+      "password": "PV4E",
+      "level": 20,
+      "items": ["マグネマルモア", "魔導書の切れ端"],
+      "enemies": ["イルミネイトシルフ", "動く甲冑", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "PZAL",
+      "level": 68,
+      "items": ["トライホーン", "土魚の暴牙"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "PZOM",
+      "level": 34,
+      "items": ["ペントナイト", "銀のハチの巣"],
+      "enemies": ["シルキーファー", "ナイトハンター", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "PZ4Y",
+      "level": 72,
+      "items": ["甘露岩", "リバーストン・蒼炎"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "QE49",
+      "level": 90,
+      "items": ["白霊岩", "群体きのこ"],
+      "enemies": ["ナイトハンター", "フラワーガーデナー", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "QHM3",
+      "level": 32,
+      "items": ["スイートリーフ", "夜光花"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "Q1MP",
+      "level": 55,
+      "items": ["泡立つ水", "綿毛草"],
+      "enemies": ["悠久の守り手", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "Q1VQ",
+      "level": 27,
+      "items": ["コベリナイト", "トゲトゲ"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "Q1X0",
+      "level": 28,
+      "items": ["セキネツ鉱", "甘露の実"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "Q50D",
+      "level": 35,
+      "items": ["砂石", "古代の石柱"],
+      "enemies": ["赤ぷに", "黒ぷに", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "RAPQ",
+      "level": 80,
+      "items": ["変異トーン", "魔獣の背ビレ"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "RP85",
+      "level": 96,
+      "items": ["リバーストン", "古びた魔導書"],
+      "enemies": ["ジュエルガード", "メタルゴーレム", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "RSNA",
+      "level": 22,
+      "items": ["ヴァッサ麦", "何かのタマゴ"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "RSTT",
+      "level": 42,
+      "items": ["シュラブ", "魔獣の甲殻"],
+      "enemies": ["イルミネイトシルフ", "ウィンドフェザー"],
+      "annotations": []
+    },
+    {
+      "password": "RS7F",
+      "level": 50,
+      "items": ["エスプラント", "紅草"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "RWLP",
+      "level": 33,
+      "items": ["スイートリーフ", "巨獣の化石"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "RZJL",
+      "level": 54,
+      "items": ["森の賢人", "パルマ"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "R7EH",
+      "level": 20,
+      "items": ["ゴールデンクラウン", "翼竜の翼"],
+      "enemies": ["スティンガー", "シャープシザーズ", "パイルバンカー"],
+      "annotations": []
+    },
+    {
+      "password": "SDDI",
+      "level": 35,
+      "items": ["シャボン草", "アンバーフライ"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "SEOL",
+      "level": 70,
+      "items": ["変異トーン", "きれいな貝殻"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "SIVU",
+      "level": 19,
+      "items": ["正体不明の原石", "灯篭ホタル"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "SIXW",
+      "level": 61,
+      "items": ["リバーストン", "リバーストン・蒼炎"],
+      "enemies": ["ジュエルガード", "メタルゴーレム", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "SJRF",
+      "level": 57,
+      "items": ["静寂の月花", "白煙炭"],
+      "enemies": ["ブルーフィン", "フラワーガーデナー", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "SMXA",
+      "level": 59,
+      "items": ["白煙炭", "化石樹"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "SNF1",
+      "level": 35,
+      "items": ["洞窟サンゴ", "鍾乳石の欠片"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "SUAG",
+      "level": 30,
+      "items": ["肥沃な土壌", "小さな晶石"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "SUMN",
+      "level": 64,
+      "items": ["土魚の暴牙", "翼竜のタマゴ"],
+      "enemies": ["ゴールドぷに", "イルミネイトシルフ", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "SZUP",
+      "level": 50,
+      "items": ["白霊岩", "乾いた木くず"],
+      "enemies": ["ジュエルガード", "メタルゴーレム", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "S1TD",
+      "level": 30,
+      "items": ["追憶の霧花", "古き騎士の紋章"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "S5DA",
+      "level": 62,
+      "items": ["リバーストン", "ナナホシ"],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "S7TC",
+      "level": 52,
+      "items": ["幸せクローバー", "古代樹の枝"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "TLOY",
+      "level": 61,
+      "items": ["夜光花", "幻獣の毛皮"],
+      "enemies": ["ゴールドぷに", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "TL0K",
+      "level": 11,
+      "items": ["マグネマルモア", "サビついた剣"],
+      "enemies": ["黒ぷに", "花の精", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "TPTP",
+      "level": 35,
+      "items": ["アクア鉱", "魔獣の甲殻"],
+      "enemies": ["赤ぷに", "黒ぷに", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "TVBZ",
+      "level": 33,
+      "items": ["泡立つ水", "怨嗟の叫び"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "TX0T",
+      "level": 50,
+      "items": ["エスプラント", "森の賢人"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "TX85",
+      "level": 25,
+      "items": ["闇水晶の欠片", "魔獣の背ビレ"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "TYFV",
+      "level": 68,
+      "items": ["セイタカトーン", "三つ子トーン"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "T16M",
+      "level": 45,
+      "items": ["ノライモ", "新鮮な肉"],
+      "enemies": ["悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "T3FT",
+      "level": 30,
+      "items": ["よく燃える樹皮", "古き騎士の紋章"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "T4NS",
+      "level": 59,
+      "items": ["ラピス・パピヨン", "翼竜の翼"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "T49N",
+      "level": 35,
+      "items": ["風化した石材", "紙くず"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "T78C",
+      "level": 35,
+      "items": ["北風の花", "聖樹の葉"],
+      "enemies": ["青ぷに", "緑ぷに", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "UECW",
+      "level": 92,
+      "items": ["追憶の霧花", "ゴルディナイト"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "UI20",
+      "level": 54,
+      "items": ["古代樹の枝", "創生の逆さ石"],
+      "enemies": ["花の精", "ストーンゴーレム", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "UN20",
+      "level": 35,
+      "items": ["正体不明の原石", "クーケンフルーツ"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "UR20",
+      "level": 43,
+      "items": ["ゴールデンクラウン", "異界のコア"],
+      "enemies": ["スティンガー", "シャープシザーズ", "パイルバンカー"],
+      "annotations": []
+    },
+    {
+      "password": "UTJV",
+      "level": 32,
+      "items": ["アオツメクサ", "若木の枝葉"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "UVGK",
+      "level": 33,
+      "items": ["きれいな水", "七色葡萄"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "UXBB",
+      "level": 8,
+      "items": ["ウィングプラント", ""],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "VDPY",
+      "level": 64,
+      "items": ["湖底のぬし", "土魚の暴牙"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "VHIP",
+      "level": 98,
+      "items": ["幻獣の毛皮", "古びた魔導書"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "VIPN",
+      "level": 52,
+      "items": ["ぷにぷに玉・銀", "闇水晶の欠片"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "VMB4",
+      "level": 98,
+      "items": ["泡立つ水", "変異トーン"],
+      "enemies": ["悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "VMNM",
+      "level": 45,
+      "items": ["新鮮な肉", "香る蜜木"],
+      "enemies": ["悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "V0WP",
+      "level": 98,
+      "items": ["ローゼンリーフ", "幻獣の毛皮"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "VP3M",
+      "level": 26,
+      "items": ["腐木の樹皮", "竜肉"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "VRSF",
+      "level": 12,
+      "items": ["アオツメクサ", "アマタイト鉱"],
+      "enemies": ["黒ぷに", "花の精", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "VYNS",
+      "level": 23,
+      "items": ["自然油", "アブラ木の実"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "V9PR",
+      "level": 30,
+      "items": ["ヤギミルク", "スピアワーム"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "V9UH",
+      "level": 31,
+      "items": ["金のハチの巣", "丈夫な丸太"],
+      "enemies": ["花の精", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "WCMR",
+      "level": 98,
+      "items": ["ドンケルハイト", "琥珀水晶"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "WG3A",
+      "level": 20,
+      "items": ["動物の毛皮", "翼竜の翼"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "WJBA",
+      "level": 98,
+      "items": ["リバーストン・蒼炎", ""],
+      "enemies": ["ジュエルガード", "メタルゴーレム", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "WMY0",
+      "level": 10,
+      "items": ["ペントナイト", "乾いた木くず"],
+      "enemies": ["黒ぷに", "花の精", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "WN7T",
+      "level": 98,
+      "items": ["翡翠の煌水", "ドンケルハイト"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "WOHZ",
+      "level": 27,
+      "items": ["翡翠の煌水", "トゲトゲ"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "WPFA",
+      "level": 84,
+      "items": ["聖石の欠片", "魔獣の甲殻"],
+      "enemies": ["悠久の守り手", "ジュエルガード", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "WTN5",
+      "level": 90,
+      "items": ["鍾乳石の欠片", "古びた魔導書"],
+      "enemies": ["悠久の守り手", "ジュエルガード", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "WYF6",
+      "level": 29,
+      "items": ["大貝の白玉", "魔石の欠片"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "W031",
+      "level": 96,
+      "items": ["泡立つ水", "大木のツタ"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "W23W",
+      "level": 62,
+      "items": ["黄金うに", "リバーストン"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "XAUY",
+      "level": 14,
+      "items": ["植物エキス", "アイヒェロア"],
+      "enemies": ["青ぷに", "オオイタチ", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "XCMW",
+      "level": 50,
+      "items": ["ローゼンリーフ", "異界のコア"],
+      "enemies": ["渇きの悪魔", "常闇の斥候", "スパインラット"],
+      "annotations": []
+    },
+    {
+      "password": "XCXI",
+      "level": 53,
+      "items": ["エーテルアクア", "クスリゴケ"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "XE7H",
+      "level": 63,
+      "items": ["魔石の欠片", "聖石の欠片"],
+      "enemies": ["ゴールドぷに", "花の精", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "XFAZ",
+      "level": 34,
+      "items": ["正体不明の原石", "銀のハチの巣"],
+      "enemies": ["シルキーファー", "ナイトハンター", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "XHNX",
+      "level": 20,
+      "items": ["ゴールデンクラウン", "魔石の欠片"],
+      "enemies": ["スティンガー", "シャープシザーズ", "パイルバンカー"],
+      "annotations": []
+    },
+    {
+      "password": "XMBJ",
+      "level": 50,
+      "items": ["アオツメクサ", "デルフィローズ"],
+      "enemies": ["渇きの悪魔", "常闇の斥候", "スパインラット"],
+      "annotations": []
+    },
+    {
+      "password": "XQFE",
+      "level": 18,
+      "items": ["束縛する鋼糸", ""],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "XQST",
+      "level": 64,
+      "items": ["アマタイト鉱", "翼竜のタマゴ"],
+      "enemies": ["黒ぷに", "花の精", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "XS5Y",
+      "level": 84,
+      "items": ["魔獣の甲殻", "甲獣の霊鎧"],
+      "enemies": ["悠久の守り手", "ジュエルガード", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "XVRE",
+      "level": 35,
+      "items": ["陽気な蜜花", "魔獣の毒袋"],
+      "enemies": ["青ぷに", "緑ぷに", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "XWXJ",
+      "level": 31,
+      "items": ["白灰砂", "金のハチの巣"],
+      "enemies": ["花の精", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "XYM0",
+      "level": 19,
+      "items": ["正体不明の原石", "竜肉"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "XY0Z",
+      "level": 35,
+      "items": ["ローズビー", "ウィングプラント"],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "XZN9",
+      "level": 74,
+      "items": ["アブラ木の実", "古びた魔導書"],
+      "enemies": ["ブルーフィン", "シルキーファー", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "YDMO",
+      "level": 94,
+      "items": ["サンゴ石", "土魚の暴牙"],
+      "enemies": ["ジュエルガード", "メタルゴーレム", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "YD1K",
+      "level": 34,
+      "items": ["病忘れの花", "古代の石柱"],
+      "enemies": ["青ぷに", "緑ぷに", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "YHFH",
+      "level": 23,
+      "items": ["銀うに", "スカイバブル"],
+      "enemies": ["シルバーぷに", "ゴーストアーマー", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "YI8V",
+      "level": 22,
+      "items": ["マグマパウダー", "ハニーアント"],
+      "enemies": ["イルミネイトシルフ", "ロックパペット", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "YJAF",
+      "level": 69,
+      "items": ["聖樹結晶", "魔獣の鱗"],
+      "enemies": ["フラワーガーデナー", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "YJ93",
+      "level": 34,
+      "items": ["やわらかい砂", "よく燃える樹皮"],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "YMA1",
+      "level": 50,
+      "items": ["エスプラント", "ヘビの抜け殻"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "YP5V",
+      "level": 43,
+      "items": ["追憶の霧花", "ゴールデンクラウン"],
+      "enemies": ["スティンガー", "シャープシザーズ", "パイルバンカー"],
+      "annotations": []
+    },
+    {
+      "password": "YSPL",
+      "level": 60,
+      "items": ["紅草", "万年魚"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "YUO6",
+      "level": 70,
+      "items": ["古代樹の枝", "狂気の毒槍"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "YVNS",
+      "level": 25,
+      "items": ["スピリットフラワー", "魔獣の背ビレ"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "YVY6",
+      "level": 74,
+      "items": ["大きな骨", "古びた魔導書"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "YWRS",
+      "level": 22,
+      "items": ["ナナシ草", "何かのタマゴ"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "Y9OE",
+      "level": 32,
+      "items": ["彗星岩", "聖樹の葉"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "ZAMM",
+      "level": 16,
+      "items": ["うに", "灯篭ホタル"],
+      "enemies": ["花の精", "動く甲冑", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "ZESO",
+      "level": 29,
+      "items": ["大きな骨", "狂気の毒槍"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "ZG4O",
+      "level": 33,
+      "items": ["きれいな水", "マダラ石"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "ZHHU",
+      "level": 98,
+      "items": ["七煌原石", "幻獣の毛皮"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "ZQHQ",
+      "level": 90,
+      "items": ["七煌原石", "アンバーフライ"],
+      "enemies": ["オーガヘッド", "影の尖兵", "常闇の将軍"],
+      "annotations": []
+    },
+    {
+      "password": "ZUUC",
+      "level": 60,
+      "items": ["ベビーヴルム", "巨獣の化石"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "ZV5H",
+      "level": 46,
+      "items": ["森の賢人", "こんがりきのこ"],
+      "enemies": ["イルミネイトシルフ", "ゴーストアーマー", "ゴーストアーマー"],
+      "annotations": []
+    },
+    {
+      "password": "ZZC7",
+      "level": 84,
+      "items": ["リバーストン", "闇水晶の欠片"],
+      "enemies": ["悠久の守り手", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "ZZ53",
+      "level": 36,
+      "items": ["フラムドラグーン", "蜜木の枝"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "Z4FO",
+      "level": 24,
+      "items": ["ナナシ草", "ペントナイト"],
+      "enemies": ["イルミネイトシルフ", "ロックパペット", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "Z6CM",
+      "level": 25,
+      "items": ["植物エキス", "蜜木の枝"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "0BMN",
+      "level": 58,
+      "items": ["聖樹結晶", "クーケンフルーツ"],
+      "enemies": ["花の精", "ストーンゴーレム", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "0FL1",
+      "level": 96,
+      "items": ["リバーストン", "ぷにぷに玉・金"],
+      "enemies": ["ジュエルガード", "メタルゴーレム", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "0U50",
+      "level": 50,
+      "items": ["森の賢人", "白霊岩"],
+      "enemies": ["スパインラット", "オーガヘッド", "影の尖兵"],
+      "annotations": []
+    },
+    {
+      "password": "0VHK",
+      "level": 30,
+      "items": ["小さな晶石", "スピアワーム"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "0WYQ",
+      "level": 29,
+      "items": ["セリヨル", "ソーンフィッシュ"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "0XH8",
+      "level": 32,
+      "items": ["彗星岩", "異界のコア"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "0XNM",
+      "level": 31,
+      "items": ["ヤギミルク", "パルマ樹皮"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "03FJ",
+      "level": 18,
+      "items": ["ヴァッサ麦", "束縛する鋼糸"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "062I",
+      "level": 31,
+      "items": ["シャボン草", "ユピトピニオン"],
+      "enemies": ["ブルーフィン", "シルキーファー", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "07QT",
+      "level": 68,
+      "items": ["トライホーン", "甲獣の霊鎧"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "1A9T",
+      "level": 7,
+      "items": ["アクア鉱", "ハニーアント"],
+      "enemies": ["赤ぷに", "黒ぷに", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "1EKX",
+      "level": 27,
+      "items": ["ランタン草", "魔獣の甲殻"],
+      "enemies": ["フラワーガーデナー", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "1GU9",
+      "level": 98,
+      "items": ["ドンケルハイト", "聖石の欠片"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "1IG1",
+      "level": 30,
+      "items": ["クミネの毒液", "スピアワーム"],
+      "enemies": ["フラワーガーデナー", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "1JDP",
+      "level": 98,
+      "items": ["ドンケルハイト", "古びた魔導書"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "1MGT",
+      "level": 30,
+      "items": ["ローゼンリーフ", "苦い根っこ"],
+      "enemies": ["渇きの悪魔", "常闇の斥候", "スパインラット"],
+      "annotations": []
+    },
+    {
+      "password": "1OIL",
+      "level": 29,
+      "items": ["銀うに", "乾いた木くず"],
+      "enemies": ["ブルーフィン", "シルキーファー", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "1PRK",
+      "level": 50,
+      "items": ["乾いた木くず", "異界の腐木"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "1SWE",
+      "level": 49,
+      "items": ["コベリナイト", "甘露の実"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "1XWW",
+      "level": 38,
+      "items": ["祝福の清花", "セイタカトーン"],
+      "enemies": ["ナイトハンター", "フラワーガーデナー", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "13ZV",
+      "level": 35,
+      "items": ["鍾乳石の欠片", "創生の逆さ石"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "2GYJ",
+      "level": 43,
+      "items": ["スカイバブル", "ぷにぷに玉・黒"],
+      "enemies": ["悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "2L1K",
+      "level": 36,
+      "items": ["清水の白姫", "コベリナイト"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "2MU8",
+      "level": 27,
+      "items": ["パルマの実", "ぷにぷに玉・青"],
+      "enemies": ["ブルーフィン", "シルキーファー", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "2NAH",
+      "level": 12,
+      "items": ["アイヒェロア", "プルムル"],
+      "enemies": ["青ぷに", "ミニワイバーン", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "2PXO",
+      "level": 28,
+      "items": ["甘露の実", "アイヒェ"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "2R1A",
+      "level": 62,
+      "items": ["きれいな水", "古びた魔導書"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "2WGK",
+      "level": 33,
+      "items": ["怨嗟の叫び", "ぷにぷに玉・緑"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "2YMB",
+      "level": 15,
+      "items": ["食毒草", "アイヒェ"],
+      "enemies": ["青ぷに", "オオイタチ", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "2YYR",
+      "level": 94,
+      "items": ["エーテルアクア", "森の賢人"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "232B",
+      "level": 64,
+      "items": ["リバーストン", "サビついた剣"],
+      "enemies": ["黒ぷに", "花の精", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "259L",
+      "level": 90,
+      "items": ["夜光花", "群体きのこ"],
+      "enemies": ["ナイトハンター", "フラワーガーデナー", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "3FDF",
+      "level": 82,
+      "items": ["焔の黒砂", "パルマの実"],
+      "enemies": ["ナイトハンター", "フラワーガーデナー", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "3HH3",
+      "level": 52,
+      "items": ["紅草", "ぷにぷに玉・銀"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "3IQ3",
+      "level": 57,
+      "items": ["白煙炭", "翼竜の翼"],
+      "enemies": ["悠久の守り手", "ジュエルガード", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "3UNN",
+      "level": 38,
+      "items": ["ノライモ", "プルムル"],
+      "enemies": ["青ぷに", "ミニワイバーン", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "3UW2",
+      "level": 12,
+      "items": ["プルムル", ""],
+      "enemies": ["青ぷに", "ミニワイバーン", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "3XP4",
+      "level": 28,
+      "items": ["アイヒェ", "苔むした流木"],
+      "enemies": ["ブルーフィン", "シルキーファー", "イルミネイトシルフ"],
+      "annotations": []
+    },
+    {
+      "password": "305X",
+      "level": 63,
+      "items": ["森の賢人", "フレスベリー"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "35XX",
+      "level": 70,
+      "items": ["聖樹結晶", "異界のぬし"],
+      "enemies": ["スパインラット", "オーガヘッド", "影の尖兵"],
+      "annotations": []
+    },
+    {
+      "password": "36D2",
+      "level": 60,
+      "items": ["琥珀水晶", "腐木の毒霧"],
+      "enemies": ["常闇の斥候", "スパインラット", "オーガヘッド"],
+      "annotations": []
+    },
+    {
+      "password": "36YE",
+      "level": 50,
+      "items": ["森の賢人", "異界の腐木"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "39JF",
+      "level": 25,
+      "items": ["ヤギミルク", "香る蜜木"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "39UF",
+      "level": 23,
+      "items": ["シャボン草", "水辺の苔石"],
+      "enemies": ["イルミネイトシルフ", "ロックパペット", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "4DFF",
+      "level": 36,
+      "items": ["万年魚", "蜜木の枝"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "4FH4",
+      "level": 31,
+      "items": ["琥珀の欠片", "乾いた木くず"],
+      "enemies": ["フラワーガーデナー", "ロックパペット", "ジュエルガード"],
+      "annotations": []
+    },
+    {
+      "password": "4LHJ",
+      "level": 21,
+      "items": ["食毒草", "ぷにぷに玉・緑"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "4OMQ",
+      "level": 70,
+      "items": ["森の賢人", "パルマ黒炭"],
+      "enemies": ["常闇の将軍", "クラストビートル"],
+      "annotations": []
+    },
+    {
+      "password": "4PBE",
+      "level": 64,
+      "items": ["セプトリエン", "白煙炭"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "4QIT",
+      "level": 22,
+      "items": ["何かのタマゴ", "燃えカス"],
+      "enemies": ["ウィンドフェザー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "4QVV",
+      "level": 34,
+      "items": ["ヤギミルク", "古びた魔導書"],
+      "enemies": ["フラワーガーデナー", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "42O8",
+      "level": 59,
+      "items": ["クミネの毒液", "ラピス・パピヨン"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "4761",
+      "level": 70,
+      "items": ["変異トーン", "パルマ黒炭"],
+      "enemies": ["常闇の将軍", "クラストビートル"],
+      "annotations": []
+    },
+    {
+      "password": "5FVX",
+      "level": 90,
+      "items": ["変異トーン", "アンバーフライ"],
+      "enemies": ["悠久の守り手", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "5GFW",
+      "level": 35,
+      "items": ["翡翠の煌水", "クスリゴケ"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "5KPY",
+      "level": 19,
+      "items": ["正体不明の原石", "クーケンフルーツ"],
+      "enemies": ["イルミネイトシルフ", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "5OKW",
+      "level": 82,
+      "items": ["翡翠の煌水", "トゲトゲ"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "5RJS",
+      "level": 52,
+      "items": ["メイプルリーフ", "聖樹の葉"],
+      "enemies": ["シルキーファー", "ナイトハンター", "フラワーガーデナー"],
+      "annotations": []
+    },
+    {
+      "password": "5V85",
+      "level": 90,
+      "items": ["デスグリーフ", "古びた魔導書"],
+      "enemies": ["クラストビートル"],
+      "annotations": []
+    },
+    {
+      "password": "5X7Z",
+      "level": 8,
+      "items": ["クーケンフルーツ", ""],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "53PV",
+      "level": 26,
+      "items": ["ロテスヴァッサ鉱水", "大貝の白玉"],
+      "enemies": ["フラワーガーデナー", "大顎鮫"],
+      "annotations": []
+    },
+    {
+      "password": "5729",
+      "level": 70,
+      "items": ["琥珀水晶", "パルマ黒炭"],
+      "enemies": ["常闇の将軍", "クラストビートル"],
+      "annotations": []
+    },
+    {
+      "password": "6BMM",
+      "level": 13,
+      "items": ["甘露岩", "アクア鉱"],
+      "enemies": ["花の精", "ストーンゴーレム", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "6ET0",
+      "level": 14,
+      "items": ["セイタカトーン", "ぷにぷに玉・青"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "6J08",
+      "level": 70,
+      "items": ["パルマ黒炭", "聖石の欠片"],
+      "enemies": ["常闇の将軍", "クラストビートル"],
+      "annotations": []
+    },
+    {
+      "password": "6WDU",
+      "level": 76,
+      "items": ["植物エキス", "七煌原石"],
+      "enemies": ["イービルオーキス", "グランタスカー"],
+      "annotations": []
+    },
+    {
+      "password": "6ZIF",
+      "level": 20,
+      "items": ["丈夫なつる", "メイプル樹皮"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "6Z0R",
+      "level": 14,
+      "items": ["大きな羽根", ""],
+      "enemies": ["花の精", "ストーンゴーレム", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "63EP",
+      "level": 31,
+      "items": ["金のハチの巣", "魔獣の毒袋"],
+      "enemies": ["花の精", "亡国の近衛鎧", "亡国の近衛鎧"],
+      "annotations": []
+    },
+    {
+      "password": "7BAH",
+      "level": 50,
+      "items": ["白霊岩", "琥珀水晶"],
+      "enemies": ["ジュエルガード", "メタルゴーレム", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "7GHJ",
+      "level": 33,
+      "items": ["パルマ樹皮", "ナナホシ"],
+      "enemies": ["シルバーぷに", "ゴールドぷに", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "7H9O",
+      "level": 15,
+      "items": ["きれいな水", "ケモノ肉"],
+      "enemies": ["イルミネイトシルフ", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "7JXX",
+      "level": 40,
+      "items": ["メディウム薬骨", "森の賢人"],
+      "enemies": ["悠久の守り手", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "7J21",
+      "level": 17,
+      "items": ["エグゾフィッシュ", "束縛する鋼糸"],
+      "enemies": ["イルミネイトシルフ", "ウィンドフェザー"],
+      "annotations": []
+    },
+    {
+      "password": "7LGR",
+      "level": 50,
+      "items": ["エーテルアクア", "ローゼンリーフ"],
+      "enemies": ["渇きの悪魔", "常闇の斥候", "スパインラット"],
+      "annotations": []
+    },
+    {
+      "password": "7PH5",
+      "level": 60,
+      "items": ["聖樹の大枝", "ぷにぷに玉・赤"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "7Q06",
+      "level": 58,
+      "items": ["デルフィローズ", "水辺の苔石"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "7TF0",
+      "level": 66,
+      "items": ["ぷにぷに玉・金", "土魚の暴牙"],
+      "enemies": [
+        "イルミネイトシルフ",
+        "フラワーガーデナー",
+        "ゴーストアーマー"
+      ],
+      "annotations": []
+    },
+    {
+      "password": "74I4",
+      "level": 36,
+      "items": ["クミネの実", "イナズマ鉱"],
+      "enemies": ["ゴールドぷに", "花の精", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "755W",
+      "level": 8,
+      "items": ["クーケンフルーツ", "サルディン"],
+      "enemies": ["花の精", "ミニワイバーン", "ミニワイバーン"],
+      "annotations": []
+    },
+    {
+      "password": "757T",
+      "level": 50,
+      "items": ["水辺の苔石", "白霊岩"],
+      "enemies": ["ジュエルガード", "メタルゴーレム", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "8CCA",
+      "level": 35,
+      "items": ["砂石", "ペントナイト"],
+      "enemies": ["赤ぷに", "黒ぷに", "ストーンゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "8IDJ",
+      "level": 61,
+      "items": ["聖樹結晶", "幻獣の毛皮"],
+      "enemies": ["ゴールドぷに", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "8JNA",
+      "level": 18,
+      "items": ["植物エキス", "シュラブ"],
+      "enemies": ["イルミネイトシルフ", "ウィンドフェザー"],
+      "annotations": []
+    },
+    {
+      "password": "8LKA",
+      "level": 27,
+      "items": ["琥珀の欠片", "魔獣の甲殻"],
+      "enemies": ["フラワーガーデナー", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "8LY7",
+      "level": 12,
+      "items": ["魔獣の毒袋", ""],
+      "enemies": ["ゴールドぷに", "花の精", "動く甲冑"],
+      "annotations": []
+    },
+    {
+      "password": "8N7R",
+      "level": 20,
+      "items": ["モルディナイト", "丈夫なつる"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "8SFR",
+      "level": 70,
+      "items": ["白霊岩", "異界のぬし"],
+      "enemies": ["スパインラット", "オーガヘッド", "影の尖兵"],
+      "annotations": []
+    },
+    {
+      "password": "8UMX",
+      "level": 59,
+      "items": ["安らぎの花", "ラピス・パピヨン"],
+      "enemies": ["亡国の近衛鎧", "グラディエーター", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "8Z2U",
+      "level": 96,
+      "items": ["エスプラント", "大木のツタ"],
+      "enemies": ["フラワーガーデナー", "悠久の守り手", "悠久の守り手"],
+      "annotations": []
+    },
+    {
+      "password": "9CFG",
+      "level": 55,
+      "items": ["植物エキス", "土魚の暴牙"],
+      "enemies": ["悠久の守り手", "ジュエルガード", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "9HFT",
+      "level": 11,
+      "items": ["甘露岩", "サビついた剣"],
+      "enemies": ["黒ぷに", "花の精", "メタルゴーレム"],
+      "annotations": []
+    },
+    {
+      "password": "9MWB",
+      "level": 70,
+      "items": ["琥珀水晶", "セリヨル"],
+      "enemies": ["フラワーガーデナー", "イービルオーキス"],
+      "annotations": []
+    },
+    {
+      "password": "9NDI",
+      "level": 39,
+      "items": ["泡立つ水", "七色葡萄"],
+      "enemies": ["青ぷに", "オオイタチ", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "9QW5",
+      "level": 62,
+      "items": ["デスグリーフ", "ゴルディナイト"],
+      "enemies": ["フラワーガーデナー", "ロックパペット"],
+      "annotations": []
+    },
+    {
+      "password": "9VE0",
+      "level": 38,
+      "items": ["泡立つ水", "コゲクサ"],
+      "enemies": ["緑ぷに", "オオイタチ", "オオイタチ"],
+      "annotations": []
+    },
+    {
+      "password": "91DY",
+      "level": 84,
+      "items": ["古代樹の枝", "闇水晶の欠片"],
+      "enemies": ["悠久の守り手", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "9400",
+      "level": 92,
+      "items": ["ラピス・パピヨン", "腐木の毒霧"],
+      "enemies": ["亡国の近衛鎧", "亡国の近衛鎧", "グラディエーター"],
+      "annotations": []
+    },
+    {
+      "password": "9423",
+      "level": 70,
+      "items": ["泡立つ水", "異界のぬし"],
+      "enemies": ["スパインラット", "オーガヘッド", "影の尖兵"],
+      "annotations": []
+    },
+    {
+      "password": "95BW",
+      "level": 9,
+      "items": ["アマタイト鉱", "サルディン"],
+      "enemies": ["青ぷに", "ミニワイバーン", "ハイドシャーク"],
+      "annotations": []
+    },
+    {
+      "password": "95EW",
+      "level": 20,
+      "items": ["ハチの巣", "丈夫なつる"],
+      "enemies": ["オオイタチ", "ブルーフィン", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "WA0K",
+      "level": 12,
+      "items": ["ランタン草", "魔獣の毒袋"],
+      "enemies": ["ゴールドぷに", "動く甲冑", "花の精"],
+      "annotations": []
+    },
+    {
+      "password": "N7E7",
+      "level": 8,
+      "items": ["植物エキス", "陽気な蜜花"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "062I",
+      "level": 31,
+      "items": ["シャボン草", "ユピトピニオン"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "LSRQ",
+      "level": 32,
+      "items": ["アオツメクサ", "夜光花"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "QHM3",
+      "level": 32,
+      "items": ["スイートリーフ", "夜光花"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "HWTZ",
+      "level": 33,
+      "items": ["メイプルリーフ", "正体不明の原石"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "YD1K",
+      "level": 34,
+      "items": ["病忘れの花", "古代の石柱"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "GZTF",
+      "level": 35,
+      "items": ["うに", "北風の花"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "XY0Z",
+      "level": 35,
+      "items": ["ローズビー", "ウィングプラント"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "AZRW",
+      "level": 36,
+      "items": ["安らぎの花", "大貝の白玉"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "2L1K",
+      "level": 36,
+      "items": ["清水の白姫", "コベリナイト"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "1XWW",
+      "level": 38,
+      "items": ["祝福の清花", "セイタカトーン"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "YMA1",
+      "level": 50,
+      "items": ["エスプラント", "ヘビの抜け殻"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "XCMW",
+      "level": 50,
+      "items": ["ローゼンリーフ", "異界のコア"],
+      "enemies": [],
+      "annotations": ["異界ボトル"]
+    },
+    {
+      "password": "OIFN",
+      "level": 50,
+      "items": ["ローゼンリーフ", "翼竜の卵"],
+      "enemies": [],
+      "annotations": ["異界ボトル"]
+    },
+    {
+      "password": "EKO1",
+      "level": 50,
+      "items": ["デルフィローズ", "若木の枝葉"],
+      "enemies": [],
+      "annotations": ["異界ボトル"]
+    },
+    {
+      "password": "FPUK",
+      "level": 51,
+      "items": ["シャボン草", "琥珀水晶"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "SJRF",
+      "level": 57,
+      "items": ["静寂の月花", "白煙炭"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "7Q06",
+      "level": 58,
+      "items": ["デルフィローズ", "水辺の苔石"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "UECW",
+      "level": 92,
+      "items": ["追憶の霧花", "ゴルディナイト"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "JRDT",
+      "level": 13,
+      "items": ["トーン", "魔獣の甲殻"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "NH1F",
+      "level": 19,
+      "items": ["キノコパウダー", "マグネマルモア"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "EGSW",
+      "level": 20,
+      "items": ["苦い根っこ", "キノコパウダー"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "HTNF",
+      "level": 26,
+      "items": ["腐木の樹皮", "紙くず"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "ZESO",
+      "level": 29,
+      "items": ["大きな骨", "狂気の毒槍"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "SUAG",
+      "level": 30,
+      "items": ["肥沃な土壌", "小さな晶石"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "2WGK",
+      "level": 33,
+      "items": ["怨嗟の叫び", "ぷにぷに玉・緑"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "BJXN",
+      "level": 34,
+      "items": ["紅草", "異界のコア"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "LH3A",
+      "level": 35,
+      "items": ["クスリゴケ", "ソーンフィッシュ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "OTB9",
+      "level": 37,
+      "items": ["腐木の毒霧", "聖樹の葉"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "XCXI",
+      "level": 53,
+      "items": ["エーテルアクア", "クスリゴケ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "L7XK",
+      "level": 57,
+      "items": ["安らぎの花", "メディウム薬骨"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "TYFV",
+      "level": 68,
+      "items": ["セイタカトーン", "三つ子トーン"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "DU7U",
+      "level": 90,
+      "items": ["デスグリーフ", "幻獣の毛皮"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "2YYR",
+      "level": 94,
+      "items": ["エーテルアクア", "森の賢人"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "CUE2",
+      "level": 98,
+      "items": ["変異トーン", "ドンケルハイト"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "M7GL",
+      "level": 98,
+      "items": ["変異トーン", "–"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "WN7T",
+      "level": 98,
+      "items": ["翡翠の煌水", "ドンケルハイト"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "BXB7",
+      "level": 98,
+      "items": ["ドンケルハイト", "ゴルディナイト"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "VMB4",
+      "level": 98,
+      "items": ["変異トーン", "泡立つ水"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "1GU9",
+      "level": 98,
+      "items": ["ドンケルハイト", "聖石の欠片"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "LHPG",
+      "level": 14,
+      "items": ["燃える砂", "大きな羽"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "DMQT",
+      "level": 17,
+      "items": ["エメラルドグラス", "ヘビの抜け殻"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "CMLI",
+      "level": 18,
+      "items": ["若木の枝葉", "汚染された腐葉土"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "KOQT",
+      "level": 23,
+      "items": ["水辺の苔石", "魔獣の鱗"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "YJ93",
+      "level": 34,
+      "items": ["やわらかい砂", "よく燃える樹皮"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "8CCA",
+      "level": 35,
+      "items": ["砂石", "ペントナイト"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "SNF1",
+      "level": 35,
+      "items": ["洞窟サンゴ", "鍾乳石の欠片"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "13ZV",
+      "level": 35,
+      "items": ["鍾乳石の欠片", "創生の逆さ石"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "IBQV",
+      "level": 47,
+      "items": ["古代樹の枝", "古代の石柱"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "SZUP",
+      "level": 50,
+      "items": ["白霊岩", "乾いた木くず"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "757T",
+      "level": 50,
+      "items": ["水辺の苔石", "白霊岩"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "SIXW",
+      "level": 61,
+      "items": ["リバーストン・蒼炎", "リバーストン"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "WJBA",
+      "level": 98,
+      "items": ["リバーストン・蒼炎", "–"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "YDMO",
+      "level": 94,
+      "items": ["サンゴ石", "土魚の暴牙"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "0FL1",
+      "level": 96,
+      "items": ["リバーストン", "ぷにぷに玉・金"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "XYM0",
+      "level": 19,
+      "items": ["正体不明の原石", "竜肉"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "5KPY",
+      "level": 19,
+      "items": ["正体不明の原石", "クーケンフルーツ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "AOW7",
+      "level": 19,
+      "items": ["アマタイト鉱", "正体不明の原石"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "1EKX",
+      "level": 27,
+      "items": ["ランタン草", "魔獣の甲殻"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "GCY3",
+      "level": 29,
+      "items": ["ナナシ草", "大貝の白玉"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "EY5R",
+      "level": 31,
+      "items": ["琥珀の欠片", "セリヨル"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "4FH4",
+      "level": 31,
+      "items": ["琥珀の欠片", "乾いた木くず"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "Y9OE",
+      "level": 32,
+      "items": ["彗星岩", "聖樹の葉"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "TPTP",
+      "level": 35,
+      "items": ["アクア鉱", "魔獣の甲殻"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "74I4",
+      "level": 36,
+      "items": ["クミネの実", "イナズマ鉱"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "ISC8",
+      "level": 54,
+      "items": ["闇水晶の欠片", "甲獣の霊鎧"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "0BMN",
+      "level": 58,
+      "items": ["聖樹結晶", "クーケンフルーツ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "JXEU",
+      "level": 60,
+      "items": ["七煌原石", "闇水晶の欠片"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "9QW5",
+      "level": 62,
+      "items": ["デスグリーフ", "ゴルディナイト"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "MD41",
+      "level": 64,
+      "items": ["デスグリーフ", "セプトリエン"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "JCC7",
+      "level": 70,
+      "items": ["大貝の白玉", "パルマ黒炭"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "ATED",
+      "level": 90,
+      "items": ["七煌原石", "翼竜の翼"],
+      "enemies": [],
+      "annotations": ["異界ボトル"]
+    },
+    {
+      "password": "LD2S",
+      "level": 17,
+      "items": ["大貝の白玉", "焔の黒砂"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "YI8V",
+      "level": 22,
+      "items": ["マグマパウダー", "ハニーアント"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "VYNS",
+      "level": 23,
+      "items": ["自然油", "アブラの木の実"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "D3N3",
+      "level": 31,
+      "items": ["翡翠の煌水", "パルマ樹皮"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "T49N",
+      "level": 35,
+      "items": ["風化した石材", "紙くず"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "3IQ3",
+      "level": 57,
+      "items": ["白煙炭", "翼竜の翼"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "4OMQ",
+      "level": 70,
+      "items": ["森の賢人", "パルマ黒炭"],
+      "enemies": [],
+      "annotations": ["異界ボトル"]
+    },
+    {
+      "password": "BH5E",
+      "level": 14,
+      "items": ["ヤギミルク", "アイヒェロア"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "4QIT",
+      "level": 22,
+      "items": ["何かのタマゴ", "燃えカス"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "RSNA",
+      "level": 22,
+      "items": ["ヴァッサ麦", "何かのタマゴ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "BUPZ",
+      "level": 24,
+      "items": ["自然油", "こんがりきのこ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "YVNS",
+      "level": 25,
+      "items": ["スピリットフラワー", "魔獣の背ビレ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "2MU8",
+      "level": 27,
+      "items": ["パルマの実", "ぷにぷに玉・青"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "Q1X0",
+      "level": 28,
+      "items": ["セキネツ鉱", "甘露の実"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "2PXO",
+      "level": 28,
+      "items": ["甘露の実", "アイヒェ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "JXCQ",
+      "level": 32,
+      "items": ["夢見るキノコ", "オオカブト"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "F3RW",
+      "level": 40,
+      "items": ["ケモノ肉", "異界のコア"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "UR20",
+      "level": 43,
+      "items": ["ゴールデンクラウン", "異界のコア"],
+      "enemies": [],
+      "annotations": ["異界ボトル"]
+    },
+    {
+      "password": "T16M",
+      "level": 45,
+      "items": ["ノライモ", "新鮮な肉"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "GZZN",
+      "level": 58,
+      "items": ["森の賢人", "ゴールデンクラウン"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "XZN9",
+      "level": 74,
+      "items": ["アブラ木の実", "古びた魔導書"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "259L",
+      "level": 90,
+      "items": ["群体きのこ", "夜光花"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "ZAMM",
+      "level": 16,
+      "items": ["うに", "灯篭ホタル"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "NMUB",
+      "level": 18,
+      "items": ["シュラブ", "メイプル樹皮"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "L79R",
+      "level": 21,
+      "items": ["オオカブト", "フラムドラグーン"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "H9N0",
+      "level": 27,
+      "items": ["コゲクサ", "トゲトゲ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "Q1VQ",
+      "level": 27,
+      "items": ["コベリナイト", "トゲトゲ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "1IG1",
+      "level": 30,
+      "items": ["クミネの毒液", "スピアワーム"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "V9UH",
+      "level": 31,
+      "items": ["金のハチの巣", "丈夫な丸太"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "63EP",
+      "level": 31,
+      "items": ["金のハチの巣", "魔獣の毒袋"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "XWXJ",
+      "level": 31,
+      "items": ["白灰砂", "金のハチの巣"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "7GHJ",
+      "level": 33,
+      "items": ["パルマ樹皮", "ナナホシ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "XFAZ",
+      "level": 34,
+      "items": ["正体不明の原石", "銀のハチの巣"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "SDDI",
+      "level": 35,
+      "items": ["シャボン草", "アンバーフライ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "HP1Q",
+      "level": 36,
+      "items": ["サルディン", "メイスフィッシュ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "ETZK",
+      "level": 36,
+      "items": ["サルディン", "シゾール"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "3UNN",
+      "level": 38,
+      "items": ["ノライモ", "プルムル"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "RSTT",
+      "level": 42,
+      "items": ["シュラブ", "魔獣の甲殻"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "8UMX",
+      "level": 59,
+      "items": ["安らぎの花", "ラピス・パピヨン"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "KSNV",
+      "level": 60,
+      "items": ["ベビーヴルム", "ウィングプラント"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "O1C1",
+      "level": 62,
+      "items": ["異界のぬし", "スピリットフェザー"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "8SFR",
+      "level": 70,
+      "items": ["白霊岩", "異界のぬし"],
+      "enemies": [],
+      "annotations": ["異界ボトル"]
+    },
+    {
+      "password": "VDPY",
+      "level": 64,
+      "items": ["湖底のぬし", "土魚の暴牙"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "PZAL",
+      "level": 68,
+      "items": ["トライホーン", "土魚の暴牙"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "9423",
+      "level": 70,
+      "items": ["泡立つ水", "異界のぬし"],
+      "enemies": [],
+      "annotations": ["異界ボトル"]
+    },
+    {
+      "password": "8SFR",
+      "level": 70,
+      "items": ["白霊岩", "異界のぬし"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "2YMB",
+      "level": 15,
+      "items": ["食毒草", "アイヒェ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "NPY7",
+      "level": 18,
+      "items": ["群体きのこ", "束縛する鋼糸"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "CSU3",
+      "level": 20,
+      "items": ["束縛する鋼糸", "丈夫なつる"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "8N7R",
+      "level": 20,
+      "items": ["モルディナイト", "丈夫なつる"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "DUOM",
+      "level": 21,
+      "items": ["フレスベリー", "綿毛草"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "39JF",
+      "level": 25,
+      "items": ["ヤギミルク", "香る蜜木"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "3XP4",
+      "level": 28,
+      "items": ["アイヒェ", "苔むした流木"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "4DFF",
+      "level": 36,
+      "items": ["万年魚", "蜜木の枝"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "36YE",
+      "level": 50,
+      "items": ["異界の腐木", "森の賢人"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "1PRK",
+      "level": 50,
+      "items": ["乾いた木くず", "異界の腐木"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "MBJA",
+      "level": 54,
+      "items": ["マグネマルモア", "パルマ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "SMXA",
+      "level": 59,
+      "items": ["白煙炭", "化石樹"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "F0OW",
+      "level": 60,
+      "items": ["水辺の苔石", "聖樹の大枝"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "KYI8",
+      "level": 61,
+      "items": ["夜光花", "大木のツタ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "8Z2U",
+      "level": 96,
+      "items": ["エスプラント", "大木のツタ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "MDXQ",
+      "level": 28,
+      "items": ["セイタカトーン", "ぷにぷに玉・赤"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "E7AB",
+      "level": 29,
+      "items": ["銀うに", "小さな晶石"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "2GYJ",
+      "level": 43,
+      "items": ["スカイバブル", "ぷにぷに玉・黒"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "IUSA",
+      "level": 52,
+      "items": ["森の賢人", "ぷにぷに玉・銀"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "W23W",
+      "level": 62,
+      "items": ["黄金うに", "リバーストン"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "7TF0",
+      "level": 66,
+      "items": ["ぷにぷに玉・金", "土魚の暴牙"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "WG3A",
+      "level": 20,
+      "items": ["動物の毛皮", "翼竜の翼"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "AKOZ",
+      "level": 28,
+      "items": ["ハチの巣", "魔獣の鱗"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "RWLP",
+      "level": 33,
+      "items": ["スイートリーフ", "巨獣の化石"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "J3NS",
+      "level": 33,
+      "items": ["ペントナイト", "巨獣の化石"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "PKVH",
+      "level": 36,
+      "items": ["魔導書の切れ端", "贖罪の大針"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "XQST",
+      "level": 64,
+      "items": ["アマタイト鉱", "翼竜の卵"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "TLOY",
+      "level": 61,
+      "items": ["夜光花", "幻獣の毛皮"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "SUMN",
+      "level": 64,
+      "items": ["土魚の暴牙", "翼竜のタマゴ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "HUUA",
+      "level": 66,
+      "items": ["ぷにぷに玉・金", "ぷにぷに玉・銀"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "ZHHU",
+      "level": 98,
+      "items": ["幻獣の毛皮", "七煌原石"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "V0WP",
+      "level": 98,
+      "items": ["幻獣の毛皮", "ローゼンリーフ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "JV87",
+      "level": 98,
+      "items": ["幻獣の毛皮", "–"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "IBJQ",
+      "level": 98,
+      "items": ["エーテルアクア", "幻獣の毛皮"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "CFPN",
+      "level": 10,
+      "items": ["魔石の欠片", "闇水晶の欠片"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "PV4E",
+      "level": 20,
+      "items": ["マグネマルモア", "魔導書の切れ端"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "MF0D",
+      "level": 20,
+      "items": ["エグゾフィッシュ", "魔導書の切れ端"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "K2TT",
+      "level": 24,
+      "items": ["闇水晶の欠片", "スピリットフェザー"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "OLDB",
+      "level": 24,
+      "items": ["きれいな貝殻", "スピリットフェザー"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "BL6A",
+      "level": 26,
+      "items": ["ロテスヴァッサ鉱水", "闇水晶の欠片"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "HVFY",
+      "level": 26,
+      "items": ["ロテスヴァッサ鉱水", "生ゴミ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "UVGK",
+      "level": 33,
+      "items": ["きれいな水", "七色葡萄"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "4QVV",
+      "level": 34,
+      "items": ["ヤギミルク", "古びた魔導書"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "ZG4O",
+      "level": 33,
+      "items": ["きれいな水", "マダラ石"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "F1JV",
+      "level": 34,
+      "items": ["イナズマ鉱", "異界のコア"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "YHFH",
+      "level": 23,
+      "items": ["銀うに", "スカイバブル"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "XE7H",
+      "level": 63,
+      "items": ["魔石の欠片", "聖石の欠片"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "9400",
+      "level": 92,
+      "items": ["ラピス・パピヨン", "腐木の毒霧"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "DGWY",
+      "level": 94,
+      "items": ["翡翠の煌水", "–"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "9HFT",
+      "level": 11,
+      "items": ["甘露岩", "サビついた剣"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "S1TD",
+      "level": 30,
+      "items": ["追憶の霧花", "古き騎士の紋章"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "5QMW",
+      "level": 17,
+      "items": ["アマタイト鉱", "アオツメクサ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "57F0",
+      "level": 48,
+      "items": ["アマタイト鉱", "闇水晶の欠片"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "0SJ6",
+      "level": 20,
+      "items": ["大きな骨", "動物の毛皮"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "3S9A",
+      "level": 40,
+      "items": ["大きな", "白灰"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "9M8M",
+      "level": 13,
+      "items": ["クミネの毒液", "丈夫な丸太"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "HMFD",
+      "level": 17,
+      "items": ["エメラルドグラス", "翼竜の翼"],
+      "enemies": [],
+      "annotations": [
+        "素材全還元で+6000くらい。解禁直後の小銭ジェム集め用。敵にぶつかりにくい。"
+      ]
+    },
+    {
+      "password": "L79Z",
+      "level": 25,
+      "items": ["香る蜜木", "翼竜の翼"],
+      "enemies": [],
+      "annotations": [
+        "高額素材の組み合わせ。素材全還元で+1万ちょっと。敵にぶつかりにくい。"
+      ]
+    },
+    {
+      "password": "91IP",
+      "level": 15,
+      "items": ["ケモノ肉", "若木の枝葉"],
+      "enemies": [],
+      "annotations": ["種用の若木の枝葉集めに"]
+    },
+    {
+      "password": "MV23",
+      "level": 20,
+      "items": ["丈夫なつる", "スカイバブル"],
+      "enemies": [],
+      "annotations": [
+        "スカイバブル集めに。探検セット強化用だけでなく青緑成分の気体素材としても優秀"
+      ]
+    },
+    {
+      "password": "IZUI",
+      "level": 7,
+      "items": ["生ゴ", "アクア"],
+      "enemies": [],
+      "annotations": [
+        "生ゴミの図鑑埋まってない人用(レントの家の前のツボにある)"
+      ]
+    },
+    {
+      "password": "EDR3",
+      "level": 98,
+      "items": ["ドンケルハイト", "焔の黒砂"],
+      "enemies": [],
+      "annotations": [
+        "強力なドンケルハイト集めに(SNS上にもあるものですが自力でも作れたので)。"
+      ]
+    },
+    {
+      "password": "4AAZ",
+      "level": 98,
+      "items": ["ドンケルハイト", "綿毛草"],
+      "enemies": [],
+      "annotations": ["ドンケルハイトと、防具用の布作りに使える糸素材の綿毛草"]
+    },
+    {
+      "password": "5QMW",
+      "level": 17,
+      "items": ["アマタイト鉱", "アオツメクサ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "57F0",
+      "level": 48,
+      "items": ["アマタイト鉱", "闇水晶の欠片"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "6WDA",
+      "level": 18,
+      "items": ["コベリナイト", "肥沃な土壌"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "KBID",
+      "level": 30,
+      "items": ["コベリナイト", "スピアワーム"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "DXLV",
+      "level": 20,
+      "items": ["彗星岩", "丈夫なつる"],
+      "enemies": [],
+      "annotations": ["スタルチウム作り用の彗星岩集めに"]
+    },
+    {
+      "password": "CN00",
+      "level": 69,
+      "items": ["ゴルディナイ", "甘露の"],
+      "enemies": [],
+      "annotations": ["高Lv特性付きのゴルディナイト集めに"]
+    },
+    {
+      "password": "22RB",
+      "level": 60,
+      "items": ["七煌原石の断", "フラムドラグー"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "P65S",
+      "level": 54,
+      "items": ["創生の逆さ石", "パルマの実"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "HMFD",
+      "level": 17,
+      "items": ["エメラルドグラス", "翼竜の翼"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "VC5T",
+      "level": 18,
+      "items": ["汚染された腐葉土", "ロテスヴァッサ鉱水"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "H4DY",
+      "level": 19,
+      "items": ["正体不明の原石", "魔獣の毒袋"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "EXT3",
+      "level": 61,
+      "items": ["リバーストン", "変異トーン"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "U4CU",
+      "level": 35,
+      "items": ["アンバーフライ", "大貝の白玉"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "7BOO",
+      "level": 41,
+      "items": ["マダラ石", "焔の黒砂"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "2B18",
+      "level": 61,
+      "items": ["リバーストン・蒼炎", "土魚の暴牙"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "8955",
+      "level": 50,
+      "items": ["白霊岩", "闇水晶の欠片"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "6VCS",
+      "level": 10,
+      "items": ["乾いた木くず", "自然油"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "VC5T",
+      "level": 18,
+      "items": ["汚染された腐葉土", "ロテスヴァッサ鉱水"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "1LS8",
+      "level": 30,
+      "items": ["肥沃な土壌", "自然油"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "4Q3O",
+      "level": 51,
+      "items": ["自然油", "夢見るきのこ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "DW6I",
+      "level": 66,
+      "items": ["焔の黒砂", "メイスフィッシュ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "YWAW",
+      "level": 20,
+      "items": ["丈夫なつる", "綿毛草"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "4AAZ",
+      "level": 98,
+      "items": ["ドンケルハイト", "綿毛草"],
+      "enemies": [],
+      "annotations": ["ドンケルハイトと、防具用の布作りに使える糸素材の綿毛草"]
+    },
+    {
+      "password": "4Q3O",
+      "level": 51,
+      "items": ["夢見るきのこ", "自然油"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "E1NR",
+      "level": 55,
+      "items": ["群体きのこ", "こんがりきのこ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "WH8U",
+      "level": 70,
+      "items": ["翼竜の翼", "大貝の白"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "S0IV",
+      "level": 65,
+      "items": ["泡立つ水", "灯篭ホタル"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "0EJT",
+      "level": 13,
+      "items": ["トーン", "綿毛草"],
+      "enemies": [],
+      "annotations": ["何かと使う場面の多いトーン(青)と綿毛草(赤緑)のセット"]
+    },
+    {
+      "password": "EXT3",
+      "level": 61,
+      "items": ["変異トーン", "リバーストン"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "RF2H",
+      "level": 98,
+      "items": ["変異トーン", "幻獣の毛皮"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "O5BI",
+      "level": 13,
+      "items": ["七色葡萄", "植物オイル"],
+      "enemies": [],
+      "annotations": ["アルケミーペイント用の七色葡萄"]
+    },
+    {
+      "password": "2PXO",
+      "level": 28,
+      "items": ["甘露の実", "アイヒェ"],
+      "enemies": [],
+      "annotations": ["青色成分集めに"]
+    },
+    {
+      "password": "WYUP",
+      "level": 54,
+      "items": ["甘露の実", "贖罪の大針"],
+      "enemies": [],
+      "annotations": [
+        "終盤の調合でも使う機会の多い甘露の実を高Lvで入手したい時に"
+      ]
+    },
+    {
+      "password": "P65S",
+      "level": 54,
+      "items": ["パルマの実", "創生の逆さ石"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "9KLR",
+      "level": 11,
+      "items": ["苔むした流木", "白灰砂"],
+      "enemies": [],
+      "annotations": ["青成分の優秀な木材・植物の苔むした流木集めに"]
+    },
+    {
+      "password": "9M8M",
+      "level": 13,
+      "items": ["クミネの毒液", "丈夫な丸太"],
+      "enemies": [],
+      "annotations": ["草狩り鎌⇔インゴットループの際の丈夫な丸太集めに。"]
+    },
+    {
+      "password": "ZUTY",
+      "level": 22,
+      "items": ["スピリットフラワ", ""],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "CML4",
+      "level": 51,
+      "items": ["夜光花", "森の賢人"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "IDDN",
+      "level": 7,
+      "items": ["ハニーアン", "病忘れの"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "F9PO",
+      "level": 8,
+      "items": ["クーケンフルーツ", "オオカブト"],
+      "enemies": [],
+      "annotations": ["黄色成分多めな虫のオオカブト集めに"]
+    },
+    {
+      "password": "6MNF",
+      "level": 13,
+      "items": ["七色葡萄", "灯篭ホタル"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "1FU6",
+      "level": 14,
+      "items": ["燃える砂", "ナナホシ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "F6HV",
+      "level": 17,
+      "items": ["エメラルドグラス", "オオカブト"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "P0DH",
+      "level": 30,
+      "items": ["スピアワーム", "竜肉"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "U4CU",
+      "level": 35,
+      "items": ["アンバーフライ", "大貝の白玉"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "ZOV9",
+      "level": 59,
+      "items": ["灯篭ホタル", "ラピス・パピヨン"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "K7FJ",
+      "level": 12,
+      "items": ["プルムル", "若木の枝葉"],
+      "enemies": [],
+      "annotations": ["青・緑成分の魚介類集めに"]
+    },
+    {
+      "password": "L7SK",
+      "level": 16,
+      "items": ["風化した石材", "大貝の白玉"],
+      "enemies": [],
+      "annotations": ["赤・黄成分の魚介類集めに"]
+    },
+    {
+      "password": "U4CU",
+      "level": 35,
+      "items": ["大貝の白玉", "アンバーフライ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "DW6I",
+      "level": 66,
+      "items": ["メイスフィッシュ", "焔の黒砂"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "3057",
+      "level": 67,
+      "items": ["異界のぬし", "何かのタマ"],
+      "enemies": [],
+      "annotations": ["最上位の魚介類"]
+    },
+    {
+      "password": "0SJ6",
+      "level": 20,
+      "items": ["大きな骨", "動物の毛皮"],
+      "enemies": [],
+      "annotations": [
+        "動物素材セット。草狩り鎌⇔インゴットループの際の大きな骨集めにも"
+      ]
+    },
+    {
+      "password": "3S9A",
+      "level": 40,
+      "items": ["大きな", "白灰"],
+      "enemies": [],
+      "annotations": ["高品質・強力特性の大きな骨。草狩り鎌⇔インゴットループに"]
+    },
+    {
+      "password": "7LDI",
+      "level": 47,
+      "items": ["幻獣の毛皮", "メイプルリー"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "RF2H",
+      "level": 98,
+      "items": ["幻獣の毛皮", "変異トーン薬の材料/植物"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "91IP",
+      "level": 15,
+      "items": ["ケモノ肉", "若木の枝葉"],
+      "enemies": [],
+      "annotations": ["種用の若木の枝葉集めに"]
+    },
+    {
+      "password": "STW8",
+      "level": 13,
+      "items": ["大きな羽", "クミネの毒"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "TJHY",
+      "level": 46,
+      "items": ["スピリットフェザ", "土魚の暴"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "MRVR",
+      "level": 22,
+      "items": ["何かのタマ", "束縛する鋼"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "1TNY",
+      "level": 11,
+      "items": ["ぷにぷに玉・金"],
+      "enemies": [],
+      "annotations": ["探索リュック強化用のぷにぷに玉・金集めに"]
+    },
+    {
+      "password": "VB4N",
+      "level": 66,
+      "items": ["ぷにぷに玉・", "甲獣の霊"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "H019",
+      "level": 66,
+      "items": ["ぷにぷに玉・黒", "ぷにぷに玉・金"],
+      "enemies": [],
+      "annotations": ["高Lvぷに玉セット"]
+    },
+    {
+      "password": "HMFD",
+      "level": 17,
+      "items": ["翼竜の翼", "エメラルドグラス"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "L79Z",
+      "level": 25,
+      "items": ["香る蜜木", "翼竜の翼"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "P0DH",
+      "level": 30,
+      "items": ["竜肉", "スピアワーム"],
+      "enemies": [],
+      "annotations": ["ゴルドテリオンの素材に使う竜肉集め用"]
+    },
+    {
+      "password": "L11L",
+      "level": 64,
+      "items": ["翼竜のタマゴ", "エーテルアクア"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "WH8U",
+      "level": 70,
+      "items": ["翼竜の翼", "大貝の白"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "ORJX",
+      "level": 20,
+      "items": ["魔導書の切れ端", "魔獣の鱗"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "H4DY",
+      "level": 19,
+      "items": ["魔獣の毒袋", "正体不明の原石"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "IZJ1",
+      "level": 29,
+      "items": ["狂気の毒", "アオツメク"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "HTNX",
+      "level": 25,
+      "items": ["魔獣の背ビ", "アマタイト"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "Z963",
+      "level": 27,
+      "items": ["魔獣の甲", "コベリナイ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "MOYJ",
+      "level": 69,
+      "items": ["甲獣の霊", "闇水晶の欠"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "2INW",
+      "level": 34,
+      "items": ["異界のコア", "正体不明の原"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "LIYJ",
+      "level": 53,
+      "items": ["異界のコア", "聖石の結晶"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "LIYJ",
+      "level": 53,
+      "items": ["異界のコア", "聖石の結晶"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "4ZQ1",
+      "level": 70,
+      "items": ["聖樹の葉", "大貝の白玉"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "57F0",
+      "level": 48,
+      "items": ["闇水晶の欠片", "アマタイト鉱"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "8955",
+      "level": 50,
+      "items": ["闇水晶の欠片", "白霊岩"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "ZOV9",
+      "level": 59,
+      "items": ["灯篭ホタル", "ラピス・パピヨン"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "L11L",
+      "level": 64,
+      "items": ["エーテルアクア", "翼竜のタマゴ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "EDR3",
+      "level": 98,
+      "items": ["ドンケルハイト", "焔の黒砂"],
+      "enemies": [],
+      "annotations": [
+        "強力なドンケルハイト集めに(SNS上にもあるものですが自力でも作れたので)。"
+      ]
+    },
+    {
+      "password": "4AAZ",
+      "level": 98,
+      "items": ["ドンケルハイト", "綿毛草"],
+      "enemies": [],
+      "annotations": ["ドンケルハイトと、防具用の布作りに使える糸素材の綿毛草"]
+    },
+    {
+      "password": "VC5T",
+      "level": 18,
+      "items": ["ロテスヴァッサ鉱水", "汚染された腐葉土"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "S0IV",
+      "level": 65,
+      "items": ["泡立つ水", "灯篭ホタル"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "4Q3O",
+      "level": 51,
+      "items": ["夢見るきのこ", "自然油"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "E1NR",
+      "level": 55,
+      "items": ["群体きのこ", "こんがりきのこ"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "VC5T",
+      "level": 18,
+      "items": ["ロテスヴァッサ鉱水", "汚染された腐葉土"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "57F0",
+      "level": 48,
+      "items": ["アマタイト鉱", "闇水晶の欠片"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "8955",
+      "level": 50,
+      "items": ["白霊岩", "闇水晶の欠片"],
+      "enemies": [],
+      "annotations": []
+    },
+    {
+      "password": "DUNW",
+      "level": 10,
+      "items": ["セプトリエン", "森の賢人"],
+      "enemies": [],
+      "annotations": [
+        "異界ボトル",
+        "異界ボトル用のジェム稼ぎ暫定。一通り回れば8万~9万くらい。セプトリエンが800~1300,森の賢人が500~800"
+      ]
+    },
+    {
+      "password": "1G1G",
+      "level": 10,
+      "items": ["ナナシ草", "金うに"],
+      "enemies": [],
+      "annotations": ["異界ボトル", "隠しボス「闇の大精霊」出現。とりあえず用"]
+    },
+    {
+      "password": "2KR6",
+      "level": 10,
+      "items": ["コゲクサ", "セプトリエン"],
+      "enemies": [],
+      "annotations": ["異界ボトル", "隠しボス「影の女王」出現。とりあえず用"]
+    }
+  ]
+}

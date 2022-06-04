@@ -8,10 +8,22 @@
     </v-app-bar>
     <v-navigation-drawer v-model="state.isShowDrawer" absolute temporary>
       <v-list nav>
-        <v-list-item-group>
-          <router-link to="/ryza1/synthesis-tree">
+        <v-list-tem-group>
+          <router-link to="/">
             <v-list-item>
-              <v-list-item-title>調合アイテムツリー: ライザ1</v-list-item-title>
+              <v-list-item-title>Home</v-list-item-title>
+            </v-list-item>
+          </router-link>
+        </v-list-tem-group>
+        <v-subheader>ライザ1</v-subheader>
+        <v-list-item-group>
+          <router-link
+            v-for="(item, index) in pagesRyza1"
+            :key="index"
+            :to="item.path"
+          >
+            <v-list-item>
+              <v-list-item-title>{{ item.name }}</v-list-item-title>
             </v-list-item>
           </router-link>
         </v-list-item-group>
@@ -25,6 +37,7 @@
 
 <script lang="ts">
 import { defineComponent, reactive } from "@vue/composition-api";
+import { pagesRyza1 } from "@/data/pages";
 
 type State = {
   isShowDrawer: boolean;
@@ -37,6 +50,7 @@ export default defineComponent({
     });
     return {
       state,
+      pagesRyza1,
     };
   },
 });

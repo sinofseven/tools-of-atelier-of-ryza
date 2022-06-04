@@ -3,13 +3,8 @@
     "name": "中和剤・赤",
     "level": 1,
     "categories": {
-      "have": [
-        "(中和剤)"
-      ],
-      "optional": [
-        "(火薬)",
-        "(燃料)"
-      ]
+      "have": ["(中和剤)"],
+      "optional": ["(火薬)", "(燃料)"]
     },
     "createdNumbers": 4,
     "injectedNumbers": {
@@ -17,39 +12,26 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "(花)",
-      "(水)"
-    ],
+    "sourceItems": ["(花)", "(水)"],
     "effectsInFrame": [
       "調合 品質上昇+5/+7/+10/+12",
       "(火薬)付与",
       "(燃料)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "中和剤・青": {
     "name": "中和剤・青",
     "level": 1,
     "categories": {
-      "have": [
-        "(中和剤)"
-      ],
-      "optional": [
-        "(花)",
-        "(気体)"
-      ]
+      "have": ["(中和剤)"],
+      "optional": ["(花)", "(気体)"]
     },
     "createdNumbers": 4,
     "injectedNumbers": {
@@ -57,39 +39,22 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "(魚介類)",
-      "(水)"
-    ],
-    "effectsInFrame": [
-      "調合 品質上昇+5/+7/+10/+12",
-      "(花)付与",
-      "(気体)付与"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["(魚介類)", "(水)"],
+    "effectsInFrame": ["調合 品質上昇+5/+7/+10/+12", "(花)付与", "(気体)付与"],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "中和剤・黄": {
     "name": "中和剤・黄",
     "level": 1,
     "categories": {
-      "have": [
-        "(中和剤)"
-      ],
-      "optional": [
-        "(鉱石)",
-        "(糸素材)"
-      ]
+      "have": ["(中和剤)"],
+      "optional": ["(鉱石)", "(糸素材)"]
     },
     "createdNumbers": 4,
     "injectedNumbers": {
@@ -97,39 +62,26 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "(砂)",
-      "(水)"
-    ],
+    "sourceItems": ["(砂)", "(水)"],
     "effectsInFrame": [
       "調合 品質上昇+5/+7/+10/+12",
       "(鉱石)付与",
       "(糸素材)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "中和剤・緑": {
     "name": "中和剤・緑",
     "level": 1,
     "categories": {
-      "have": [
-        "(中和剤)"
-      ],
-      "optional": [
-        "(木材)",
-        "(石材)"
-      ]
+      "have": ["(中和剤)"],
+      "optional": ["(木材)", "(石材)"]
     },
     "createdNumbers": 4,
     "injectedNumbers": {
@@ -137,35 +89,25 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "風"
-      ],
+      "have": ["風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "(植物)",
-      "(水)"
-    ],
+    "sourceItems": ["(植物)", "(水)"],
     "effectsInFrame": [
       "調合 品質上昇+5/+7/+10/+12",
       "(木材)付与",
       "(石材)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "研磨剤": {
     "name": "研磨剤",
     "level": 2,
     "categories": {
-      "have": [
-        "(雑貨)"
-      ],
+      "have": ["(雑貨)"],
       "optional": []
     },
     "createdNumbers": 5,
@@ -174,38 +116,21 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
-      "optional": [
-        "火"
-      ],
+      "have": ["雷"],
+      "optional": ["火"],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "白灰砂",
-      "(砂)",
-      "(鉱石)"
-    ],
-    "effectsInFrame": [
-      "調合 品質上昇+5/+7/+10/+12",
-      "火属性付与"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["白灰砂", "(砂)", "(鉱石)"],
+    "effectsInFrame": ["調合 品質上昇+5/+7/+10/+12", "火属性付与"],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "ゼッテル": {
     "name": "ゼッテル",
     "level": 9,
     "categories": {
-      "have": [
-        "(雑貨)",
-        "(燃料)"
-      ],
+      "have": ["(雑貨)", "(燃料)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -214,42 +139,22 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "氷"
-      ],
+      "have": ["火", "氷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "紙くず",
-      "(植物)",
-      "(水)",
-      "(中和剤)"
-    ],
-    "effectsInFrame": [
-      "調合 品質上昇+5/+7/+10/+12",
-      "調合 作成個数+1"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～75",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["紙くず", "(植物)", "(水)", "(中和剤)"],
+    "effectsInFrame": ["調合 品質上昇+5/+7/+10/+12", "調合 作成個数+1"],
+    "effectsNotInFrame": ["品質 +10～75", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "おいしい練り餌": {
     "name": "おいしい練り餌",
     "level": 7,
     "categories": {
-      "have": [
-        "(雑貨)",
-        "(食材)"
-      ],
-      "optional": [
-        "(木の実)",
-        "(魚介類)"
-      ]
+      "have": ["(雑貨)", "(食材)"],
+      "optional": ["(木の実)", "(魚介類)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -257,28 +162,18 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "小麦粉",
-      "クミネの実",
-      "(虫)",
-      "(調味料)"
-    ],
+    "sourceItems": ["小麦粉", "クミネの実", "(虫)", "(調味料)"],
     "effectsInFrame": [
       "調合 品質上昇+5/+7/+10/+12",
       "(木の実)付与",
       "(魚介類)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～65",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～65", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "小麦粉": "クミネの実"
     }
@@ -287,13 +182,8 @@
     "name": "アルケミーペイント",
     "level": 15,
     "categories": {
-      "have": [
-        "(雑貨)",
-        "(毒の材料)"
-      ],
-      "optional": [
-        "(神秘の力)"
-      ]
+      "have": ["(雑貨)", "(毒の材料)"],
+      "optional": ["(神秘の力)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -301,29 +191,18 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "七色葡萄",
-      "ミックスオイル",
-      "(花)",
-      "(虫)"
-    ],
+    "sourceItems": ["七色葡萄", "ミックスオイル", "(花)", "(虫)"],
     "effectsInFrame": [
       "調合 品質上昇+5/+7/+10/+12",
       "属性値+1/+2",
       "(神秘の力)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ミックスオイル": "七色葡萄"
     }
@@ -332,14 +211,8 @@
     "name": "デルフィローズ香",
     "level": 26,
     "categories": {
-      "have": [
-        "(雑貨)",
-        "(花)"
-      ],
-      "optional": [
-        "(気体)",
-        "(薬の材料)"
-      ]
+      "have": ["(雑貨)", "(花)"],
+      "optional": ["(気体)", "(薬の材料)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -347,30 +220,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 6,
       "min": 2
     },
-    "sourceItems": [
-      "ローゼンリーフ",
-      "旅人の水珠",
-      "(きのこ)",
-      "(ハチの巣)"
-    ],
+    "sourceItems": ["ローゼンリーフ", "旅人の水珠", "(きのこ)", "(ハチの巣)"],
     "effectsInFrame": [
       "調合 品質上昇+10/+12/+15/+17",
       "調合 作成個数+1/+2",
       "(気体)付与",
       "(薬の材料)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +25～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +25～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "旅人の水珠": "ローゼンリーフ"
     }
@@ -379,10 +241,7 @@
     "name": "インゴット",
     "level": 4,
     "categories": {
-      "have": [
-        "(インゴット)",
-        "(金属)"
-      ],
+      "have": ["(インゴット)", "(金属)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -391,36 +250,21 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "アマタイト鉱",
-      "(鉱石)",
-      "(燃料)"
-    ],
-    "effectsInFrame": [
-      "装備作成 攻撃+1/+2/+3",
-      "装備作成 防御+1/+2"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["アマタイト鉱", "(鉱石)", "(燃料)"],
+    "effectsInFrame": ["装備作成 攻撃+1/+2/+3", "装備作成 防御+1/+2"],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "ブロンズアイゼン": {
     "name": "ブロンズアイゼン",
     "level": 8,
     "categories": {
-      "have": [
-        "(インゴット)",
-        "(金属)"
-      ],
+      "have": ["(インゴット)", "(金属)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -429,27 +273,14 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "コベリナイト",
-      "アマタイト鉱",
-      "(鉱石)",
-      "(燃料)"
-    ],
-    "effectsInFrame": [
-      "装備作成 攻撃+1/+2/+3/+4",
-      "装備作成 防御+1/+2/+3"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["コベリナイト", "アマタイト鉱", "(鉱石)", "(燃料)"],
+    "effectsInFrame": ["装備作成 攻撃+1/+2/+3/+4", "装備作成 防御+1/+2/+3"],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "インゴット": "コベリナイト"
     }
@@ -458,10 +289,7 @@
     "name": "スタルチウム",
     "level": 16,
     "categories": {
-      "have": [
-        "(インゴット)",
-        "(金属)"
-      ],
+      "have": ["(インゴット)", "(金属)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -470,27 +298,14 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "彗星岩",
-      "ペントナイト",
-      "(燃料)",
-      "(神秘の力)"
-    ],
-    "effectsInFrame": [
-      "装備作成 攻撃+2/+3/+4",
-      "装備作成 速さ+1/+2/+3"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["彗星岩", "ペントナイト", "(燃料)", "(神秘の力)"],
+    "effectsInFrame": ["装備作成 攻撃+2/+3/+4", "装備作成 速さ+1/+2/+3"],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ブロンズアイゼン": "彗星岩"
     }
@@ -499,10 +314,7 @@
     "name": "クリミネア",
     "level": 34,
     "categories": {
-      "have": [
-        "(インゴット)",
-        "(金属)"
-      ],
+      "have": ["(インゴット)", "(金属)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -511,27 +323,14 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "創生の逆さ石",
-      "モルディナイト",
-      "(エリキシル)",
-      "(燃料)"
-    ],
-    "effectsInFrame": [
-      "装備作成 攻速+1/+2/+3",
-      "装備作成 防御+1/+2/+3"
-    ],
-    "effectsNotInFrame": [
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["創生の逆さ石", "モルディナイト", "(エリキシル)", "(燃料)"],
+    "effectsInFrame": ["装備作成 攻速+1/+2/+3", "装備作成 防御+1/+2/+3"],
+    "effectsNotInFrame": ["特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "スタルチウム": "創生の逆さ石"
     }
@@ -540,10 +339,7 @@
     "name": "ゴルドテリオン",
     "level": 45,
     "categories": {
-      "have": [
-        "(インゴット)",
-        "(金属)"
-      ],
+      "have": ["(インゴット)", "(金属)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -552,37 +348,24 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "火",
-        "雷"
-      ],
+      "have": ["火", "雷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "ゴルディナイト",
-      "セプトリエン",
-      "(竜素材)",
-      "(中和剤)"
-    ],
+    "sourceItems": ["ゴルディナイト", "セプトリエン", "(竜素材)", "(中和剤)"],
     "effectsInFrame": [
       "装備作成 全能+1/+2/+3/+4/+5",
       "装備作成 攻撃+4/+5 / 装備作成 攻速+4/+5"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～120",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～120", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "クロース": {
     "name": "クロース",
     "level": 2,
     "categories": {
-      "have": [
-        "(クロース)"
-      ],
+      "have": ["(クロース)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -591,36 +374,21 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "(糸素材)",
-      "(動物素材)",
-      "(中和剤)"
-    ],
-    "effectsInFrame": [
-      "装備作成 防御+1/+2/+3",
-      "装備作成 速さ+1/+2"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["(糸素材)", "(動物素材)", "(中和剤)"],
+    "effectsInFrame": ["装備作成 防御+1/+2/+3", "装備作成 速さ+1/+2"],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "ネイチャークロス": {
     "name": "ネイチャークロス",
     "level": 9,
     "categories": {
-      "have": [
-        "(クロース)",
-        "(植物)"
-      ],
+      "have": ["(クロース)", "(植物)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -629,28 +397,14 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷",
-        "風"
-      ],
+      "have": ["雷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "錬金繊維",
-      "植物エキス",
-      "(植物)",
-      "(動物素材)"
-    ],
-    "effectsInFrame": [
-      "装備作成 防御+1/+2/+3/+4",
-      "装備作成 速さ+1/+2/+3"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～65",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["錬金繊維", "植物エキス", "(植物)", "(動物素材)"],
+    "effectsInFrame": ["装備作成 防御+1/+2/+3/+4", "装備作成 速さ+1/+2/+3"],
+    "effectsNotInFrame": ["品質 +10～65", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "クロース": "錬金繊維"
     }
@@ -659,10 +413,7 @@
     "name": "ビーストエア",
     "level": 17,
     "categories": {
-      "have": [
-        "(クロース)",
-        "(動物素材)"
-      ],
+      "have": ["(クロース)", "(動物素材)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -671,27 +422,14 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "動物の毛皮",
-      "翼竜の翼",
-      "(糸素材)",
-      "(動物素材)"
-    ],
-    "effectsInFrame": [
-      "装備作成 防御+2/+3/+4/+5",
-      "装備作成 攻撃+1/+2/+3"
-    ],
-    "effectsNotInFrame": [
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["動物の毛皮", "翼竜の翼", "(糸素材)", "(動物素材)"],
+    "effectsInFrame": ["装備作成 防御+2/+3/+4/+5", "装備作成 攻撃+1/+2/+3"],
+    "effectsNotInFrame": ["特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ネイチャークロス": "動物の毛皮"
     }
@@ -700,10 +438,7 @@
     "name": "ソーサリーローズ",
     "level": 34,
     "categories": {
-      "have": [
-        "(クロース)",
-        "(気体)"
-      ],
+      "have": ["(クロース)", "(気体)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -712,28 +447,14 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火",
-        "氷"
-      ],
+      "have": ["火", "氷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "デルフィローズ",
-      "大木のツタ",
-      "(花)",
-      "(雑貨)"
-    ],
-    "effectsInFrame": [
-      "装備作成 防速+1/+2/+3",
-      "装備作成 攻撃+1/+2/+3"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["デルフィローズ", "大木のツタ", "(花)", "(雑貨)"],
+    "effectsInFrame": ["装備作成 防速+1/+2/+3", "装備作成 攻撃+1/+2/+3"],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ビーストエア": "デルフィローズ"
     }
@@ -742,10 +463,7 @@
     "name": "エルドロコード",
     "level": 45,
     "categories": {
-      "have": [
-        "(クロース)",
-        "(宝石)"
-      ],
+      "have": ["(クロース)", "(宝石)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -754,40 +472,25 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 6,
       "min": 2
     },
-    "sourceItems": [
-      "ヘブンズストリング",
-      "幻獣の毛皮",
-      "(糸素材)",
-      "(中和剤)"
-    ],
+    "sourceItems": ["ヘブンズストリング", "幻獣の毛皮", "(糸素材)", "(中和剤)"],
     "effectsInFrame": [
       "装備作成 全能+2/+3/+4/+5",
       "装備作成 防御+4/+5 / 装備作成 防速+4/+5"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～120",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～120", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "パールクリスタル": {
     "name": "パールクリスタル",
     "level": 13,
     "categories": {
-      "have": [
-        "(宝石)"
-      ],
-      "optional": [
-        "(薬の材料)",
-        "(食材)"
-      ]
+      "have": ["(宝石)"],
+      "optional": ["(薬の材料)", "(食材)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -795,31 +498,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
-      "optional": [
-        "風"
-      ],
+      "have": ["氷"],
+      "optional": ["風"],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "大貝の白玉",
-      "白灰砂",
-      "(原石)",
-      "(ぷにぷに)"
-    ],
+    "sourceItems": ["大貝の白玉", "白灰砂", "(原石)", "(ぷにぷに)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12",
       "風属性付与",
       "(薬の材料)付与",
       "(食材)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "研磨剤": "大貝の白玉"
     }
@@ -828,13 +519,8 @@
     "name": "アンバーライト",
     "level": 21,
     "categories": {
-      "have": [
-        "(宝石)"
-      ],
-      "optional": [
-        "(石材)",
-        "(虫)"
-      ]
+      "have": ["(宝石)"],
+      "optional": ["(石材)", "(虫)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -842,30 +528,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "琥珀水晶",
-      "琥珀の欠片",
-      "研磨剤",
-      "(虫)"
-    ],
+    "sourceItems": ["琥珀水晶", "琥珀の欠片", "研磨剤", "(虫)"],
     "effectsInFrame": [
       "調合 品質上昇+7/10/+12/+15",
       "属性値+1/+2",
       "(石材)付与",
       "(虫)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "パールクリスタル": "琥珀水晶"
     }
@@ -874,12 +549,8 @@
     "name": "スピリナイト",
     "level": 25,
     "categories": {
-      "have": [
-        "(宝石)"
-      ],
-      "optional": [
-        "(毒の材料)"
-      ]
+      "have": ["(宝石)"],
+      "optional": ["(毒の材料)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -887,31 +558,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
-      "optional": [
-        "氷"
-      ],
+      "have": ["雷"],
+      "optional": ["氷"],
       "max": 6,
       "min": 2
     },
-    "sourceItems": [
-      "エメラルドグラス",
-      "マグネマルモア",
-      "(原石)",
-      "(砂)"
-    ],
+    "sourceItems": ["エメラルドグラス", "マグネマルモア", "(原石)", "(砂)"],
     "effectsInFrame": [
       "調合 品質上昇+7/10/+12/+15",
       "氷属性付与",
       "影響拡大+1",
       "(毒の材料)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "アンバーライト": "エメラルドグラス"
     }
@@ -920,12 +579,8 @@
     "name": "セイントダイヤ",
     "level": 41,
     "categories": {
-      "have": [
-        "(宝石)"
-      ],
-      "optional": [
-        "(神秘の力)"
-      ]
+      "have": ["(宝石)"],
+      "optional": ["(神秘の力)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -933,30 +588,19 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "聖樹結晶",
-      "聖石の欠片",
-      "(原石)",
-      "(ぷにぷに)"
-    ],
+    "sourceItems": ["聖樹結晶", "聖石の欠片", "(原石)", "(ぷにぷに)"],
     "effectsInFrame": [
       "調合 品質上昇+12/+15/+17/+20",
       "属性値+1/+2",
       "影響拡大+1",
       "(神秘の力)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～160",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～160", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "スピリナイト": "聖樹結晶"
     }
@@ -965,12 +609,8 @@
     "name": "アルクァンシェル",
     "level": 47,
     "categories": {
-      "have": [
-        "(宝石)"
-      ],
-      "optional": [
-        "(エリキシル)"
-      ]
+      "have": ["(宝石)"],
+      "optional": ["(エリキシル)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -978,32 +618,19 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "火",
-        "氷",
-        "雷",
-        "風"
-      ],
+      "have": ["火", "氷", "雷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "七煌原石",
-      "ぷにぷに玉・金",
-      "(雑貨)",
-      "(神秘の力)"
-    ],
+    "sourceItems": ["七煌原石", "ぷにぷに玉・金", "(雑貨)", "(神秘の力)"],
     "effectsInFrame": [
       "調合 品質上昇+7/10/+12/+15",
       "影響拡大+1/+2",
       "属性値+1",
       "(エリキシル)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～160",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～160", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "セイントダイヤ": "七煌原石"
     }
@@ -1012,12 +639,8 @@
     "name": "ハチミツ",
     "level": 3,
     "categories": {
-      "have": [
-        "(調味料)"
-      ],
-      "optional": [
-        "(燃料)"
-      ]
+      "have": ["(調味料)"],
+      "optional": ["(燃料)"]
     },
     "createdNumbers": 3,
     "injectedNumbers": {
@@ -1025,42 +648,26 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
-      "optional": [
-        "氷"
-      ],
+      "have": ["火", "風"],
+      "optional": ["氷"],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "(ハチの巣)",
-      "(花)",
-      "(中和剤)"
-    ],
+    "sourceItems": ["(ハチの巣)", "(花)", "(中和剤)"],
     "effectsInFrame": [
       "調合 品質上昇+5/+7/+10/+12",
       "氷属性付与",
       "(燃料)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "エルツ糖": {
     "name": "エルツ糖",
     "level": 4,
     "categories": {
-      "have": [
-        "(調味料)"
-      ],
-      "optional": [
-        "(砂)"
-      ]
+      "have": ["(調味料)"],
+      "optional": ["(砂)"]
     },
     "createdNumbers": 3,
     "injectedNumbers": {
@@ -1068,28 +675,18 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "甘露岩",
-      "ハチミツ",
-      "(燃料)",
-      "(中和剤)"
-    ],
+    "sourceItems": ["甘露岩", "ハチミツ", "(燃料)", "(中和剤)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12",
       "調合 作成個数+1",
       "(砂)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～25",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～25", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ハチミツ": "甘露岩"
     }
@@ -1098,10 +695,7 @@
     "name": "旅人の水珠",
     "level": 22,
     "categories": {
-      "have": [
-        "(水)",
-        "(神秘の力)"
-      ],
+      "have": ["(水)", "(神秘の力)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -1110,30 +704,18 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
-      "optional": [
-        "雷"
-      ],
+      "have": ["氷", "風"],
+      "optional": ["雷"],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "泡立つ水",
-      "ゼッテル",
-      "(木の実)",
-      "(魚介類)"
-    ],
+    "sourceItems": ["泡立つ水", "ゼッテル", "(木の実)", "(魚介類)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12/+15",
       "雷属性付与",
       "影響拡大+1"
     ],
-    "effectsNotInFrame": [
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ゼッテル": "泡立つ水"
     }
@@ -1142,12 +724,8 @@
     "name": "超純水",
     "level": 42,
     "categories": {
-      "have": [
-        "(水)"
-      ],
-      "optional": [
-        "(薬の材料)"
-      ]
+      "have": ["(水)"],
+      "optional": ["(薬の材料)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -1155,42 +733,26 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 7,
       "min": 3
     },
-    "sourceItems": [
-      "旅人の水珠",
-      "聖樹の葉",
-      "(木材)",
-      "(砂)"
-    ],
+    "sourceItems": ["旅人の水珠", "聖樹の葉", "(木材)", "(砂)"],
     "effectsInFrame": [
       "調合 品質上昇+12/+15/+17/+20",
       "調合 作成個数+1/+2",
       "(薬の材料)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "ヒーリングチップ": {
     "name": "ヒーリングチップ",
     "level": 12,
     "categories": {
-      "have": [
-        "(薬の材料)",
-        "(気体)"
-      ],
-      "optional": [
-        "(木材)",
-        "(毒の材料)"
-      ]
+      "have": ["(薬の材料)", "(気体)"],
+      "optional": ["(木材)", "(毒の材料)"]
     },
     "createdNumbers": 3,
     "injectedNumbers": {
@@ -1198,29 +760,18 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "雷"
-      ],
+      "have": ["火", "雷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "ミックスオイル",
-      "乾いた木くず",
-      "(燃料)",
-      "(きのこ)"
-    ],
+    "sourceItems": ["ミックスオイル", "乾いた木くず", "(燃料)", "(きのこ)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12",
       "(木材)付与",
       "(毒の材料)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～120",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～120", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "簡易建材": "ミックスオイル"
     }
@@ -1229,14 +780,8 @@
     "name": "聖なる雫",
     "level": 38,
     "categories": {
-      "have": [
-        "(薬の材料)",
-        "(エリキシル)"
-      ],
-      "optional": [
-        "(神秘の力)",
-        "(水)"
-      ]
+      "have": ["(薬の材料)", "(エリキシル)"],
+      "optional": ["(神秘の力)", "(水)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -1244,30 +789,19 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "聖樹の葉",
-      "禁忌の雫",
-      "(ぷにぷに)",
-      "(神秘の力)"
-    ],
+    "sourceItems": ["聖樹の葉", "禁忌の雫", "(ぷにぷに)", "(神秘の力)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12/+15",
       "属性値+1/+2/+3",
       "(神秘の力)付与",
       "(水)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "禁忌の雫": "聖樹の葉"
     }
@@ -1276,13 +810,8 @@
     "name": "ポイズンキューブ",
     "level": 20,
     "categories": {
-      "have": [
-        "(毒の材料)"
-      ],
-      "optional": [
-        "(燃料)",
-        "(気体)"
-      ]
+      "have": ["(毒の材料)"],
+      "optional": ["(燃料)", "(気体)"]
     },
     "createdNumbers": 3,
     "injectedNumbers": {
@@ -1290,30 +819,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷",
-        "風"
-      ],
+      "have": ["雷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "魔獣の毒袋",
-      "小麦粉",
-      "(毒の材料)",
-      "(調味料)"
-    ],
+    "sourceItems": ["魔獣の毒袋", "小麦粉", "(毒の材料)", "(調味料)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12/+15",
       "調合 作成個数+1/+2",
       "(燃料)付与",
       "(気体)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "小麦粉": "魔獣の毒袋"
     }
@@ -1322,12 +840,8 @@
     "name": "禁忌の雫",
     "level": 36,
     "categories": {
-      "have": [
-        "(毒の材料)"
-      ],
-      "optional": [
-        "(エリキシル)"
-      ]
+      "have": ["(毒の材料)"],
+      "optional": ["(エリキシル)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -1335,30 +849,19 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火",
-        "氷"
-      ],
+      "have": ["火", "氷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "異界の腐木",
-      "ポイズンキューブ",
-      "(竜素材)",
-      "(毒の材料)"
-    ],
+    "sourceItems": ["異界の腐木", "ポイズンキューブ", "(竜素材)", "(毒の材料)"],
     "effectsInFrame": [
       "調合 品質上昇+10/+12/+15/+17",
       "属性値+1/+2",
       "影響拡大+1",
       "(エリキシル)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ポイズンキューブ": "異界の腐木"
     }
@@ -1367,12 +870,8 @@
     "name": "帯電砂",
     "level": 35,
     "categories": {
-      "have": [
-        "(砂)"
-      ],
-      "optional": [
-        "(金属)"
-      ]
+      "have": ["(砂)"],
+      "optional": ["(金属)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -1380,31 +879,19 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
-      "optional": [
-        "風"
-      ],
+      "have": ["雷"],
+      "optional": ["風"],
       "max": 6,
       "min": 2
     },
-    "sourceItems": [
-      "エメラルドグラス",
-      "雷の呼び鈴",
-      "(砂)",
-      "(金属)"
-    ],
+    "sourceItems": ["エメラルドグラス", "雷の呼び鈴", "(砂)", "(金属)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12/+15",
       "風属性付与",
       "影響拡大+1",
       "(金属)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "雷の呼び鈴": "エメラルドグラス"
     }
@@ -1413,12 +900,8 @@
     "name": "マーブルストーン",
     "level": 36,
     "categories": {
-      "have": [
-        "(石材)"
-      ],
-      "optional": [
-        "(神秘の力)"
-      ]
+      "have": ["(石材)"],
+      "optional": ["(神秘の力)"]
     },
     "createdNumbers": 3,
     "injectedNumbers": {
@@ -1426,32 +909,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
-      "optional": [
-        "火",
-        "風"
-      ],
+      "have": ["雷"],
+      "optional": ["火", "風"],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "創生の逆さ石",
-      "簡易石材",
-      "(雑貨)",
-      "(原石)"
-    ],
+    "sourceItems": ["創生の逆さ石", "簡易石材", "(雑貨)", "(原石)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12/+15",
       "火属性付与",
       "風属性付与",
       "(神秘の力)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "簡易石材": "創生の逆さ石"
     }
@@ -1460,12 +930,8 @@
     "name": "火薬のもと",
     "level": 24,
     "categories": {
-      "have": [
-        "(火薬)"
-      ],
-      "optional": [
-        "(毒の材料)"
-      ]
+      "have": ["(火薬)"],
+      "optional": ["(毒の材料)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -1473,44 +939,27 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火"
-      ],
-      "optional": [
-        "雷"
-      ],
+      "have": ["火"],
+      "optional": ["雷"],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "白煙炭",
-      "マグマパウダー",
-      "(木材)",
-      "(気体)"
-    ],
+    "sourceItems": ["白煙炭", "マグマパウダー", "(木材)", "(気体)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12/+15",
       "雷属性付与",
       "影響拡大+1",
       "(毒の材料)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～120",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～120", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "蒼炎の種火": {
     "name": "蒼炎の種火",
     "level": 42,
     "categories": {
-      "have": [
-        "(火薬)",
-        "(燃料)"
-      ],
-      "optional": [
-        "(竜素材)"
-      ]
+      "have": ["(火薬)", "(燃料)"],
+      "optional": ["(竜素材)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -1518,30 +967,19 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "常世の焔",
-      "火薬のもと",
-      "(砂)",
-      "(神秘の力)"
-    ],
+    "sourceItems": ["常世の焔", "火薬のもと", "(砂)", "(神秘の力)"],
     "effectsInFrame": [
       "調合 品質上昇+10/+12/+15/+17",
       "影響拡大+1",
       "属性値+1/+2",
       "(竜素材)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "火薬のもと": "常世の焔"
     }
@@ -1550,12 +988,8 @@
     "name": "ミックスオイル",
     "level": 10,
     "categories": {
-      "have": [
-        "(燃料)"
-      ],
-      "optional": [
-        "(気体)"
-      ]
+      "have": ["(燃料)"],
+      "optional": ["(気体)"]
     },
     "createdNumbers": 4,
     "injectedNumbers": {
@@ -1563,40 +997,21 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
-      "optional": [
-        "雷"
-      ],
+      "have": ["火"],
+      "optional": ["雷"],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "自然油",
-      "パルマの実",
-      "(木の実)",
-      "(中和剤)"
-    ],
-    "effectsInFrame": [
-      "調合 品質上昇+7/+10/+12",
-      "雷属性付与",
-      "(気体)付与"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["自然油", "パルマの実", "(木の実)", "(中和剤)"],
+    "effectsInFrame": ["調合 品質上昇+7/+10/+12", "雷属性付与", "(気体)付与"],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "メルトストーン": {
     "name": "メルトストーン",
     "level": 42,
     "categories": {
-      "have": [
-        "(燃料)",
-        "(石材)"
-      ],
+      "have": ["(燃料)", "(石材)"],
       "optional": []
     },
     "createdNumbers": 2,
@@ -1605,29 +1020,18 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "太陽の花",
-      "マーブルストーン",
-      "(竜素材)",
-      "(鉱石)"
-    ],
+    "sourceItems": ["太陽の花", "マーブルストーン", "(竜素材)", "(鉱石)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12/+15",
       "属性値+1/+2",
       "影響拡大+1"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "マーブルストーン": "太陽の花"
     }
@@ -1636,12 +1040,8 @@
     "name": "小麦粉",
     "level": 4,
     "categories": {
-      "have": [
-        "(食材)"
-      ],
-      "optional": [
-        "(火薬)"
-      ]
+      "have": ["(食材)"],
+      "optional": ["(火薬)"]
     },
     "createdNumbers": 3,
     "injectedNumbers": {
@@ -1649,42 +1049,26 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
-      "optional": [
-        "火"
-      ],
+      "have": ["雷"],
+      "optional": ["火"],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "ヴァッサ麦",
-      "紙くず",
-      "(燃料)"
-    ],
+    "sourceItems": ["ヴァッサ麦", "紙くず", "(燃料)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12/+15",
       "火属性付与",
       "(火薬)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～25",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～25", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "ゼラチンパウダー": {
     "name": "ゼラチンパウダー",
     "level": 13,
     "categories": {
-      "have": [
-        "(食材)",
-        "(薬の材料)"
-      ],
-      "optional": [
-        "(中和剤)"
-      ]
+      "have": ["(食材)", "(薬の材料)"],
+      "optional": ["(中和剤)"]
     },
     "createdNumbers": 3,
     "injectedNumbers": {
@@ -1692,41 +1076,26 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "氷"
-      ],
+      "have": ["火", "氷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "大きな骨",
-      "(動物素材)",
-      "(魚介類)",
-      "(ぷにぷに)"
-    ],
+    "sourceItems": ["大きな骨", "(動物素材)", "(魚介類)", "(ぷにぷに)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12",
       "調合 作成個数+1",
       "(中和剤)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "錬金繊維": {
     "name": "錬金繊維",
     "level": 6,
     "categories": {
-      "have": [
-        "(糸素材)"
-      ],
-      "optional": [
-        "(雑貨)"
-      ]
+      "have": ["(糸素材)"],
+      "optional": ["(雑貨)"]
     },
     "createdNumbers": 3,
     "injectedNumbers": {
@@ -1734,29 +1103,18 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷",
-        "風"
-      ],
+      "have": ["雷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "綿毛草",
-      "(植物)",
-      "(燃料)",
-      "(中和剤)"
-    ],
+    "sourceItems": ["綿毛草", "(植物)", "(燃料)", "(中和剤)"],
     "effectsInFrame": [
       "調合 品質上昇+5/+7/+10/+12",
       "属性値+1/+2",
       "(雑貨)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～25",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～25", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "クロース": "綿毛草"
     }
@@ -1765,14 +1123,8 @@
     "name": "ヘブンズストリング",
     "level": 31,
     "categories": {
-      "have": [
-        "(糸素材)",
-        "(神秘の力)"
-      ],
-      "optional": [
-        "(動物素材)",
-        "(雑貨)"
-      ]
+      "have": ["(糸素材)", "(神秘の力)"],
+      "optional": ["(動物素材)", "(雑貨)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -1780,30 +1132,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "聖石の欠片",
-      "錬金繊維",
-      "(魚介類)",
-      "(植物)"
-    ],
+    "sourceItems": ["聖石の欠片", "錬金繊維", "(魚介類)", "(植物)"],
     "effectsInFrame": [
       "調合 品質上昇+10/+12/+15/+17",
       "影響拡大+1",
       "(動物素材)付与",
       "(雑貨)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～120",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～120", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "錬金繊維": "聖石の欠片"
     }
@@ -1812,10 +1153,7 @@
     "name": "混鉄剛板",
     "level": 17,
     "categories": {
-      "have": [
-        "(木材)",
-        "(金属)"
-      ],
+      "have": ["(木材)", "(金属)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -1824,31 +1162,18 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
-      "optional": [
-        "風"
-      ],
+      "have": ["氷", "雷"],
+      "optional": ["風"],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "インゴット",
-      "簡易建材",
-      "(ぷにぷに)",
-      "(燃料)"
-    ],
+    "sourceItems": ["インゴット", "簡易建材", "(ぷにぷに)", "(燃料)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12/+15",
       "属性値+1/+2",
       "風属性付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～120",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～120", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "簡易建材": "インゴット"
     }
@@ -1857,13 +1182,8 @@
     "name": "ホーリーナット",
     "level": 32,
     "categories": {
-      "have": [
-        "(木材)",
-        "(神秘の力)"
-      ],
-      "optional": [
-        "(燃料)"
-      ]
+      "have": ["(木材)", "(神秘の力)"],
+      "optional": ["(燃料)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -1871,31 +1191,19 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "風"
-      ],
-      "optional": [
-        "火"
-      ],
+      "have": ["風"],
+      "optional": ["火"],
       "max": 6,
       "min": 2
     },
-    "sourceItems": [
-      "聖樹の大枝",
-      "混鉄剛板",
-      "(エリキシル)",
-      "(神秘の力)"
-    ],
+    "sourceItems": ["聖樹の大枝", "混鉄剛板", "(エリキシル)", "(神秘の力)"],
     "effectsInFrame": [
       "調合 品質上昇+10/+12/+15/+17",
       "属性値+1/+2",
       "火属性付与",
       "(燃料)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "混鉄剛板": "聖樹の大枝"
     }
@@ -1904,12 +1212,8 @@
     "name": "ミストリキッド",
     "level": 29,
     "categories": {
-      "have": [
-        "(気体)"
-      ],
-      "optional": [
-        "(雑貨)"
-      ]
+      "have": ["(気体)"],
+      "optional": ["(雑貨)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -1917,31 +1221,19 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "風"
-      ],
-      "optional": [
-        "氷"
-      ],
+      "have": ["風"],
+      "optional": ["氷"],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "古びた魔導書",
-      "旅人の水珠",
-      "(燃料)",
-      "(きのこ)"
-    ],
+    "sourceItems": ["古びた魔導書", "旅人の水珠", "(燃料)", "(きのこ)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12/+15",
       "氷属性付与",
       "影響拡大+1",
       "(雑貨)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "旅人の水珠": "古びた魔導書"
     }
@@ -1950,12 +1242,8 @@
     "name": "フェザードラフト",
     "level": 41,
     "categories": {
-      "have": [
-        "(気体)"
-      ],
-      "optional": [
-        "(動物素材)"
-      ]
+      "have": ["(気体)"],
+      "optional": ["(動物素材)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -1963,11 +1251,7 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "火",
-        "雷",
-        "風"
-      ],
+      "have": ["火", "雷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
@@ -1984,20 +1268,14 @@
       "影響拡大+1",
       "(動物素材)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "ぷにレザー": {
     "name": "ぷにレザー",
     "level": 23,
     "categories": {
-      "have": [
-        "(動物素材)",
-        "(ぷにぷに)"
-      ],
+      "have": ["(動物素材)", "(ぷにぷに)"],
       "optional": []
     },
     "createdNumbers": 3,
@@ -2006,28 +1284,14 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "大ぷに玉",
-      "ネイチャークロス",
-      "(ぷにぷに)",
-      "(きのこ)"
-    ],
-    "effectsInFrame": [
-      "装備作成 攻撃+1/+2/+3",
-      "装備作成 全能+1/+2"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～120",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["大ぷに玉", "ネイチャークロス", "(ぷにぷに)", "(きのこ)"],
+    "effectsInFrame": ["装備作成 攻撃+1/+2/+3", "装備作成 全能+1/+2"],
+    "effectsNotInFrame": ["品質 +10～120", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ネイチャークロス": "大ぷに玉"
     }
@@ -2036,10 +1300,7 @@
     "name": "マスターレザー",
     "level": 40,
     "categories": {
-      "have": [
-        "(動物素材)",
-        "(竜素材)"
-      ],
+      "have": ["(動物素材)", "(竜素材)"],
       "optional": []
     },
     "createdNumbers": 2,
@@ -2048,41 +1309,22 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "幻獣の毛皮",
-      "巨大なツメ",
-      "(竜素材)",
-      "(木の実)"
-    ],
-    "effectsInFrame": [
-      "装備作成 攻防+2/+3/+4/+5",
-      "装備作成 全能+1/+2/+3"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～120",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["幻獣の毛皮", "巨大なツメ", "(竜素材)", "(木の実)"],
+    "effectsInFrame": ["装備作成 攻防+2/+3/+4/+5", "装備作成 全能+1/+2/+3"],
+    "effectsNotInFrame": ["品質 +10～120", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "ガラスの花": {
     "name": "ガラスの花",
     "level": 34,
     "categories": {
-      "have": [
-        "(神秘の力)",
-        "(宝石)"
-      ],
-      "optional": [
-        "(植物)"
-      ]
+      "have": ["(神秘の力)", "(宝石)"],
+      "optional": ["(植物)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -2090,31 +1332,19 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
-      "optional": [
-        "火"
-      ],
+      "have": ["氷"],
+      "optional": ["火"],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "ロテスヴァッサ鉱水",
-      "デルフィローズ香",
-      "(花)",
-      "(植物)"
-    ],
+    "sourceItems": ["ロテスヴァッサ鉱水", "デルフィローズ香", "(花)", "(植物)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12/+15",
       "火属性付与",
       "影響拡大+1",
       "(植物)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "デルフィローズ香": "ロテスヴァッサ鉱水"
     }
@@ -2123,14 +1353,8 @@
     "name": "精霊の小瓶",
     "level": 32,
     "categories": {
-      "have": [
-        "(神秘の力)",
-        "(雑貨)"
-      ],
-      "optional": [
-        "(宝石)",
-        "(エリキシル)"
-      ]
+      "have": ["(神秘の力)", "(雑貨)"],
+      "optional": ["(宝石)", "(エリキシル)"]
     },
     "createdNumbers": 2,
     "injectedNumbers": {
@@ -2138,32 +1362,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "氷",
-        "雷",
-        "風"
-      ],
+      "have": ["火", "氷", "雷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "ラピス・パピヨン",
-      "光る砂",
-      "(虫)",
-      "(原石)"
-    ],
+    "sourceItems": ["ラピス・パピヨン", "光る砂", "(虫)", "(原石)"],
     "effectsInFrame": [
       "調合 品質上昇+10/+12/+15/+17",
       "属性値+1/+2",
       "(宝石)付与",
       "(エリキシル)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "アルケミーペイント": "ラピス・パピヨン"
     }
@@ -2172,16 +1383,8 @@
     "name": "クリスタルエレメント",
     "level": 46,
     "categories": {
-      "have": [
-        "(神秘の力)",
-        "(火薬)",
-        "(水)",
-        "(砂)"
-      ],
-      "optional": [
-        "(虫)",
-        "(花)"
-      ]
+      "have": ["(神秘の力)", "(火薬)", "(水)", "(砂)"],
+      "optional": ["(虫)", "(花)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -2189,32 +1392,19 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火",
-        "氷",
-        "雷",
-        "風"
-      ],
+      "have": ["火", "氷", "雷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "セプトリエン",
-      "ゴーレムのコア",
-      "(原石)",
-      "(中和剤)"
-    ],
+    "sourceItems": ["セプトリエン", "ゴーレムのコア", "(原石)", "(中和剤)"],
     "effectsInFrame": [
       "調合 品質上昇+12/+15/+17/+20",
       "影響拡大+1/+2",
       "(虫)付与",
       "(花)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～80",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～80", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "精霊の小瓶": "セプトリエン"
     }
@@ -2223,12 +1413,7 @@
     "name": "賢者の石",
     "level": 48,
     "categories": {
-      "have": [
-        "(エリキシル)",
-        "(中和剤)",
-        "(宝石)",
-        "(神秘の力)"
-      ],
+      "have": ["(エリキシル)", "(中和剤)", "(宝石)", "(神秘の力)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -2237,23 +1422,12 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
-      "optional": [
-        "火",
-        "風"
-      ],
+      "have": ["氷", "雷"],
+      "optional": ["火", "風"],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "赤の輝石",
-      "クリスタルエレメント",
-      "竜眼",
-      "(エリキシル)"
-    ],
+    "sourceItems": ["赤の輝石", "クリスタルエレメント", "竜眼", "(エリキシル)"],
     "effectsInFrame": [
       "属性値+1/+2/+3",
       "影響拡大+1/+2/+3",
@@ -2273,9 +1447,7 @@
     "name": "植物の種",
     "level": 14,
     "categories": {
-      "have": [
-        "(種)"
-      ],
+      "have": ["(種)"],
       "optional": []
     },
     "createdNumbers": 2,
@@ -2284,38 +1456,26 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "風"
-      ],
+      "have": ["風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "若木の枝葉",
-      "(調味料)",
-      "(うに)",
-      "(植物)"
-    ],
+    "sourceItems": ["若木の枝葉", "(調味料)", "(うに)", "(植物)"],
     "effectsInFrame": [
       "よく育つ・小/中/大/超",
       "収穫量アップ・小/中/大/超",
       "特性レベルアップ・小/中/大/超",
       "レア収穫率アップ・小/中/大/超"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "石の種": {
     "name": "石の種",
     "level": 16,
     "categories": {
-      "have": [
-        "(種)"
-      ],
+      "have": ["(種)"],
       "optional": []
     },
     "createdNumbers": 2,
@@ -2324,29 +1484,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "鍾乳石の欠片",
-      "(調味料)",
-      "(うに)",
-      "(石材)"
-    ],
+    "sourceItems": ["鍾乳石の欠片", "(調味料)", "(うに)", "(石材)"],
     "effectsInFrame": [
       "よく育つ・小/中/大/超",
       "収穫量アップ・小/中/大/超",
       "特性レベルアップ・小/中/大/超",
       "レア収穫率アップ・小/中/大/超"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "植物の種": "鍾乳石の欠片"
     }
@@ -2355,9 +1505,7 @@
     "name": "火の種",
     "level": 25,
     "categories": {
-      "have": [
-        "(種)"
-      ],
+      "have": ["(種)"],
       "optional": []
     },
     "createdNumbers": 2,
@@ -2366,29 +1514,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "焔の黒砂",
-      "(調味料)",
-      "(うに)",
-      "(火薬)"
-    ],
+    "sourceItems": ["焔の黒砂", "(調味料)", "(うに)", "(火薬)"],
     "effectsInFrame": [
       "よく育つ・小/中/大/超",
       "収穫量アップ・小/中/大/超",
       "特性レベルアップ・小/中/大/超",
       "レア収穫率アップ・小/中/大/超"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "石の種": "焔の黒砂"
     }
@@ -2397,9 +1535,7 @@
     "name": "水の種",
     "level": 16,
     "categories": {
-      "have": [
-        "(種)"
-      ],
+      "have": ["(種)"],
       "optional": []
     },
     "createdNumbers": 2,
@@ -2408,29 +1544,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "植物エキス",
-      "(調味料)",
-      "(うに)",
-      "(魚介類)"
-    ],
+    "sourceItems": ["植物エキス", "(調味料)", "(うに)", "(魚介類)"],
     "effectsInFrame": [
       "よく育つ・小/中/大/超",
       "収穫量アップ・小/中/大/超",
       "特性レベルアップ・小/中/大/超",
       "レア収穫率アップ・小/中/大/超"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "植物の種": "植物エキス"
     }
@@ -2439,9 +1565,7 @@
     "name": "神秘の種",
     "level": 30,
     "categories": {
-      "have": [
-        "(種)"
-      ],
+      "have": ["(種)"],
       "optional": []
     },
     "createdNumbers": 2,
@@ -2450,32 +1574,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "氷",
-        "雷",
-        "風"
-      ],
+      "have": ["火", "氷", "雷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "聖石の欠片",
-      "(調味料)",
-      "(うに)",
-      "(神秘の力)"
-    ],
+    "sourceItems": ["聖石の欠片", "(調味料)", "(うに)", "(神秘の力)"],
     "effectsInFrame": [
       "よく育つ・小/中/大/超",
       "収穫量アップ・小/中/大/超",
       "特性レベルアップ・小/中/大/超",
       "レア収穫率アップ・小/中/大/超"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "水の種": "聖石の欠片"
     }
@@ -2484,9 +1595,7 @@
     "name": "簡易建材",
     "level": 6,
     "categories": {
-      "have": [
-        "(木材)"
-      ],
+      "have": ["(木材)"],
       "optional": []
     },
     "createdNumbers": 2,
@@ -2495,37 +1604,21 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "風"
-      ],
-      "optional": [
-        "雷"
-      ],
+      "have": ["風"],
+      "optional": ["雷"],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "アイヒェ",
-      "(木材)",
-      "(木の実)"
-    ],
-    "effectsInFrame": [
-      "調合 品質上昇+5/+7/+10",
-      "雷属性付与"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～65",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["アイヒェ", "(木材)", "(木の実)"],
+    "effectsInFrame": ["調合 品質上昇+5/+7/+10", "雷属性付与"],
+    "effectsNotInFrame": ["品質 +10～65", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "簡易石材": {
     "name": "簡易石材",
     "level": 6,
     "categories": {
-      "have": [
-        "(石材)"
-      ],
+      "have": ["(石材)"],
       "optional": []
     },
     "createdNumbers": 2,
@@ -2534,37 +1627,21 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
-      "optional": [
-        "火"
-      ],
+      "have": ["氷"],
+      "optional": ["火"],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "風化した石材",
-      "(石材)",
-      "(燃料)"
-    ],
-    "effectsInFrame": [
-      "調合 品質上昇+5/+7/+10",
-      "火属性付与"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["風化した石材", "(石材)", "(燃料)"],
+    "effectsInFrame": ["調合 品質上昇+5/+7/+10", "火属性付与"],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "海草土": {
     "name": "海草土",
     "level": 5,
     "categories": {
-      "have": [
-        "(砂)"
-      ],
+      "have": ["(砂)"],
       "optional": []
     },
     "createdNumbers": 2,
@@ -2573,41 +1650,22 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "風"
-      ],
-      "optional": [
-        "氷"
-      ],
+      "have": ["風"],
+      "optional": ["氷"],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "塩草",
-      "やわらかい砂",
-      "(砂)",
-      "(水)"
-    ],
-    "effectsInFrame": [
-      "調合 品質上昇+5/+7/+10",
-      "氷属性付与"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～65",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["塩草", "やわらかい砂", "(砂)", "(水)"],
+    "effectsInFrame": ["調合 品質上昇+5/+7/+10", "氷属性付与"],
+    "effectsNotInFrame": ["品質 +10～65", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "軟式ゴム石": {
     "name": "軟式ゴム石",
     "level": 7,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
-      "optional": [
-        "(石材)"
-      ]
+      "have": ["(魔法の道具)"],
+      "optional": ["(石材)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -2615,42 +1673,22 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "雷"
-      ],
+      "have": ["火", "雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "(木の実)",
-      "(砂)",
-      "(ぷにぷに)",
-      "(中和剤)"
-    ],
-    "effectsInFrame": [
-      "調合 品質上昇+5/+7/+10/+12",
-      "属性値+1",
-      "(石材)付与"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["(木の実)", "(砂)", "(ぷにぷに)", "(中和剤)"],
+    "effectsInFrame": ["調合 品質上昇+5/+7/+10/+12", "属性値+1", "(石材)付与"],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "誘魔香": {
     "name": "誘魔香",
     "level": 11,
     "categories": {
-      "have": [
-        "(雑貨)",
-        "(魔法の道具)"
-      ],
-      "optional": [
-        "(きのこ)"
-      ]
+      "have": ["(雑貨)", "(魔法の道具)"],
+      "optional": ["(きのこ)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -2658,41 +1696,26 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "風"
-      ],
+      "have": ["風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "魔石の欠片",
-      "七色葡萄",
-      "(毒の材料)",
-      "(気体)"
-    ],
+    "sourceItems": ["魔石の欠片", "七色葡萄", "(毒の材料)", "(気体)"],
     "effectsInFrame": [
       "調合 品質上昇+5/+7/+10/+12",
       "属性値+1",
       "(きのこ)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "強力な魚のエサ": {
     "name": "強力な魚のエサ",
     "level": 12,
     "categories": {
-      "have": [
-        "(雑貨)",
-        "(食材)"
-      ],
-      "optional": [
-        "(薬の材料)"
-      ]
+      "have": ["(雑貨)", "(食材)"],
+      "optional": ["(薬の材料)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -2700,29 +1723,18 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "雷"
-      ],
+      "have": ["火", "雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "クミネの実",
-      "七色葡萄",
-      "(魚介類)",
-      "(きのこ)"
-    ],
+    "sourceItems": ["クミネの実", "七色葡萄", "(魚介類)", "(きのこ)"],
     "effectsInFrame": [
       "調合 品質上昇+7/+10/+12/+15",
       "属性値+1/+2",
       "(薬の材料)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～25",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～25", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "おいしい練り餌": "香る蜜木"
     }
@@ -2731,12 +1743,8 @@
     "name": "補助義手",
     "level": 28,
     "categories": {
-      "have": [
-        "(金属)"
-      ],
-      "optional": [
-        "(神秘の力)"
-      ]
+      "have": ["(金属)"],
+      "optional": ["(神秘の力)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -2744,42 +1752,27 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
-      "optional": [
-        "氷"
-      ],
+      "have": ["雷"],
+      "optional": ["氷"],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "共振の玉石",
-      "スタルチウム",
-      "(竜素材)",
-      "(神秘の力)"
-    ],
+    "sourceItems": ["共振の玉石", "スタルチウム", "(竜素材)", "(神秘の力)"],
     "effectsInFrame": [
       "調合 品質上昇+10/+12/+15/+17",
       "属性値+1/+2",
       "氷属性付与",
       "(神秘の力)付与"
     ],
-    "effectsNotInFrame": [
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "超鋼ギア": {
     "name": "超鋼ギア",
     "level": 40,
     "categories": {
-      "have": [
-        "(金属)"
-      ],
-      "optional": [
-        "(雑貨)"
-      ]
+      "have": ["(金属)"],
+      "optional": ["(雑貨)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -2787,45 +1780,27 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
-      "optional": [
-        "風"
-      ],
+      "have": ["火"],
+      "optional": ["風"],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "翡翠の煌水",
-      "スタルチウム",
-      "(鉱石)",
-      "(燃料)"
-    ],
+    "sourceItems": ["翡翠の煌水", "スタルチウム", "(鉱石)", "(燃料)"],
     "effectsInFrame": [
       "調合 品質上昇+10/+12/+15/+17",
       "影響拡大+1",
       "風属性付与",
       "(雑貨)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "赤の輝石": {
     "name": "赤の輝石",
     "level": 43,
     "categories": {
-      "have": [
-        "(エリキシル)",
-        "(神秘の力)"
-      ],
-      "optional": [
-        "(薬の材料)",
-        "(ぷにぷに)"
-      ]
+      "have": ["(エリキシル)", "(神秘の力)"],
+      "optional": ["(薬の材料)", "(ぷにぷに)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -2833,39 +1808,26 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "異界のコア",
-      "聖なる雫",
-      "禁忌の雫",
-      "竜眼"
-    ],
+    "sourceItems": ["異界のコア", "聖なる雫", "禁忌の雫", "竜眼"],
     "effectsInFrame": [
       "調合 作成個数+1/+2",
       "属性値+1/+2",
       "(薬の材料)付与",
       "(ぷにぷに)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～120",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～120", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "爆粉うに": {
     "name": "爆粉うに",
     "level": 2,
     "categories": {
-      "have": [
-        "(爆弾)"
-      ],
+      "have": ["(爆弾)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -2874,35 +1836,25 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "(うに)",
-      "(火薬)",
-      "(燃料)"
-    ],
+    "sourceItems": ["(うに)", "(火薬)", "(燃料)"],
     "effectsInFrame": [
       "炸裂するうに / 飛散するうに / 爆散するうに",
       "うにのトゲ・小/中/大",
       "驚かせる・小/中/大"
     ],
-    "effectsNotInFrame": [
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "氷びし": {
     "name": "氷びし",
     "level": 4,
     "categories": {
-      "have": [
-        "(爆弾)"
-      ],
+      "have": ["(爆弾)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -2911,28 +1863,18 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "(水)",
-      "(魚介類)",
-      "(鉱石)",
-      "(中和剤)"
-    ],
+    "sourceItems": ["(水)", "(魚介類)", "(鉱石)", "(中和剤)"],
     "effectsInFrame": [
       "つめたい痛み / しみこむ痛み / こごえる痛み",
       "素早さダウン・小/中",
       "凍傷を与える・弱"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～20",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～20", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "爆粉うに": "中和剤・青"
     }
@@ -2941,9 +1883,7 @@
     "name": "クラフト",
     "level": 4,
     "categories": {
-      "have": [
-        "(爆弾)"
-      ],
+      "have": ["(爆弾)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -2952,28 +1892,18 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "風"
-      ],
+      "have": ["風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "(うに)",
-      "(火薬)",
-      "(燃料)",
-      "(中和剤)"
-    ],
+    "sourceItems": ["(うに)", "(火薬)", "(燃料)", "(中和剤)"],
     "effectsInFrame": [
       "物理ダメージ・微/小/中/大",
       "力を失う・小/中/大",
       "弾けるトゲ・小/中/大"
     ],
-    "effectsNotInFrame": [
-      "品質 +20～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +20～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "爆粉うに": "中和剤・赤"
     }
@@ -2982,9 +1912,7 @@
     "name": "フラム",
     "level": 6,
     "categories": {
-      "have": [
-        "(爆弾)"
-      ],
+      "have": ["(爆弾)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -2993,38 +1921,25 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "セキネツ鉱",
-      "(火薬)",
-      "(燃料)",
-      "(中和剤)",
-      "燃える砂"
-    ],
+    "sourceItems": ["セキネツ鉱", "(火薬)", "(燃料)", "(中和剤)", "燃える砂"],
     "effectsInFrame": [
       "火ダメージ・微/小/中 / 真紅の炎",
       "守りを失う・小/中/大",
       "火傷を与える・弱"
     ],
-    "effectsNotInFrame": [
-      "品質 +20～150",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +20～150", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "レヘルン": {
     "name": "レヘルン",
     "level": 8,
     "categories": {
-      "have": [
-        "(爆弾)"
-      ],
+      "have": ["(爆弾)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3033,29 +1948,18 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "アクア鉱",
-      "(水)",
-      "(魚介類)",
-      "(中和剤)",
-      "清水の白姫"
-    ],
+    "sourceItems": ["アクア鉱", "(水)", "(魚介類)", "(中和剤)", "清水の白姫"],
     "effectsInFrame": [
       "氷ダメージ・微/小/中 / 広がる氷結",
       "速さを失う・小/中/大",
       "凍傷を与える・弱"
     ],
-    "effectsNotInFrame": [
-      "品質 +20～90",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +20～90", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "氷びし": "アクア鉱"
     }
@@ -3064,9 +1968,7 @@
     "name": "プラジグ",
     "level": 11,
     "categories": {
-      "have": [
-        "(爆弾)"
-      ],
+      "have": ["(爆弾)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3075,9 +1977,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -3094,19 +1994,14 @@
       "感覚を失う・小/中/大",
       "麻痺を与える・弱"
     ],
-    "effectsNotInFrame": [
-      "品質 +20～90",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +20～90", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "ルフト": {
     "name": "ルフト",
     "level": 10,
     "categories": {
-      "have": [
-        "(爆弾)"
-      ],
+      "have": ["(爆弾)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3115,9 +2010,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "風"
-      ],
+      "have": ["風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -3135,19 +2028,14 @@
       "暗闇を与える・弱",
       "風力強化"
     ],
-    "effectsNotInFrame": [
-      "品質 +20～90",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +20～90", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "ノルデンブランド": {
     "name": "ノルデンブランド",
     "level": 18,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3156,10 +2044,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "氷"
-      ],
+      "have": ["火", "氷"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -3177,11 +2062,7 @@
       "鋭利な剣先・小/中/大",
       "封印を与える・弱/中"
     ],
-    "effectsNotInFrame": [
-      "CC -1",
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1", "品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "スタルチウム": "レヘルン"
     }
@@ -3190,9 +2071,7 @@
     "name": "雷の呼び鈴",
     "level": 19,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3201,10 +2080,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷",
-        "風"
-      ],
+      "have": ["雷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -3223,20 +2099,14 @@
       "落雷の地鳴り・小/中/大",
       "マルチオーダー"
     ],
-    "effectsNotInFrame": [
-      "CC -1",
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1", "品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "泡雲の弾丸": {
     "name": "泡雲の弾丸",
     "level": 20,
     "categories": {
-      "have": [
-        "(爆弾)"
-      ],
+      "have": ["(爆弾)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3245,10 +2115,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -3267,20 +2134,14 @@
       "泡まみれ・小/中/大",
       "眠りを与える・弱"
     ],
-    "effectsNotInFrame": [
-      "CC -1",
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1", "品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "ローゼフラム": {
     "name": "ローゼフラム",
     "level": 27,
     "categories": {
-      "have": [
-        "(爆弾)"
-      ],
+      "have": ["(爆弾)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3289,9 +2150,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -3310,11 +2169,7 @@
       "火傷を与える・弱/中/強",
       "焦熱の花冠・小/大 / 灼熱の花冠"
     ],
-    "effectsNotInFrame": [
-      "CC -1",
-      "品質 +15～115",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1", "品質 +15～115", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "フラム": "火薬のもと"
     }
@@ -3323,9 +2178,7 @@
     "name": "クライトレヘルン",
     "level": 33,
     "categories": {
-      "have": [
-        "(爆弾)"
-      ],
+      "have": ["(爆弾)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3334,9 +2187,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -3355,11 +2206,7 @@
       "凍傷を与える・弱/中",
       "エンパイアライン"
     ],
-    "effectsNotInFrame": [
-      "CC -1",
-      "品質 +50～150",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1", "品質 +50～150", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "レヘルン": "ガラスの花"
     }
@@ -3368,9 +2215,7 @@
     "name": "シュトラプラジグ",
     "level": 34,
     "categories": {
-      "have": [
-        "(爆弾)"
-      ],
+      "have": ["(爆弾)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3379,9 +2224,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -3400,11 +2243,7 @@
       "麻痺を与える・弱/中",
       "一極集中・小/大 / 大放電"
     ],
-    "effectsNotInFrame": [
-      "CC -1",
-      "品質 +50～150",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1", "品質 +50～150", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "プラジグ": "帯電砂"
     }
@@ -3413,9 +2252,7 @@
     "name": "レーツェルフト",
     "level": 30,
     "categories": {
-      "have": [
-        "(爆弾)"
-      ],
+      "have": ["(爆弾)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3424,9 +2261,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "風"
-      ],
+      "have": ["風"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -3445,11 +2280,7 @@
       "刺傷を与える・弱/中/大",
       "荒れ狂う風"
     ],
-    "effectsNotInFrame": [
-      "CC -1",
-      "品質 +50～150",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1", "品質 +50～150", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ルフト": "ミストリキッド"
     }
@@ -3458,9 +2289,7 @@
     "name": "誘引火瓶",
     "level": 36,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3469,9 +2298,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -3490,11 +2317,7 @@
       "熱波放出・小/中/大",
       "高温の火膜・小/中/大"
     ],
-    "effectsNotInFrame": [
-      "CC -1～-2",
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1～-2", "品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ローゼフラム": "蒼炎の種火"
     }
@@ -3503,9 +2326,7 @@
     "name": "創世の槌",
     "level": 38,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3514,10 +2335,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火",
-        "雷"
-      ],
+      "have": ["火", "雷"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -3537,20 +2355,14 @@
       "呼応する大海・小/中/大",
       "ヒュージハンマー"
     ],
-    "effectsNotInFrame": [
-      "CC -1～-2",
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1～-2", "品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "バニッシジーゲル": {
     "name": "バニッシジーゲル",
     "level": 40,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3559,10 +2371,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -3583,11 +2392,7 @@
       "淀みの空・小/中/大",
       "描かれる終末"
     ],
-    "effectsNotInFrame": [
-      "CC -1～-2",
-      "品質 +50～100",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1～-2", "品質 +50～100", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "クライトレヘルン": "フェザードラフト",
       "レーツェルフト": "フェザードラフト"
@@ -3597,9 +2402,7 @@
     "name": "ルナ―ランプ",
     "level": 44,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3608,10 +2411,7 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -3644,9 +2444,7 @@
     "name": "エターンセルフィア",
     "level": 46,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3655,9 +2453,7 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 7,
       "min": 3
@@ -3690,9 +2486,7 @@
     "name": "賢人の宝典",
     "level": 50,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3701,12 +2495,7 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "火",
-        "氷",
-        "雷",
-        "風"
-      ],
+      "have": ["火", "氷", "雷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -3742,9 +2531,7 @@
     "name": "グラスビーンズ",
     "level": 2,
     "categories": {
-      "have": [
-        "(薬品)"
-      ],
+      "have": ["(薬品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3753,36 +2540,21 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "風"
-      ],
+      "have": ["風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "(薬の材料)",
-      "(花)",
-      "(植物)"
-    ],
-    "effectsInFrame": [
-      "HP回復・微",
-      "毒を治療",
-      "眠りを治療"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～60",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["(薬の材料)", "(花)", "(植物)"],
+    "effectsInFrame": ["HP回復・微", "毒を治療", "眠りを治療"],
+    "effectsNotInFrame": ["品質 +10～60", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "ドライビスク": {
     "name": "ドライビスク",
     "level": 4,
     "categories": {
-      "have": [
-        "(食品)"
-      ],
+      "have": ["(食品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3791,27 +2563,14 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "小麦粉",
-      "クーケンフルーツ",
-      "(薬の材料)",
-      "(中和剤)"
-    ],
-    "effectsInFrame": [
-      "食べて回復・微/小/中",
-      "腹持ちが良い・小/中"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "sourceItems": ["小麦粉", "クーケンフルーツ", "(薬の材料)", "(中和剤)"],
+    "effectsInFrame": ["食べて回復・微/小/中", "腹持ちが良い・小/中"],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "グラスビーンズ": "小麦粉"
     }
@@ -3820,9 +2579,7 @@
     "name": "施しの軟膏",
     "level": 5,
     "categories": {
-      "have": [
-        "(薬品)"
-      ],
+      "have": ["(薬品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3831,30 +2588,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "苦い根っこ",
-      "(薬の材料)",
-      "(花)",
-      "(中和剤)"
-    ],
+    "sourceItems": ["苦い根っこ", "(薬の材料)", "(花)", "(中和剤)"],
     "effectsInFrame": [
       "HP回復・微/小",
       "戦闘不能を回復・微",
       "火傷を治療",
       "刺傷を治療"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～100",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～100", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "グラスビーンズ": "苦い根っこ"
     }
@@ -3863,9 +2609,7 @@
     "name": "プニゼリー",
     "level": 12,
     "categories": {
-      "have": [
-        "(食品)"
-      ],
+      "have": ["(食品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3874,28 +2618,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 6,
       "min": 2
     },
-    "sourceItems": [
-      "ゼラチンパウダー",
-      "(ぷにぷに)",
-      "(薬の材料)",
-      "(水)"
-    ],
+    "sourceItems": ["ゼラチンパウダー", "(ぷにぷに)", "(薬の材料)", "(水)"],
     "effectsInFrame": [
       "HP割合回復・微/小/中",
       "ぷるぷる / どろどろ / もちもち",
       "ブレイク値回復・小/中",
       "スロウを治療"
     ],
-    "effectsNotInFrame": [
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ドライビスク": "ゼラチンパウダー"
     }
@@ -3904,9 +2639,7 @@
     "name": "ラーゼンプディング",
     "level": 14,
     "categories": {
-      "have": [
-        "(食品)"
-      ],
+      "have": ["(食品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3915,10 +2648,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -3935,19 +2665,14 @@
       "強烈な香り / 独特な香り / 芳醇な香り",
       "淡白な味わい / 濃厚な味わい"
     ],
-    "effectsNotInFrame": [
-      "CC -1",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "せせらぎの薫風": {
     "name": "せせらぎの薫風",
     "level": 16,
     "categories": {
-      "have": [
-        "(薬品)"
-      ],
+      "have": ["(薬品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -3956,10 +2681,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 4,
       "min": 0
@@ -3978,20 +2700,14 @@
       "毒を治療 / 麻痺を治療",
       "凍傷を治療"
     ],
-    "effectsNotInFrame": [
-      "CC -1",
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1", "品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "リストレア薬瓶": {
     "name": "リストレア薬瓶",
     "level": 19,
     "categories": {
-      "have": [
-        "(薬品)"
-      ],
+      "have": ["(薬品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4000,9 +2716,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -4019,19 +2733,14 @@
       "治療効果 / 美白効果",
       "体力一時増強・小/中"
     ],
-    "effectsNotInFrame": [
-      "CC -1",
-      "品質 +20～40特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1", "品質 +20～40特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "ネクタル": {
     "name": "ネクタル",
     "level": 24,
     "categories": {
-      "have": [
-        "(薬品)"
-      ],
+      "have": ["(薬品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4040,10 +2749,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -4056,15 +2762,8 @@
       "安らぎの花",
       "万年魚"
     ],
-    "effectsInFrame": [
-      "戦闘不能を回復・小/中/大",
-      "AP回復・小/中"
-    ],
-    "effectsNotInFrame": [
-      "CC -1～-2",
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsInFrame": ["戦闘不能を回復・小/中/大", "AP回復・小/中"],
+    "effectsNotInFrame": ["CC -1～-2", "品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "リストレア薬瓶": "ぷにぷに玉・赤"
     }
@@ -4073,9 +2772,7 @@
     "name": "癒しの薬玉",
     "level": 31,
     "categories": {
-      "have": [
-        "(薬品)"
-      ],
+      "have": ["(薬品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4084,10 +2781,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -4104,20 +2798,14 @@
       "粉薬が舞う・小/中/大",
       "感謝の言葉 / 歓迎の言葉 / 祝福の言葉"
     ],
-    "effectsNotInFrame": [
-      "CC -1～-2",
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1～-2", "品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "躍動シロップ": {
     "name": "躍動シロップ",
     "level": 26,
     "categories": {
-      "have": [
-        "(薬品)"
-      ],
+      "have": ["(薬品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4126,10 +2814,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火",
-        "雷"
-      ],
+      "have": ["火", "雷"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -4147,20 +2832,14 @@
       "おなかでおちつく / おなかでおきらく / おなかではたらく",
       "攻撃力アップ・小/中"
     ],
-    "effectsNotInFrame": [
-      "CC -1～-2",
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1～-2", "品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "カクテルレープ": {
     "name": "カクテルレープ",
     "level": 38,
     "categories": {
-      "have": [
-        "(食品)"
-      ],
+      "have": ["(食品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4169,10 +2848,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火",
-        "氷"
-      ],
+      "have": ["火", "氷"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -4190,11 +2866,7 @@
       "味わい果物 / フルーツカクテル",
       "ブレイク値回復・小/中/大/超"
     ],
-    "effectsNotInFrame": [
-      "CC -1～-2",
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1～-2", "品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ラーゼンプディング": "翼竜のタマゴ"
     }
@@ -4203,9 +2875,7 @@
     "name": "女神の飲みさし",
     "level": 48,
     "categories": {
-      "have": [
-        "(薬品)"
-      ],
+      "have": ["(薬品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4214,10 +2884,7 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "雷",
-        "風"
-      ],
+      "have": ["雷", "風"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -4250,9 +2917,7 @@
     "name": "エリキシル剤",
     "level": 45,
     "categories": {
-      "have": [
-        "(薬品)"
-      ],
+      "have": ["(薬品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4261,10 +2926,7 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -4299,9 +2961,7 @@
     "name": "魚油リキッド",
     "level": 7,
     "categories": {
-      "have": [
-        "(薬品)"
-      ],
+      "have": ["(薬品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4310,29 +2970,18 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "氷"
-      ],
+      "have": ["火", "氷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "サルディン",
-      "塩草",
-      "(魚介類)",
-      "(燃料)"
-    ],
+    "sourceItems": ["サルディン", "塩草", "(魚介類)", "(燃料)"],
     "effectsInFrame": [
       "身体が強くなる・小/中/大",
       "素早さアップ・小/中",
       "封印を治療"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～20",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～20", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ミックスオイル": "サルディン"
     }
@@ -4341,9 +2990,7 @@
     "name": "ウォーパウダー",
     "level": 12,
     "categories": {
-      "have": [
-        "(薬品)"
-      ],
+      "have": ["(薬品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4352,29 +2999,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 6,
       "min": 2
     },
-    "sourceItems": [
-      "夢見るきのこ",
-      "キノコパウダー",
-      "(虫)",
-      "(食材)"
-    ],
+    "sourceItems": ["夢見るきのこ", "キノコパウダー", "(虫)", "(食材)"],
     "effectsInFrame": [
       "力を呼び覚ます / 本能を呼び覚ます / 全霊を呼び覚ます",
       "命中率アップ・小/中",
       "AP回復・小/中/大",
       "スロウを治療"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～20",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～20", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "エルツ糖": "夢見るきのこ"
     }
@@ -4383,9 +3020,7 @@
     "name": "イバラの抱擁",
     "level": 11,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4394,30 +3029,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷",
-        "風"
-      ],
+      "have": ["雷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "クミネの毒液",
-      "丈夫なつる",
-      "(毒の材料)",
-      "(花)"
-    ],
+    "sourceItems": ["クミネの毒液", "丈夫なつる", "(毒の材料)", "(花)"],
     "effectsInFrame": [
       "感覚を抜き取る / 精神を抜き取る / 自由を抜き取る",
       "スロウを与える・弱/中/強",
       "毒を与える・弱/中/強",
       "氷に弱くなる"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～30",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～30", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "錬金繊維": "クミネの毒液"
     }
@@ -4426,9 +3050,7 @@
     "name": "エネルジアニカ",
     "level": 17,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4437,10 +3059,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "雷"
-      ],
+      "have": ["火", "雷"],
       "optional": [],
       "max": 4,
       "min": 0
@@ -4458,20 +3077,14 @@
       "防御力アップ・小 / 攻撃力アップ・小 / 素早さアップ・小 / 全能力アップ・小",
       "体力一時増強・小"
     ],
-    "effectsNotInFrame": [
-      "CC -1",
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1", "品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "百薬煎じ": {
     "name": "百薬煎じ",
     "level": 13,
     "categories": {
-      "have": [
-        "(薬品)"
-      ],
+      "have": ["(薬品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4480,11 +3093,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "氷",
-        "風"
-      ],
+      "have": ["火", "氷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
@@ -4502,10 +3111,7 @@
       "ブレイク値回復・小/中/大/超",
       "戦闘不能を回復・微/小"
     ],
-    "effectsNotInFrame": [
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ハチミツ": "清水の白姫"
     }
@@ -4514,9 +3120,7 @@
     "name": "ゆらぎの毒煙",
     "level": 19,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4525,10 +3129,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "雷",
-        "風"
-      ],
+      "have": ["雷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -4547,11 +3148,7 @@
       "防御力ダウン・小/中/大",
       "火に弱くなる"
     ],
-    "effectsNotInFrame": [
-      "CC -1",
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1", "品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "イバラの抱擁": "ポイズンキューブ"
     }
@@ -4560,9 +3157,7 @@
     "name": "神秘の羽衣",
     "level": 29,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4571,10 +3166,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -4593,20 +3185,14 @@
       "ブレイク値加算・大/中/小 / ブレイク値回復・小",
       "会心確率アップ・小/中/大"
     ],
-    "effectsNotInFrame": [
-      "CC -1～-2",
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1～-2", "品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "妖薬エボニアル": {
     "name": "妖薬エボニアル",
     "level": 33,
     "categories": {
-      "have": [
-        "(薬品)"
-      ],
+      "have": ["(薬品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4615,10 +3201,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -4637,11 +3220,7 @@
       "体力一時増強・小/中/大",
       "防御力ダウン・中/小 / 素早さアップ・小/中"
     ],
-    "effectsNotInFrame": [
-      "CC -1",
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["CC -1", "品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ウォーパウダー": "禁忌の雫"
     }
@@ -4650,9 +3229,7 @@
     "name": "ヒロイックガイスト",
     "level": 42,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4661,11 +3238,7 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "火",
-        "雷",
-        "風"
-      ],
+      "have": ["火", "雷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -4698,9 +3271,7 @@
     "name": "時空の天文時計",
     "level": 44,
     "categories": {
-      "have": [
-        "(魔法の道具)"
-      ],
+      "have": ["(魔法の道具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -4709,10 +3280,7 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -4744,13 +3312,8 @@
     "name": "草刈り鎌",
     "level": 4,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
-      "optional": [
-        "(鉱石)",
-        "(雑貨)"
-      ]
+      "have": ["(採取)"],
+      "optional": ["(鉱石)", "(雑貨)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -4758,29 +3321,19 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "大きな骨",
-      "研磨剤",
-      "(金属)",
-      "(木材)"
-    ],
+    "sourceItems": ["大きな骨", "研磨剤", "(金属)", "(木材)"],
     "effectsInFrame": [
       "草を刈る",
       "採取量アップ・小/中/大",
       "(鉱石)付与",
       "(雑貨)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "インゴット": "大きな骨"
     }
@@ -4789,13 +3342,8 @@
     "name": "薪割り斧",
     "level": 5,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
-      "optional": [
-        "(木材)",
-        "(気体)"
-      ]
+      "have": ["(採取)"],
+      "optional": ["(木材)", "(気体)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -4803,42 +3351,27 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "アイヒェ",
-      "研磨剤",
-      "(金属)",
-      "(燃料)"
-    ],
+    "sourceItems": ["アイヒェ", "研磨剤", "(金属)", "(燃料)"],
     "effectsInFrame": [
       "木を切る",
       "採取量アップ・小/中/大",
       "(木材)付与",
       "(気体)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "ハンマー": {
     "name": "ハンマー",
     "level": 13,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
-      "optional": [
-        "(木材)",
-        "(石材)"
-      ]
+      "have": ["(採取)"],
+      "optional": ["(木材)", "(石材)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -4846,42 +3379,27 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "白霊岩",
-      "丈夫な丸太",
-      "風化した石材",
-      "(神秘の力)"
-    ],
+    "sourceItems": ["白霊岩", "丈夫な丸太", "風化した石材", "(神秘の力)"],
     "effectsInFrame": [
       "砕いて採る",
       "採取量アップ・小/中/大",
       "(木材)付与",
       "(石材)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "フラムロッド": {
     "name": "フラムロッド",
     "level": 28,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
-      "optional": [
-        "(原石)",
-        "(神秘の力)"
-      ]
+      "have": ["(採取)"],
+      "optional": ["(原石)", "(神秘の力)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -4889,43 +3407,27 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "聖樹の大枝",
-      "フラム",
-      "(宝石)",
-      "(火薬)"
-    ],
+    "sourceItems": ["聖樹の大枝", "フラム", "(宝石)", "(火薬)"],
     "effectsInFrame": [
       "爆破して採る",
       "採取量アップ・小/中/大",
       "(原石)付与",
       "(神秘の力)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "釣り竿": {
     "name": "釣り竿",
     "level": 10,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
-      "optional": [
-        "(糸素材)",
-        "(虫)"
-      ]
+      "have": ["(採取)"],
+      "optional": ["(糸素材)", "(虫)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -4933,42 +3435,27 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "おいしい練り餌",
-      "錬金繊維",
-      "(木材)",
-      "(虫)"
-    ],
+    "sourceItems": ["おいしい練り餌", "錬金繊維", "(木材)", "(虫)"],
     "effectsInFrame": [
       "魚が釣れる",
       "採取量アップ・小/中/大",
       "(糸素材)付与",
       "(虫)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "虫取り網": {
     "name": "虫取り網",
     "level": 14,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
-      "optional": [
-        "(糸素材)",
-        "(燃料)"
-      ]
+      "have": ["(採取)"],
+      "optional": ["(糸素材)", "(燃料)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -4976,41 +3463,27 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "風"
-      ],
+      "have": ["風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "香る蜜木",
-      "錬金繊維",
-      "(木材)",
-      "(気体)"
-    ],
+    "sourceItems": ["香る蜜木", "錬金繊維", "(木材)", "(気体)"],
     "effectsInFrame": [
       "虫が採れる",
       "採取量アップ・小/中/大",
       "(糸素材)付与",
       "(燃料)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～40",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～40", "特性枠を1枠～3枠追加"],
     "baseRecipes": {}
   },
   "コンパス": {
     "name": "コンパス",
     "level": 12,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
-      "optional": [
-        "(金属)"
-      ]
+      "have": ["(採取)"],
+      "optional": ["(金属)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -5018,9 +3491,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -5031,16 +3502,8 @@
       "スピリットフラワー",
       "(神秘の力)"
     ],
-    "effectsInFrame": [
-      "魔物を探す",
-      "宝を探す",
-      "影響拡大+1",
-      "(金属)付与"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～90",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsInFrame": ["魔物を探す", "宝を探す", "影響拡大+1", "(金属)付与"],
+    "effectsNotInFrame": ["品質 +10～90", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ブロンズアイゼン": "魔導書の切れ端"
     }
@@ -5049,9 +3512,7 @@
     "name": "風の精の靴",
     "level": 25,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
+      "have": ["(採取)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5060,10 +3521,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -5075,15 +3533,8 @@
       "(ぷにぷに)",
       "トライホーン"
     ],
-    "effectsInFrame": [
-      "移動速度アップ・小/中/大",
-      "軽快に跳ぶ",
-      "風に乗る"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～90",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsInFrame": ["移動速度アップ・小/中/大", "軽快に跳ぶ", "風に乗る"],
+    "effectsNotInFrame": ["品質 +10～90", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ソーサリーローズ": "精霊の小瓶"
     }
@@ -5092,9 +3543,7 @@
     "name": "探索リュック",
     "level": 19,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
+      "have": ["(採取)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5103,9 +3552,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -5117,13 +3564,8 @@
       "(神秘の力)",
       "ぷにぷに玉・金"
     ],
-    "effectsInFrame": [
-      "カゴ容量アップ・小/中/大/超"
-    ],
-    "effectsNotInFrame": [
-      "品質 +10～90",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsInFrame": ["カゴ容量アップ・小/中/大/超"],
+    "effectsNotInFrame": ["品質 +10～90", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ビーストエア": "アルケミーペイント"
     }
@@ -5132,9 +3574,7 @@
     "name": "幻視ルーペ",
     "level": 40,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
+      "have": ["(採取)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5143,10 +3583,7 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "火",
-        "氷"
-      ],
+      "have": ["火", "氷"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -5164,10 +3601,7 @@
       "特性Lvアップ・小/中/大/超",
       "素材を見分ける"
     ],
-    "effectsNotInFrame": [
-      "品質 +50",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +50", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ガラスの花": "セイントダイヤ"
     }
@@ -5176,12 +3610,8 @@
     "name": "鎌斧",
     "level": 15,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
-      "optional": [
-        "(金属)"
-      ]
+      "have": ["(採取)"],
+      "optional": ["(金属)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -5189,10 +3619,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 4,
       "min": 0
@@ -5211,10 +3638,7 @@
       "採取量アップ・小/中/大",
       "(金属)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～130",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～130", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "草刈り鎌": "薪割り斧"
     }
@@ -5223,12 +3647,8 @@
     "name": "フラムハンマー",
     "level": 36,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
-      "optional": [
-        "(火薬)"
-      ]
+      "have": ["(採取)"],
+      "optional": ["(火薬)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -5236,10 +3656,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -5258,10 +3675,7 @@
       "採取量アップ・小/中/大",
       "(火薬)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～130",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～130", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "ハンマー": "フラムロッド"
     }
@@ -5270,12 +3684,8 @@
     "name": "釣り竿網",
     "level": 22,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
-      "optional": [
-        "(糸素材)"
-      ]
+      "have": ["(採取)"],
+      "optional": ["(糸素材)"]
     },
     "createdNumbers": 1,
     "injectedNumbers": {
@@ -5283,10 +3693,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
@@ -5305,10 +3712,7 @@
       "採取量アップ・小/中/大",
       "(糸素材)付与"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～170",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～170", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "釣り竿": "虫取り網"
     }
@@ -5317,9 +3721,7 @@
     "name": "ルーペ付きコンパス",
     "level": 45,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
+      "have": ["(採取)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5328,11 +3730,7 @@
       "min": 4
     },
     "elements": {
-      "have": [
-        "火",
-        "氷",
-        "雷"
-      ],
+      "have": ["火", "氷", "雷"],
       "optional": [],
       "max": 4,
       "min": 0
@@ -5352,10 +3750,7 @@
       "魔物と宝を探す",
       "素材を見分ける"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～115",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～115", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "コンパス": "幻視ルーペ"
     }
@@ -5364,9 +3759,7 @@
     "name": "探検セット",
     "level": 32,
     "categories": {
-      "have": [
-        "(採取)"
-      ],
+      "have": ["(採取)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5375,11 +3768,7 @@
       "min": 3
     },
     "elements": {
-      "have": [
-        "火",
-        "雷",
-        "風"
-      ],
+      "have": ["火", "雷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
@@ -5399,10 +3788,7 @@
       "軽快に跳ぶ",
       "風に乗る"
     ],
-    "effectsNotInFrame": [
-      "品質 +10～115",
-      "特性枠を1枠～3枠追加"
-    ],
+    "effectsNotInFrame": ["品質 +10～115", "特性枠を1枠～3枠追加"],
     "baseRecipes": {
       "探索リュック": "風の精の靴"
     }
@@ -5411,9 +3797,7 @@
     "name": "お手製の杖・改",
     "level": 4,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5422,22 +3806,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "インゴット",
-      "(インゴット)",
-      "(木材)",
-      "(動物素材)"
-    ],
-    "effectsInFrame": [
-      "小さな旅人・小/中/大/超"
-    ],
+    "sourceItems": ["インゴット", "(インゴット)", "(木材)", "(動物素材)"],
+    "effectsInFrame": ["小さな旅人・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1",
       "サポーターLv +1",
@@ -5450,9 +3825,7 @@
     "name": "ヘリオプロクス",
     "level": 10,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5461,9 +3834,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -5474,9 +3845,7 @@
       "(インゴット)",
       "(神秘の力)"
     ],
-    "effectsInFrame": [
-      "日輪の灯・小/中/大/超"
-    ],
+    "effectsInFrame": ["日輪の灯・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1",
       "ディフェンダーLv +1",
@@ -5491,9 +3860,7 @@
     "name": "グリムクォーツ",
     "level": 19,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5502,23 +3869,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "スタルチウム",
-      "洞窟サンゴ",
-      "(インゴット)",
-      "(宝石)"
-    ],
-    "effectsInFrame": [
-      "輝く魔力・小/中/大/超"
-    ],
+    "sourceItems": ["スタルチウム", "洞窟サンゴ", "(インゴット)", "(宝石)"],
+    "effectsInFrame": ["輝く魔力・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～3",
       "品質 +10～105",
@@ -5532,9 +3889,7 @@
     "name": "ルーニックコード",
     "level": 35,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5543,10 +3898,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -5557,9 +3909,7 @@
       "(インゴット)",
       "(エリキシル)"
     ],
-    "effectsInFrame": [
-      "失われた魔術・小/中/大/超"
-    ],
+    "effectsInFrame": ["失われた魔術・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～2",
       "ディフェンダーLv +1～2",
@@ -5574,9 +3924,7 @@
     "name": "セレスティアシーカー",
     "level": 43,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5585,10 +3933,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "雷"
-      ],
+      "have": ["火", "雷"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -5599,9 +3944,7 @@
       "(インゴット)",
       "(神秘の力)"
     ],
-    "effectsInFrame": [
-      "天の探求者・小/中/大/超"
-    ],
+    "effectsInFrame": ["天の探求者・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～3",
       "サポーターLv +1～2",
@@ -5616,9 +3959,7 @@
     "name": "練習用の長笛",
     "level": 6,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5627,22 +3968,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "風"
-      ],
+      "have": ["風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "インゴット",
-      "(インゴット)",
-      "(鉱石)",
-      "(花)"
-    ],
-    "effectsInFrame": [
-      "見習い奏者・小/中/大/超"
-    ],
+    "sourceItems": ["インゴット", "(インゴット)", "(鉱石)", "(花)"],
+    "effectsInFrame": ["見習い奏者・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1",
       "サポーターLv +1",
@@ -5655,9 +3987,7 @@
     "name": "クレプスクルン",
     "level": 11,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5666,22 +3996,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "ブロンズアイゼン",
-      "若木の枝葉",
-      "(インゴット)",
-      "(気体)"
-    ],
-    "effectsInFrame": [
-      "夕暮れの余韻・小/中/大/超"
-    ],
+    "sourceItems": ["ブロンズアイゼン", "若木の枝葉", "(インゴット)", "(気体)"],
+    "effectsInFrame": ["夕暮れの余韻・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1",
       "サポーターLv +1",
@@ -5696,9 +4017,7 @@
     "name": "イノセントスノウ",
     "level": 20,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5707,23 +4026,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷",
-        "風"
-      ],
+      "have": ["雷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "スタルチウム",
-      "パールクリスタル",
-      "(インゴット)",
-      "(水)"
-    ],
-    "effectsInFrame": [
-      "純白の氷・小/中/大/超"
-    ],
+    "sourceItems": ["スタルチウム", "パールクリスタル", "(インゴット)", "(水)"],
+    "effectsInFrame": ["純白の氷・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1",
       "サポーターLv +1～2",
@@ -5738,9 +4047,7 @@
     "name": "コンサートミストレス",
     "level": 36,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5749,23 +4056,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "氷"
-      ],
+      "have": ["火", "氷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "クリミネア",
-      "ガラスの花",
-      "(インゴット)",
-      "(虫)"
-    ],
-    "effectsInFrame": [
-      "ソロパート・小/中/大/超"
-    ],
+    "sourceItems": ["クリミネア", "ガラスの花", "(インゴット)", "(虫)"],
+    "effectsInFrame": ["ソロパート・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～2",
       "ディフェンダーLv +1～2",
@@ -5780,9 +4077,7 @@
     "name": "エセリアルトーン",
     "level": 45,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5791,10 +4086,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -5805,9 +4097,7 @@
       "(インゴット)",
       "(気体)"
     ],
-    "effectsInFrame": [
-      "冠たる音色・小/中/大/超"
-    ],
+    "effectsInFrame": ["冠たる音色・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～2",
       "サポーターLv +1～3",
@@ -5822,9 +4112,7 @@
     "name": "使い古した剣",
     "level": 5,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5833,22 +4121,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "インゴット",
-      "(インゴット)",
-      "(動物素材)",
-      "(魚介類)"
-    ],
-    "effectsInFrame": [
-      "傭兵の技・小/中/大/超"
-    ],
+    "sourceItems": ["インゴット", "(インゴット)", "(動物素材)", "(魚介類)"],
+    "effectsInFrame": ["傭兵の技・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1",
       "ディフェンダーLv +1",
@@ -5861,9 +4140,7 @@
     "name": "コロッサルエッジ",
     "level": 8,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5872,9 +4149,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -5885,9 +4160,7 @@
       "(インゴット)",
       "(火薬)"
     ],
-    "effectsInFrame": [
-      "重厚な大剣・小/中/大/超"
-    ],
+    "effectsInFrame": ["重厚な大剣・小/中/大/超"],
     "effectsNotInFrame": [
       "ディフェンダーLv +1～2",
       "品質 +10～60",
@@ -5901,9 +4174,7 @@
     "name": "イニシエーター",
     "level": 17,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5912,10 +4183,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 4,
       "min": 0
@@ -5926,9 +4194,7 @@
       "(インゴット)",
       "(毒の材料)"
     ],
-    "effectsInFrame": [
-      "一陣の風・小/中/大/超"
-    ],
+    "effectsInFrame": ["一陣の風・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1",
       "サポーターLv +1～2",
@@ -5943,9 +4209,7 @@
     "name": "シュヴァルツラスター",
     "level": 34,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5954,23 +4218,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "クリミネア",
-      "禁忌の雫",
-      "(インゴット)",
-      "(神秘の力)"
-    ],
-    "effectsInFrame": [
-      "悪魔の切っ先・小/中/大/超"
-    ],
+    "sourceItems": ["クリミネア", "禁忌の雫", "(インゴット)", "(神秘の力)"],
+    "effectsInFrame": ["悪魔の切っ先・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～4",
       "品質 +10～65",
@@ -5984,9 +4238,7 @@
     "name": "ロードガーディアン",
     "level": 42,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -5995,23 +4247,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "雷"
-      ],
+      "have": ["火", "雷"],
       "optional": [],
       "max": 6,
       "min": 2
     },
-    "sourceItems": [
-      "ゴルドテリオン",
-      "聖なる雫",
-      "(インゴット)",
-      "(宝石)"
-    ],
-    "effectsInFrame": [
-      "全てを守る者・小/中/大/超"
-    ],
+    "sourceItems": ["ゴルドテリオン", "聖なる雫", "(インゴット)", "(宝石)"],
+    "effectsInFrame": ["全てを守る者・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～2",
       "ディフェンダーLv +1～3",
@@ -6026,9 +4268,7 @@
     "name": "杭打ちハンマー",
     "level": 4,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6037,22 +4277,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "インゴット",
-      "(インゴット)",
-      "(木の実)",
-      "(石材)"
-    ],
-    "effectsInFrame": [
-      "パワーライズ・小/中/大/超"
-    ],
+    "sourceItems": ["インゴット", "(インゴット)", "(木の実)", "(石材)"],
+    "effectsInFrame": ["パワーライズ・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～2",
       "品質 +10～60",
@@ -6064,9 +4295,7 @@
     "name": "クレアエンパシー",
     "level": 9,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6075,9 +4304,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "風"
-      ],
+      "have": ["風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -6088,9 +4315,7 @@
       "(インゴット)",
       "(神秘の力)"
     ],
-    "effectsInFrame": [
-      "共感力・小/中/大/超"
-    ],
+    "effectsInFrame": ["共感力・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1",
       "ディフェンダーLv +1",
@@ -6105,9 +4330,7 @@
     "name": "デストルクシオン",
     "level": 21,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6116,23 +4339,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "氷"
-      ],
+      "have": ["火", "氷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "スタルチウム",
-      "琥珀の欠片",
-      "(インゴット)",
-      "(魚介類)"
-    ],
-    "effectsInFrame": [
-      "破壊の一撃・小/中/大/超"
-    ],
+    "sourceItems": ["スタルチウム", "琥珀の欠片", "(インゴット)", "(魚介類)"],
+    "effectsInFrame": ["破壊の一撃・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～3",
       "品質 +10～105",
@@ -6146,9 +4359,7 @@
     "name": "聖鎚・雨坤波更",
     "level": 35,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6157,23 +4368,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "クリミネア",
-      "巨獣の化石",
-      "(インゴット)",
-      "(宝石)"
-    ],
-    "effectsInFrame": [
-      "神の怒り・小/中/大/超"
-    ],
+    "sourceItems": ["クリミネア", "巨獣の化石", "(インゴット)", "(宝石)"],
+    "effectsInFrame": ["神の怒り・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～2",
       "サポーターLv +1～2",
@@ -6188,9 +4389,7 @@
     "name": "ブレイブエンブレム",
     "level": 47,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6199,24 +4398,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷",
-        "風"
-      ],
+      "have": ["氷", "雷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "ゴルドテリオン",
-      "蒼炎の種火",
-      "(インゴット)",
-      "(竜素材)"
-    ],
-    "effectsInFrame": [
-      "勇者の証・小/中/大/超"
-    ],
+    "sourceItems": ["ゴルドテリオン", "蒼炎の種火", "(インゴット)", "(竜素材)"],
+    "effectsInFrame": ["勇者の証・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～3",
       "ディフェンダーLv +1～2",
@@ -6231,9 +4419,7 @@
     "name": "巡廻の杖",
     "level": 7,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6242,22 +4428,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "インゴット",
-      "(インゴット)",
-      "(木材)",
-      "(気体)"
-    ],
-    "effectsInFrame": [
-      "風の放浪者・小/中/大/超"
-    ],
+    "sourceItems": ["インゴット", "(インゴット)", "(木材)", "(気体)"],
+    "effectsInFrame": ["風の放浪者・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1",
       "サポーターLv +1",
@@ -6270,9 +4447,7 @@
     "name": "森番鐘",
     "level": 12,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6281,22 +4456,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "風"
-      ],
+      "have": ["風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "ブロンズアイゼン",
-      "夜光花",
-      "(インゴット)",
-      "(植物)"
-    ],
-    "effectsInFrame": [
-      "森の番人・小/中/大/超"
-    ],
+    "sourceItems": ["ブロンズアイゼン", "夜光花", "(インゴット)", "(植物)"],
+    "effectsInFrame": ["森の番人・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1",
       "ディフェンダーLv +1",
@@ -6311,9 +4477,7 @@
     "name": "修練の道標",
     "level": 20,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6322,23 +4486,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "スタルチウム",
-      "アンバーライト",
-      "(インゴット)",
-      "(石材)"
-    ],
-    "effectsInFrame": [
-      "精神鍛錬・小/中/大/超"
-    ],
+    "sourceItems": ["スタルチウム", "アンバーライト", "(インゴット)", "(石材)"],
+    "effectsInFrame": ["精神鍛錬・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～2",
       "ディフェンダーLv +1",
@@ -6353,9 +4507,7 @@
     "name": "神霊樹の魔枝",
     "level": 33,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6364,23 +4516,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "クリミネア",
-      "聖樹の大枝",
-      "(インゴット)",
-      "(神秘の力)"
-    ],
-    "effectsInFrame": [
-      "自然の加護・小/中/大/超"
-    ],
+    "sourceItems": ["クリミネア", "聖樹の大枝", "(インゴット)", "(神秘の力)"],
+    "effectsInFrame": ["自然の加護・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～4",
       "品質 +10～65",
@@ -6394,9 +4536,7 @@
     "name": "幽玄なる叡智の杖",
     "level": 44,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6405,10 +4545,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "氷"
-      ],
+      "have": ["火", "氷"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -6419,9 +4556,7 @@
       "(インゴット)",
       "(エリキシル)"
     ],
-    "effectsInFrame": [
-      "真理の導き・小/中/大/超"
-    ],
+    "effectsInFrame": ["真理の導き・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～2",
       "サポーターLv +1～3",
@@ -6436,9 +4571,7 @@
     "name": "鉄鉤",
     "level": 7,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6447,22 +4580,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "風"
-      ],
+      "have": ["風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "インゴット",
-      "(インゴット)",
-      "(原石)",
-      "(魚介類)"
-    ],
-    "effectsInFrame": [
-      "抜群の切れ味・小/中/大/超"
-    ],
+    "sourceItems": ["インゴット", "(インゴット)", "(原石)", "(魚介類)"],
+    "effectsInFrame": ["抜群の切れ味・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～2",
       "品質 +10～60",
@@ -6474,9 +4598,7 @@
     "name": "クリーガーズタロン",
     "level": 13,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6485,22 +4607,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "ブロンズアイゼン",
-      "白霊岩",
-      "(インゴット)",
-      "(魚介類)"
-    ],
-    "effectsInFrame": [
-      "戦士の心得・小/中/大/超"
-    ],
+    "sourceItems": ["ブロンズアイゼン", "白霊岩", "(インゴット)", "(魚介類)"],
+    "effectsInFrame": ["戦士の心得・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1",
       "ディフェンダーLv +1",
@@ -6515,9 +4628,7 @@
     "name": "ヘイルクランチ",
     "level": 18,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6526,10 +4637,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
@@ -6540,9 +4648,7 @@
       "(インゴット)",
       "(毒の材料)"
     ],
-    "effectsInFrame": [
-      "獰猛な牙・小/中/大/超"
-    ],
+    "effectsInFrame": ["獰猛な牙・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～2",
       "サポーターLv +1",
@@ -6557,9 +4663,7 @@
     "name": "風断爪",
     "level": 37,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6568,23 +4672,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷",
-        "風"
-      ],
+      "have": ["雷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "クリミネア",
-      "トライホーン",
-      "(インゴット)",
-      "(竜素材)"
-    ],
-    "effectsInFrame": [
-      "風破りの刃・小/中/大/超"
-    ],
+    "sourceItems": ["クリミネア", "トライホーン", "(インゴット)", "(竜素材)"],
+    "effectsInFrame": ["風破りの刃・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1～4",
       "品質 +10～65",
@@ -6598,9 +4692,7 @@
     "name": "オーレンヘルディン",
     "level": 46,
     "categories": {
-      "have": [
-        "(武器)"
-      ],
+      "have": ["(武器)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6609,10 +4701,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -6623,9 +4712,7 @@
       "(インゴット)",
       "(神秘の力)"
     ],
-    "effectsInFrame": [
-      "エレメントソング・小/中/大/超"
-    ],
+    "effectsInFrame": ["エレメントソング・小/中/大/超"],
     "effectsNotInFrame": [
       "アタッカーLv +1",
       "サポーターLv +1～4",
@@ -6640,9 +4727,7 @@
     "name": "クーケンスウェット",
     "level": 6,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6651,22 +4736,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "クロース",
-      "クーケンフルーツ",
-      "(クロース)",
-      "(糸素材)"
-    ],
-    "effectsInFrame": [
-      "命中率+3%/+5%/+7%"
-    ],
+    "sourceItems": ["クロース", "クーケンフルーツ", "(クロース)", "(糸素材)"],
+    "effectsInFrame": ["命中率+3%/+5%/+7%"],
     "effectsNotInFrame": [
       "防御力 +2～8",
       "アタッカーLv +1",
@@ -6680,9 +4756,7 @@
     "name": "ノーブルチュニック",
     "level": 7,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6691,22 +4765,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "風"
-      ],
+      "have": ["風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "クロース",
-      "七色葡萄",
-      "(クロース)",
-      "(花)"
-    ],
-    "effectsInFrame": [
-      "行動時HP回復・微/小/中"
-    ],
+    "sourceItems": ["クロース", "七色葡萄", "(クロース)", "(花)"],
+    "effectsInFrame": ["行動時HP回復・微/小/中"],
     "effectsNotInFrame": [
       "防御力 +1～4",
       "素早さ +2～8",
@@ -6721,9 +4786,7 @@
     "name": "レザープロテクター",
     "level": 8,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6732,23 +4795,13 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "クロース",
-      "動物の毛皮",
-      "(クロース)",
-      "(動物素材)"
-    ],
-    "effectsInFrame": [
-      "ブレイク耐性+5/+10/+15",
-      "防御力+10"
-    ],
+    "sourceItems": ["クロース", "動物の毛皮", "(クロース)", "(動物素材)"],
+    "effectsInFrame": ["ブレイク耐性+5/+10/+15", "防御力+10"],
     "effectsNotInFrame": [
       "攻撃力 +1～4",
       "防御力 +2～6",
@@ -6762,9 +4815,7 @@
     "name": "チェインベスト",
     "level": 13,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6773,9 +4824,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -6806,9 +4855,7 @@
     "name": "ボルダースケイル",
     "level": 14,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6817,9 +4864,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -6830,10 +4875,7 @@
       "(クロース)",
       "(石材)"
     ],
-    "effectsInFrame": [
-      "ブレイク耐性+5/+10/+15/+20",
-      "会心率+3%/+5%/+7%"
-    ],
+    "effectsInFrame": ["ブレイク耐性+5/+10/+15/+20", "会心率+3%/+5%/+7%"],
     "effectsNotInFrame": [
       "攻撃力 +1～4",
       "防御力 +2～8",
@@ -6850,9 +4892,7 @@
     "name": "レディアントプレート",
     "level": 23,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6861,19 +4901,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "ビーストエア",
-      "ブロンズアイゼン",
-      "(クロース)",
-      "(鉱石)"
-    ],
+    "sourceItems": ["ビーストエア", "ブロンズアイゼン", "(クロース)", "(鉱石)"],
     "effectsInFrame": [
       "信頼の一品・小/中/大",
       "ブレイク耐性+10/+15/+20",
@@ -6893,9 +4926,7 @@
     "name": "スカラーコート",
     "level": 16,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6904,20 +4935,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "ビーストエア",
-      "森の賢人",
-      "(クロース)",
-      "(糸素材)"
-    ],
+    "sourceItems": ["ビーストエア", "森の賢人", "(クロース)", "(糸素材)"],
     "effectsInFrame": [
       "実験用・小/中/大 / 実戦用",
       "ダメージ軽減+3%/+5%/+7%",
@@ -6938,9 +4961,7 @@
     "name": "氷霧の鎧",
     "level": 26,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6949,20 +4970,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "ぷにレザー",
-      "レヘルン",
-      "(クロース)",
-      "(水)"
-    ],
+    "sourceItems": ["ぷにレザー", "レヘルン", "(クロース)", "(水)"],
     "effectsInFrame": [
       "溶けない氷・小/中/大",
       "防御力+10/+15",
@@ -6982,9 +4995,7 @@
     "name": "シャレードルマント",
     "level": 24,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -6993,20 +5004,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "雷"
-      ],
+      "have": ["火", "雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "ぷにレザー",
-      "アンバーライト",
-      "(クロース)",
-      "(薬の材料)"
-    ],
+    "sourceItems": ["ぷにレザー", "アンバーライト", "(クロース)", "(薬の材料)"],
     "effectsInFrame": [
       "逆境に強くなる・小/中/大",
       "HP+10/+20",
@@ -7024,9 +5027,7 @@
     "name": "妖精の羽衣",
     "level": 26,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7035,20 +5036,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷",
-        "風"
-      ],
+      "have": ["雷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "ぷにレザー",
-      "スピリットフラワー",
-      "(クロース)",
-      "(花)"
-    ],
+    "sourceItems": ["ぷにレザー", "スピリットフラワー", "(クロース)", "(花)"],
     "effectsInFrame": [
       "妖精の力・小/中/大 / 大妖精の魔力",
       "素早さ+10/+15",
@@ -7069,9 +5062,7 @@
     "name": "ゴールデンメイル",
     "level": 38,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7080,9 +5071,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -7112,9 +5101,7 @@
     "name": "暗夜のドレス",
     "level": 36,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7123,10 +5110,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
@@ -7156,9 +5140,7 @@
     "name": "フォートレスアーマー",
     "level": 43,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7167,20 +5149,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "氷"
-      ],
+      "have": ["火", "氷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "マスターレザー",
-      "英霊の魂",
-      "(クロース)",
-      "(竜素材)"
-    ],
+    "sourceItems": ["マスターレザー", "英霊の魂", "(クロース)", "(竜素材)"],
     "effectsInFrame": [
       "動かない要塞・小/中/大",
       "傷一つない / 傷一つつかない",
@@ -7200,9 +5174,7 @@
     "name": "智者のクローク",
     "level": 46,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7211,20 +5183,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 6,
       "min": 2
     },
-    "sourceItems": [
-      "マスターレザー",
-      "竜眼",
-      "(クロース)",
-      "(エリキシル)"
-    ],
+    "sourceItems": ["マスターレザー", "竜眼", "(クロース)", "(エリキシル)"],
     "effectsInFrame": [
       "冴えわたる頭・小/中/大",
       "万物の知識・小/中/大",
@@ -7245,9 +5209,7 @@
     "name": "魔殻シュタルクケルン",
     "level": 47,
     "categories": {
-      "have": [
-        "(防具)"
-      ],
+      "have": ["(防具)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7256,20 +5218,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 6,
       "min": 2
     },
-    "sourceItems": [
-      "エルドロコード",
-      "甲獣の霊鎧",
-      "(クロース)",
-      "(竜素材)"
-    ],
+    "sourceItems": ["エルドロコード", "甲獣の霊鎧", "(クロース)", "(竜素材)"],
     "effectsInFrame": [
       "常闇の力・小/中/大",
       "強固な外殻・小/中/大 / 無敵の外殻",
@@ -7292,9 +5246,7 @@
     "name": "エナジーペンダント",
     "level": 8,
     "categories": {
-      "have": [
-        "(装飾品)"
-      ],
+      "have": ["(装飾品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7303,19 +5255,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "正体不明の原石",
-      "(原石)",
-      "(金属)",
-      "(神秘の力)"
-    ],
+    "sourceItems": ["正体不明の原石", "(原石)", "(金属)", "(神秘の力)"],
     "effectsInFrame": [
       "HP+10/+20/+30",
       "スキル強化+3%/+5%/+7%",
@@ -7336,9 +5281,7 @@
     "name": "グナーデリング",
     "level": 11,
     "categories": {
-      "have": [
-        "(装飾品)"
-      ],
+      "have": ["(装飾品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7347,19 +5290,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "ブロンズアイゼン",
-      "研磨剤",
-      "(宝石)",
-      "(神秘の力)"
-    ],
+    "sourceItems": ["ブロンズアイゼン", "研磨剤", "(宝石)", "(神秘の力)"],
     "effectsInFrame": [
       "力の刻印・小/中/大 / 豪傑の紋章",
       "守りの刻印・小/中/大 / 堅牢の紋章",
@@ -7380,9 +5316,7 @@
     "name": "焔雪の耳飾り",
     "level": 20,
     "categories": {
-      "have": [
-        "(装飾品)"
-      ],
+      "have": ["(装飾品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7391,20 +5325,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "氷"
-      ],
+      "have": ["火", "氷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "リバーストン・蒼炎",
-      "研磨剤",
-      "(原石)",
-      "(金属)"
-    ],
+    "sourceItems": ["リバーストン・蒼炎", "研磨剤", "(原石)", "(金属)"],
     "effectsInFrame": [
       "火耐性アップ / 火耐性アップ+",
       "氷耐性アップ / 氷耐性アップ+",
@@ -7425,9 +5351,7 @@
     "name": "雷嵐の耳飾り",
     "level": 18,
     "categories": {
-      "have": [
-        "(装飾品)"
-      ],
+      "have": ["(装飾品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7436,20 +5360,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷",
-        "風"
-      ],
+      "have": ["雷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "リバーストン",
-      "研磨剤",
-      "(原石)",
-      "(金属)"
-    ],
+    "sourceItems": ["リバーストン", "研磨剤", "(原石)", "(金属)"],
     "effectsInFrame": [
       "雷耐性アップ / 雷耐性アップ+",
       "風耐性アップ / 風耐性アップ+",
@@ -7467,9 +5383,7 @@
     "name": "退魔のブローチ",
     "level": 24,
     "categories": {
-      "have": [
-        "(装飾品)"
-      ],
+      "have": ["(装飾品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7478,19 +5392,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "聖石の欠片",
-      "ホーリーナット",
-      "(薬の材料)",
-      "(糸素材)"
-    ],
+    "sourceItems": ["聖石の欠片", "ホーリーナット", "(薬の材料)", "(糸素材)"],
     "effectsInFrame": [
       "魔物を退ける・小/中/大",
       "ブレイク耐性+5/+10/+15",
@@ -7512,9 +5419,7 @@
     "name": "クォーツネックレス",
     "level": 26,
     "categories": {
-      "have": [
-        "(装飾品)"
-      ],
+      "have": ["(装飾品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7523,19 +5428,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷"
-      ],
+      "have": ["氷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "魔獣の鱗",
-      "アンバーライト",
-      "(砂)",
-      "(燃料)"
-    ],
+    "sourceItems": ["魔獣の鱗", "アンバーライト", "(砂)", "(燃料)"],
     "effectsInFrame": [
       "親愛の証・小/中/大",
       "状態異常耐性+5%/+7%/+10%",
@@ -7557,9 +5455,7 @@
     "name": "ヒートアップバングル",
     "level": 32,
     "categories": {
-      "have": [
-        "(装飾品)"
-      ],
+      "have": ["(装飾品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7568,20 +5464,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火",
-        "雷"
-      ],
+      "have": ["火", "雷"],
       "optional": [],
       "max": 4,
       "min": 0
     },
-    "sourceItems": [
-      "英霊の魂",
-      "スピリナイト",
-      "(金属)",
-      "(燃料)"
-    ],
+    "sourceItems": ["英霊の魂", "スピリナイト", "(金属)", "(燃料)"],
     "effectsInFrame": [
       "燃え上がる心・小/中/大 / 燃え上がる魂",
       "命中率+5%/+7%/+10%",
@@ -7604,9 +5492,7 @@
     "name": "神速のブーツ",
     "level": 40,
     "categories": {
-      "have": [
-        "(装飾品)"
-      ],
+      "have": ["(装飾品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7615,10 +5501,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷",
-        "風"
-      ],
+      "have": ["雷", "風"],
       "optional": [],
       "max": 4,
       "min": 0
@@ -7648,9 +5531,7 @@
     "name": "渡り鳥のお守り",
     "level": 36,
     "categories": {
-      "have": [
-        "(装飾品)"
-      ],
+      "have": ["(装飾品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7659,20 +5540,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "翼竜の翼",
-      "マダラ石",
-      "(木の実)",
-      "(神秘の力)"
-    ],
+    "sourceItems": ["翼竜の翼", "マダラ石", "(木の実)", "(神秘の力)"],
     "effectsInFrame": [
       "安全祈願・小/中/大",
       "アイテム強化+5%/+7%/+10%",
@@ -7693,9 +5566,7 @@
     "name": "魔石のチェイン",
     "level": 39,
     "categories": {
-      "have": [
-        "(装飾品)"
-      ],
+      "have": ["(装飾品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7704,19 +5575,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "雷"
-      ],
+      "have": ["雷"],
       "optional": [],
       "max": 6,
       "min": 2
     },
-    "sourceItems": [
-      "永遠結晶",
-      "セイントダイヤ",
-      "(火薬)",
-      "(竜素材)"
-    ],
+    "sourceItems": ["永遠結晶", "セイントダイヤ", "(火薬)", "(竜素材)"],
     "effectsInFrame": [
       "繋がる絆・小/中/大",
       "強固な鎖",
@@ -7738,9 +5602,7 @@
     "name": "バロンズクラウン",
     "level": 45,
     "categories": {
-      "have": [
-        "(装飾品)"
-      ],
+      "have": ["(装飾品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7749,19 +5611,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "火"
-      ],
+      "have": ["火"],
       "optional": [],
       "max": 6,
       "min": 2
     },
-    "sourceItems": [
-      "ゴールデンクラウン",
-      "ゴルドテリオン",
-      "(金属)",
-      "(宝石)"
-    ],
+    "sourceItems": ["ゴールデンクラウン", "ゴルドテリオン", "(金属)", "(宝石)"],
     "effectsInFrame": [
       "貴族の矜持・小/中/大",
       "皆がひれ伏す",
@@ -7784,9 +5639,7 @@
     "name": "エリキシルリング",
     "level": 50,
     "categories": {
-      "have": [
-        "(装飾品)"
-      ],
+      "have": ["(装飾品)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7795,10 +5648,7 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 6,
       "min": 2
@@ -7832,9 +5682,7 @@
     "name": "ピオニールの鍵",
     "level": 39,
     "categories": {
-      "have": [
-        "(重要)"
-      ],
+      "have": ["(重要)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7843,18 +5691,12 @@
       "min": 2
     },
     "elements": {
-      "have": [
-        "氷",
-        "雷"
-      ],
+      "have": ["氷", "雷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "古びたピオニールの鍵",
-      "聖なる雫"
-    ],
+    "sourceItems": ["古びたピオニールの鍵", "聖なる雫"],
     "effectsInFrame": [],
     "effectsNotInFrame": [],
     "baseRecipes": {}
@@ -7863,9 +5705,7 @@
     "name": "真紅の輝石",
     "level": 50,
     "categories": {
-      "have": [
-        "(重要)"
-      ],
+      "have": ["(重要)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7874,19 +5714,12 @@
       "min": 1
     },
     "elements": {
-      "have": [
-        "火",
-        "氷",
-        "雷",
-        "風"
-      ],
+      "have": ["火", "氷", "雷", "風"],
       "optional": [],
       "max": 8,
       "min": 4
     },
-    "sourceItems": [
-      "女王の遺産"
-    ],
+    "sourceItems": ["女王の遺産"],
     "effectsInFrame": [],
     "effectsNotInFrame": [],
     "baseRecipes": {
@@ -7897,9 +5730,7 @@
     "name": "リゾートウッドチップ",
     "level": 20,
     "categories": {
-      "have": [
-        "(重要)"
-      ],
+      "have": ["(重要)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7908,17 +5739,12 @@
       "min": 1
     },
     "elements": {
-      "have": [
-        "火",
-        "風"
-      ],
+      "have": ["火", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "ソレユの実"
-    ],
+    "sourceItems": ["ソレユの実"],
     "effectsInFrame": [],
     "effectsNotInFrame": [],
     "baseRecipes": {
@@ -7929,9 +5755,7 @@
     "name": "質素な材木",
     "level": 26,
     "categories": {
-      "have": [
-        "(重要)"
-      ],
+      "have": ["(重要)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7940,17 +5764,12 @@
       "min": 1
     },
     "elements": {
-      "have": [
-        "火",
-        "雷"
-      ],
+      "have": ["火", "雷"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "グリズリーウッド"
-    ],
+    "sourceItems": ["グリズリーウッド"],
     "effectsInFrame": [],
     "effectsNotInFrame": [],
     "baseRecipes": {
@@ -7961,9 +5780,7 @@
     "name": "匠の塗料",
     "level": 21,
     "categories": {
-      "have": [
-        "(重要)"
-      ],
+      "have": ["(重要)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -7972,17 +5789,12 @@
       "min": 1
     },
     "elements": {
-      "have": [
-        "氷",
-        "風"
-      ],
+      "have": ["氷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "アカシア樹脂"
-    ],
+    "sourceItems": ["アカシア樹脂"],
     "effectsInFrame": [],
     "effectsNotInFrame": [],
     "baseRecipes": {
@@ -7993,9 +5805,7 @@
     "name": "王国御用達の床石",
     "level": 37,
     "categories": {
-      "have": [
-        "(重要)"
-      ],
+      "have": ["(重要)"],
       "optional": []
     },
     "createdNumbers": 1,
@@ -8004,17 +5814,12 @@
       "min": 1
     },
     "elements": {
-      "have": [
-        "雷",
-        "風"
-      ],
+      "have": ["雷", "風"],
       "optional": [],
       "max": 5,
       "min": 1
     },
-    "sourceItems": [
-      "水断ち油"
-    ],
+    "sourceItems": ["水断ち油"],
     "effectsInFrame": [],
     "effectsNotInFrame": [],
     "baseRecipes": {
